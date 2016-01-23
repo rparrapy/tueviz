@@ -18,6 +18,11 @@ angular.module('tueVizApp')
     $scope.menu = {};
     $scope.menu.items = [
       {
+        name: "Diseasome",
+        fragment: "/diseasome",
+        avatar: ""
+      },
+      {
         name: "Dummy Viz",
         fragment: "/dummy",
         avatar: ""

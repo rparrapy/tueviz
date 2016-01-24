@@ -120,10 +120,6 @@ md-list .md-button {
 
 /* Primary content area */
 
-#content {
-  overflow: hidden;
-}
-
 #content  {
   padding-left: 40px;
   padding-right: 40px;
@@ -219,4 +215,19 @@ span.name {
 
 .card-media {
   background-color: #999999;
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+svg {
+  margin: auto;
+  display: block;
 }

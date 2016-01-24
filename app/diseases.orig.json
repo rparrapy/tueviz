@@ -1,0 +1,7706 @@
+[
+  {
+    "id": 1,
+    "disease": "17,20-lyase_deficiency",
+    "class": "Endocrine",
+    "genes": "CYP17A1"
+  },
+  {
+    "id": 3,
+    "disease": "2-methyl-3-hydroxybutyryl-CoA_dehydrogenase_deficiency",
+    "class": "Metabolic",
+    "genes": "HADH2"
+  },
+  {
+    "id": 4,
+    "disease": "2-methylbutyrylglycinuria",
+    "class": "Metabolic",
+    "genes": "ACADSB"
+  },
+  {
+    "id": 5,
+    "disease": "3-beta-hydroxysteroid_dehydrogenase,_type_II,_deficiency",
+    "class": "Metabolic",
+    "genes": "HSD3B2"
+  },
+  {
+    "id": 6,
+    "disease": "3-hydroxyacyl-CoA_dehydrogenase_deficiency",
+    "class": "Metabolic",
+    "genes": "HADHSC"
+  },
+  {
+    "id": 7,
+    "disease": "3-Methylcrotonyl-CoA_carboxylase_deficiency",
+    "class": "Metabolic",
+    "genes": "MCCC1, MCCC2"
+  },
+  {
+    "id": 8,
+    "disease": "3-methylglutaconic_aciduria",
+    "class": "Metabolic",
+    "genes": "AUH"
+  },
+  {
+    "id": 9,
+    "disease": "3-methylglutaconicaciduria",
+    "class": "Metabolic",
+    "genes": "OPA3"
+  },
+  {
+    "id": 10,
+    "disease": "3-M_syndrome",
+    "class": "multiple",
+    "genes": "CUL7"
+  },
+  {
+    "id": 12,
+    "disease": "6-mercaptopurine_sensitivity",
+    "class": "Metabolic",
+    "genes": "TPMT"
+  },
+  {
+    "id": 13,
+    "disease": "Aarskog-Scott_syndrome",
+    "class": "multiple",
+    "genes": "FGD1"
+  },
+  {
+    "id": 14,
+    "disease": "Abacavir_hypersensitivity",
+    "class": "Immunological",
+    "genes": "HLA-B"
+  },
+  {
+    "id": 15,
+    "disease": "ABCD_syndrome",
+    "class": "multiple",
+    "genes": "EDNRB"
+  },
+  {
+    "id": 17,
+    "disease": "Abetalipoproteinemia",
+    "class": "Metabolic",
+    "genes": "MTP, APOB"
+  },
+  {
+    "id": 18,
+    "disease": "Acampomelic_campolelic_dysplasia",
+    "class": "Skeletal",
+    "genes": "SOX9"
+  },
+  {
+    "id": 21,
+    "disease": "Acatalasemia",
+    "class": "Hematological",
+    "genes": "CAT"
+  },
+  {
+    "id": 22,
+    "disease": "Accelerated_tumor_formation",
+    "class": "Cancer",
+    "genes": "MDM2"
+  },
+  {
+    "id": 24,
+    "disease": "Achalasia-addisonianism-alacrimia_syndrome",
+    "class": "multiple",
+    "genes": "AAAS"
+  },
+  {
+    "id": 25,
+    "disease": "Acheiropody",
+    "class": "Skeletal",
+    "genes": "LMBR1"
+  },
+  {
+    "id": 26,
+    "disease": "Achondrogenesis-hypochondrogenesis,_type_II",
+    "class": "Bone",
+    "genes": "COL2A1"
+  },
+  {
+    "id": 27,
+    "disease": "Achondrogenesis_Ib",
+    "class": "Bone",
+    "genes": "SLC26A2"
+  },
+  {
+    "id": 28,
+    "disease": "Achondroplasia",
+    "class": "Skeletal",
+    "genes": "FGFR3"
+  },
+  {
+    "id": 29,
+    "disease": "Achromatopsia",
+    "class": "Ophthamological",
+    "genes": "CNGA3, CNGB3, GNAT2"
+  },
+  {
+    "id": 30,
+    "disease": "Acid-labile_subunit,_deficiency_of",
+    "class": "Endocrine",
+    "genes": "IGFALS"
+  },
+  {
+    "id": 31,
+    "disease": "Acquired_long_QT_syndrome",
+    "class": "Cardiovascular",
+    "genes": "KCNH2"
+  },
+  {
+    "id": 32,
+    "disease": "Acrocallosal_syndrome",
+    "class": "multiple",
+    "genes": "GLI3"
+  },
+  {
+    "id": 33,
+    "disease": "Acrocapitofemoral_dysplasia",
+    "class": "Skeletal",
+    "genes": "IHH"
+  },
+  {
+    "id": 34,
+    "disease": "Acrodermatitis_enteropathica",
+    "class": "Dermatological",
+    "genes": "SLC39A4"
+  },
+  {
+    "id": 36,
+    "disease": "Acrokeratosis_verruciformis",
+    "class": "Dermatological",
+    "genes": "ATP2A2"
+  },
+  {
+    "id": 38,
+    "disease": "Acromegaly",
+    "class": "Endocrine",
+    "genes": "GNAS, SSTR5"
+  },
+  {
+    "id": 39,
+    "disease": "Acromesomelic_dysplasia",
+    "class": "Skeletal",
+    "genes": "GDF5, NPR2"
+  },
+  {
+    "id": 44,
+    "disease": "Acyl-CoA_dehydrogenase,_deficiency_of",
+    "class": "Metabolic",
+    "genes": "ACADL, ACADM, ACADS"
+  },
+  {
+    "id": 45,
+    "disease": "Adenocarcinoma",
+    "class": "Cancer",
+    "genes": "EGFR, BRAF, ERBB2, PARK2"
+  },
+  {
+    "id": 46,
+    "disease": "Adenoma,_periampullary",
+    "class": "Cancer",
+    "genes": "APC"
+  },
+  {
+    "id": 47,
+    "disease": "Adenomas",
+    "class": "Cancer",
+    "genes": "MUTYH, PLAG1, APC"
+  },
+  {
+    "id": 49,
+    "disease": "Adenosine_deaminase_deficiency",
+    "class": "Immunological",
+    "genes": "ADA"
+  },
+  {
+    "id": 50,
+    "disease": "Adenylosuccinase_deficiency",
+    "class": "Metabolic",
+    "genes": "ADSL"
+  },
+  {
+    "id": 52,
+    "disease": "Adiponectin_deficiency",
+    "class": "Endocrine",
+    "genes": "ADIPOQ"
+  },
+  {
+    "id": 53,
+    "disease": "Adrenal_hyperplasia,_congenital",
+    "class": "Endocrine",
+    "genes": "CYP11B1, CYP21A2, POR, NR0B1"
+  },
+  {
+    "id": 54,
+    "disease": "Adrenocortical_carcinoma",
+    "class": "Cancer",
+    "genes": "PRKAR1A"
+  },
+  {
+    "id": 55,
+    "disease": "Adrenocorticotropic_hormone_deficiency",
+    "class": "Endocrine",
+    "genes": "TBX19"
+  },
+  {
+    "id": 56,
+    "disease": "Adrenoleukodystrophy",
+    "class": "Neurological",
+    "genes": "ABCD1, PEX10, PEX13, PEX1, PEX26, PEX5"
+  },
+  {
+    "id": 57,
+    "disease": "Adrenomyeloneuropathy",
+    "class": "Metabolic",
+    "genes": "ABCD1"
+  },
+  {
+    "id": 58,
+    "disease": "Adult_i_phenotype",
+    "class": "Hematological",
+    "genes": "GCNT2"
+  },
+  {
+    "id": 59,
+    "disease": "ADULT_syndrome",
+    "class": "multiple",
+    "genes": "TP73L"
+  },
+  {
+    "id": 60,
+    "disease": "Advanced_sleep_phase_syndrome",
+    "class": "Neurological",
+    "genes": "PER2"
+  },
+  {
+    "id": 61,
+    "disease": "Afibrinogenemia",
+    "class": "Hematological",
+    "genes": "FGA, FGB"
+  },
+  {
+    "id": 63,
+    "disease": "Agammaglobulinemia",
+    "class": "Hematological",
+    "genes": "IGHM, IGLL1, LRRC8A, BTK"
+  },
+  {
+    "id": 64,
+    "disease": "AGAT_deficiency",
+    "class": "Metabolic",
+    "genes": "GATM"
+  },
+  {
+    "id": 65,
+    "disease": "Agenesis_of_the_corpus_callosum_with_peripheral_neuropathy",
+    "class": "Neurological",
+    "genes": "SLC12A6"
+  },
+  {
+    "id": 69,
+    "disease": "AICA-ribosiduria_due_to_ATIC_deficiency",
+    "class": "Metabolic",
+    "genes": "ATIC"
+  },
+  {
+    "id": 70,
+    "disease": "AIDS",
+    "class": "Immunological",
+    "genes": "KIR3DL1, IFNG, CXCL12"
+  },
+  {
+    "id": 71,
+    "disease": "Alagille_syndrome",
+    "class": "multiple",
+    "genes": "JAG1"
+  },
+  {
+    "id": 72,
+    "disease": "Albinism",
+    "class": "Dermatological",
+    "genes": "OCA2, TYR, TYRP1"
+  },
+  {
+    "id": 74,
+    "disease": "Alcohol_dependence",
+    "class": "Unclassified",
+    "genes": "HTR2A"
+  },
+  {
+    "id": 75,
+    "disease": "Alcoholism",
+    "class": "Unclassified",
+    "genes": "GABRA2"
+  },
+  {
+    "id": 76,
+    "disease": "Aldolase_A_deficiency",
+    "class": "Metabolic",
+    "genes": "ALDOA"
+  },
+  {
+    "id": 77,
+    "disease": "Aldosterone_to_renin_ratio_raised",
+    "class": "Endocrine",
+    "genes": "CYP11B2"
+  },
+  {
+    "id": 78,
+    "disease": "Aldosteronism",
+    "class": "Endocrine",
+    "genes": "CYP11B1"
+  },
+  {
+    "id": 79,
+    "disease": "Alexander_disease",
+    "class": "multiple",
+    "genes": "GFAP, NDUFV1"
+  },
+  {
+    "id": 80,
+    "disease": "Alkaptonuria",
+    "class": "Metabolic",
+    "genes": "HGD"
+  },
+  {
+    "id": 82,
+    "disease": "Allan-Herndon-Dudley_syndrome",
+    "class": "Neurological",
+    "genes": "SLC16A2"
+  },
+  {
+    "id": 83,
+    "disease": "Allergic_rhinitis",
+    "class": "Immunological",
+    "genes": "IL13"
+  },
+  {
+    "id": 85,
+    "disease": "Alopecia_universalis",
+    "class": "Dermatological",
+    "genes": "HR"
+  },
+  {
+    "id": 86,
+    "disease": "Alpers_syndrome",
+    "class": "Neurological",
+    "genes": "POLG"
+  },
+  {
+    "id": 87,
+    "disease": "Alpha-1-antichymotrypsin_deficiency",
+    "class": "Respiratory",
+    "genes": "SERPINA3"
+  },
+  {
+    "id": 88,
+    "disease": "Alpha-actinin-3_deficiency",
+    "class": "Muscular",
+    "genes": "ACTN3"
+  },
+  {
+    "id": 90,
+    "disease": "Alpha-methylacetoacetic_aciduria",
+    "class": "Metabolic",
+    "genes": "ACAT1"
+  },
+  {
+    "id": 91,
+    "disease": "Alpha-methylacyl-CoA_racemase_deficiency",
+    "class": "Metabolic",
+    "genes": "AMACR"
+  },
+  {
+    "id": 92,
+    "disease": "Alpha-thalassemia/mental_retardation_syndrome",
+    "class": "Hematological",
+    "genes": "ATRX"
+  },
+  {
+    "id": 94,
+    "disease": "Alport_syndrome",
+    "class": "Renal",
+    "genes": "COL4A5, COL4A3, COL4A4"
+  },
+  {
+    "id": 95,
+    "disease": "(null)",
+    "class": "Neurological",
+    "genes": "ALMS1"
+  },
+  {
+    "id": 96,
+    "disease": "Alternating_hemiplegia_of_childhood",
+    "class": "Neurological",
+    "genes": "ATP1A2"
+  },
+  {
+    "id": 97,
+    "disease": "Alveolar_soft-part_sarcoma",
+    "class": "Cancer",
+    "genes": "ASPSCR1"
+  },
+  {
+    "id": 98,
+    "disease": "Alzheimer_disease",
+    "class": "Neurological",
+    "genes": "APP, APOE, PSEN2, APBB2, NOS3, PLAU, ACE, MPO, PAXIP1, A2M, BLMH, PSEN1"
+  },
+  {
+    "id": 99,
+    "disease": "Amelogenesis_imperfecta",
+    "class": "Bone",
+    "genes": "ENAM, AMELX, DLX3, KLK4"
+  },
+  {
+    "id": 100,
+    "disease": "Amish_infantile_epilepsy_syndrome",
+    "class": "Neurological",
+    "genes": "ST3GAL5"
+  },
+  {
+    "id": 101,
+    "disease": "AMP_deaminase_deficiency",
+    "class": "Hematological",
+    "genes": "AMPD3"
+  },
+  {
+    "id": 102,
+    "disease": "Amyloid_neuropathy",
+    "class": "Neurological",
+    "genes": "TTR"
+  },
+  {
+    "id": 103,
+    "disease": "Amyloidosis",
+    "class": "Neurological",
+    "genes": "APOA1, APP, GSN, FGA, LYZ, TTR"
+  },
+  {
+    "id": 104,
+    "disease": "Amyotrophic_lateral_sclerosis",
+    "class": "Neurological",
+    "genes": "VAPB, SOD1, ALS2, DCTN1, NEFH, PRPH"
+  },
+  {
+    "id": 105,
+    "disease": "Analbuminemia",
+    "class": "Hematological",
+    "genes": "ALB"
+  },
+  {
+    "id": 107,
+    "disease": "Analgesia_from_kappa-opioid_receptor_agonist,_female-specific",
+    "class": "Unclassified",
+    "genes": "MC1R"
+  },
+  {
+    "id": 108,
+    "disease": "Anderson_disease",
+    "class": "Gastrointestinal",
+    "genes": "SAR1B"
+  },
+  {
+    "id": 109,
+    "disease": "Androgen_insensitivity",
+    "class": "Endocrine",
+    "genes": "AR"
+  },
+  {
+    "id": 110,
+    "disease": "Anemia",
+    "class": "Hematological",
+    "genes": "CDAN1, RPS19, PKLR, NT5C3, RHAG, SLC11A2, SPTB, ALAS2, ABCB7"
+  },
+  {
+    "id": 113,
+    "disease": "Angelman_syndrome",
+    "class": "Developmental",
+    "genes": "MECP2, UBE3A"
+  },
+  {
+    "id": 114,
+    "disease": "Angioedema",
+    "class": "Immunological",
+    "genes": "SERPING1, XPNPEP2"
+  },
+  {
+    "id": 115,
+    "disease": "Angiofibroma,_sporadic",
+    "class": "Endocrine",
+    "genes": "MEN1"
+  },
+  {
+    "id": 117,
+    "disease": "Angiotensin_I-converting_enzyme",
+    "class": "Endocrine",
+    "genes": "ACE"
+  },
+  {
+    "id": 118,
+    "disease": "Anhaptoglobinemia",
+    "class": "Hematological",
+    "genes": "HP"
+  },
+  {
+    "id": 119,
+    "disease": "Aniridia,_type_II",
+    "class": "Ophthamological",
+    "genes": "PAX6"
+  },
+  {
+    "id": 121,
+    "disease": "Ankylosing_spoldylitis",
+    "class": "Connective_tissue_disorder",
+    "genes": "HLA-B"
+  },
+  {
+    "id": 122,
+    "disease": "Anophthalmia",
+    "class": "Ophthamological",
+    "genes": "SOX2"
+  },
+  {
+    "id": 124,
+    "disease": "Anorexia_nervosa",
+    "class": "Nutritional",
+    "genes": "HTR2A"
+  },
+  {
+    "id": 126,
+    "disease": "Anterior_segment_anomalies_and_cataract",
+    "class": "Ophthamological",
+    "genes": "EYA1, FOXE3, FOXC1, PITX3"
+  },
+  {
+    "id": 127,
+    "disease": "Antithrombin_III_deficiency",
+    "class": "Hematological",
+    "genes": "SERPINC1"
+  },
+  {
+    "id": 128,
+    "disease": "Antley-Bixler_syndrome",
+    "class": "Unclassified",
+    "genes": "POR"
+  },
+  {
+    "id": 129,
+    "disease": "Anxiety-related_personality_traits",
+    "class": "Psychiatric",
+    "genes": "SLC6A4"
+  },
+  {
+    "id": 130,
+    "disease": "Aortic_aneurysm",
+    "class": "Cardiovascular",
+    "genes": "FBN1"
+  },
+  {
+    "id": 131,
+    "disease": "Apert_syndrome",
+    "class": "Connective_tissue_disorder",
+    "genes": "FGFR2"
+  },
+  {
+    "id": 132,
+    "disease": "Aplasia_of_lacrimal_and_salivary_glands",
+    "class": "Gastrointestinal",
+    "genes": "FGF10"
+  },
+  {
+    "id": 133,
+    "disease": "Aplastic_anemia",
+    "class": "Hematological",
+    "genes": "IFNG, TERC, TERT"
+  },
+  {
+    "id": 134,
+    "disease": "Apnea,_postanesthetic",
+    "class": "Unclassified",
+    "genes": "BCHE"
+  },
+  {
+    "id": 136,
+    "disease": "Apolipoprotein_deficiency",
+    "class": "Metabolic",
+    "genes": "APOA1, APOA2, APOC3, APOH"
+  },
+  {
+    "id": 137,
+    "disease": "Apparent_mineralocorticoid_excess,_hypertension_due_to",
+    "class": "Bone",
+    "genes": "HSD11B2"
+  },
+  {
+    "id": 138,
+    "disease": "Aquaporin-1_deficiency",
+    "class": "Unclassified",
+    "genes": "AQP1"
+  },
+  {
+    "id": 139,
+    "disease": "ARC_syndrome",
+    "class": "Gastrointestinal",
+    "genes": "VPS33B"
+  },
+  {
+    "id": 140,
+    "disease": "Argininemia",
+    "class": "Metabolic",
+    "genes": "ARG1, ASL"
+  },
+  {
+    "id": 142,
+    "disease": "Aromatase_deficiency",
+    "class": "Metabolic",
+    "genes": "CYP19A1"
+  },
+  {
+    "id": 143,
+    "disease": "Aromatic_L-amino_acid_decarboxylase_deficiency",
+    "class": "Metabolic",
+    "genes": "DDC"
+  },
+  {
+    "id": 144,
+    "disease": "Arrhythmogenic_right_ventricular_dysplasia",
+    "class": "Cardiovascular",
+    "genes": "RYR2, DSP, PKP2"
+  },
+  {
+    "id": 146,
+    "disease": "Arthrogryposis",
+    "class": "Developmental",
+    "genes": "TPM2, TNNI2, TNNT3"
+  },
+  {
+    "id": 147,
+    "disease": "Arthropathy",
+    "class": "Bone",
+    "genes": "WISP3"
+  },
+  {
+    "id": 150,
+    "disease": "Aspartylglucosaminuria",
+    "class": "Metabolic",
+    "genes": "AGA"
+  },
+  {
+    "id": 151,
+    "disease": "Asperger_syndrome",
+    "class": "Psychiatric",
+    "genes": "NLGN3, NLGN4X"
+  },
+  {
+    "id": 153,
+    "disease": "Asthma",
+    "class": "Respiratory",
+    "genes": "PHF11, MS4A2, ALOX5, ADRB2, PTGDR, GPR154, HNMT, IL12B, IL13, PLA2G7, SCGB3A2, TNF, SCGB1A1"
+  },
+  {
+    "id": 154,
+    "disease": "Ataxia",
+    "class": "Neurological",
+    "genes": "ATCAY, APTX, CACNB4, ALS4, TTPA"
+  },
+  {
+    "id": 157,
+    "disease": "Ataxia-telangiectasia",
+    "class": "Immunological",
+    "genes": "ATM, MRE11A"
+  },
+  {
+    "id": 160,
+    "disease": "Atelosteogenesis",
+    "class": "Connective_tissue_disorder",
+    "genes": "SLC26A2, FLNB"
+  },
+  {
+    "id": 162,
+    "disease": "Athabaskan_brainstem_dysgenesis_syndrome",
+    "class": "Neurological",
+    "genes": "HOXA1"
+  },
+  {
+    "id": 163,
+    "disease": "Atherosclerosis",
+    "class": "Cardiovascular",
+    "genes": "ALOX5"
+  },
+  {
+    "id": 164,
+    "disease": "Atopy",
+    "class": "Immunological",
+    "genes": "SPINK5, HAVCR1, PLA2G7, SELP, IL4R"
+  },
+  {
+    "id": 165,
+    "disease": "Atransferrinemia",
+    "class": "Hematological",
+    "genes": "TF"
+  },
+  {
+    "id": 166,
+    "disease": "Atrial_fibrillation",
+    "class": "Cardiovascular",
+    "genes": "KCNE2, KCNQ1, GATA4, MYH6, NKX2-5"
+  },
+  {
+    "id": 167,
+    "disease": "Atrichia_with_papular_lesions",
+    "class": "Dermatological",
+    "genes": "HR"
+  },
+  {
+    "id": 168,
+    "disease": "Atrioventricular_block",
+    "class": "Cardiovascular",
+    "genes": "NKX2-5, GJA1, CRELD1"
+  },
+  {
+    "id": 171,
+    "disease": "Attention-deficit_hyperactivity_disorder",
+    "class": "Psychiatric",
+    "genes": "DRD5"
+  },
+  {
+    "id": 173,
+    "disease": "Autism",
+    "class": "Psychiatric",
+    "genes": "GLO1, MECP2, NLGN3, NLGN4X"
+  },
+  {
+    "id": 174,
+    "disease": "Autoimmune_disease",
+    "class": "Immunological",
+    "genes": "FAS, CASP10, CASP8, AIRE"
+  },
+  {
+    "id": 175,
+    "disease": "Autonomic_nervous_system_dysfunction",
+    "class": "Psychiatric",
+    "genes": "DRD4"
+  },
+  {
+    "id": 177,
+    "disease": "Axenfeld_anomaly",
+    "class": "Ophthamological",
+    "genes": "FOXC1"
+  },
+  {
+    "id": 178,
+    "disease": "Azoospermia",
+    "class": "Endocrine",
+    "genes": "USP9Y, SYCP3"
+  },
+  {
+    "id": 180,
+    "disease": "Bamforth-Lazarus_syndrome",
+    "class": "Endocrine",
+    "genes": "FOXE1"
+  },
+  {
+    "id": 182,
+    "disease": "Bannayan-Riley-Ruvalcaba_syndrome",
+    "class": "Unclassified",
+    "genes": "PTEN"
+  },
+  {
+    "id": 183,
+    "disease": "Bardet-Biedl_syndrome",
+    "class": "multiple",
+    "genes": "BBS1, ARL6, BBS7, BBS2, BBS4, BBS5, MKKS, TTC8"
+  },
+  {
+    "id": 184,
+    "disease": "Bare_lymphocyte_syndrome",
+    "class": "Immunological",
+    "genes": "TAPBP, TAP2, CIITA, RFX5, RFXAP"
+  },
+  {
+    "id": 185,
+    "disease": "Barth_syndrome",
+    "class": "multiple",
+    "genes": "TAZ"
+  },
+  {
+    "id": 186,
+    "disease": "Bart-Pumphrey_syndrome",
+    "class": "multiple",
+    "genes": "GJB2"
+  },
+  {
+    "id": 187,
+    "disease": "Bartter_syndrome",
+    "class": "multiple",
+    "genes": "SLC12A1, KCNJ1, CLCNKB, BSND, CLCNKA"
+  },
+  {
+    "id": 188,
+    "disease": "Basal_cell_carcinoma",
+    "class": "Cancer",
+    "genes": "RASA1, PTCH2, PTCH, SMO"
+  },
+  {
+    "id": 190,
+    "disease": "B-cell_non-Hodgkin_lymphoma,_high-grade",
+    "class": "Cancer",
+    "genes": "BCL7A"
+  },
+  {
+    "id": 191,
+    "disease": "BCG_infection",
+    "class": "Immunological",
+    "genes": "IFNGR1"
+  },
+  {
+    "id": 192,
+    "disease": "Beare-Stevenson_cutis_gyrata_syndrome",
+    "class": "multiple",
+    "genes": "FGFR2"
+  },
+  {
+    "id": 193,
+    "disease": "Becker_muscular_dystrophy",
+    "class": "Muscular",
+    "genes": "DMD, MYF6"
+  },
+  {
+    "id": 194,
+    "disease": "Beckwith-Wiedemann_syndrome",
+    "class": "multiple",
+    "genes": "CDKN1C, H19, KCNQ1OT1, NSD1"
+  },
+  {
+    "id": 195,
+    "disease": "Benzene_toxicity",
+    "class": "Unclassified",
+    "genes": "NQO1"
+  },
+  {
+    "id": 196,
+    "disease": "Bernard-Soulier_syndrome",
+    "class": "Hematological",
+    "genes": "GP1BA, GP1BB, GP9"
+  },
+  {
+    "id": 197,
+    "disease": "Beryllium_disease,_chronic",
+    "class": "Unclassified",
+    "genes": "HLA-DPB1"
+  },
+  {
+    "id": 198,
+    "disease": "Beta-2-adrenoreceptor_agonist,_reduced_response_to",
+    "class": "Unclassified",
+    "genes": "ADRB2"
+  },
+  {
+    "id": 199,
+    "disease": "Beta-ureidopropionase_deficiency",
+    "class": "Metabolic",
+    "genes": "UPB1"
+  },
+  {
+    "id": 200,
+    "disease": "Bethlem_myopathy",
+    "class": "Muscular",
+    "genes": "COL6A1, COL6A2, COL6A3"
+  },
+  {
+    "id": 201,
+    "disease": "Bietti_crystalline_corneoretinal_dystrophy",
+    "class": "Ophthamological",
+    "genes": "CYP4V2"
+  },
+  {
+    "id": 202,
+    "disease": "Bile_acid_malabsorption,_primary",
+    "class": "Gastrointestinal",
+    "genes": "SLC10A2"
+  },
+  {
+    "id": 203,
+    "disease": "Biotinidase_deficiency",
+    "class": "Metabolic",
+    "genes": "BTD"
+  },
+  {
+    "id": 204,
+    "disease": "Bipolar_disorder",
+    "class": "Psychiatric",
+    "genes": "XBP1"
+  },
+  {
+    "id": 205,
+    "disease": "Birt-Hogg-Dube_syndrome",
+    "class": "Dermatological",
+    "genes": "FLCN"
+  },
+  {
+    "id": 207,
+    "disease": "Bladder_cancer",
+    "class": "Cancer",
+    "genes": "FGFR3, KRAS, RB1, HRAS"
+  },
+  {
+    "id": 208,
+    "disease": "Blau_syndrome",
+    "class": "multiple",
+    "genes": "CARD15"
+  },
+  {
+    "id": 209,
+    "disease": "Bleeding_disorder",
+    "class": "Hematological",
+    "genes": "TBXA2R, P2RX1"
+  },
+  {
+    "id": 210,
+    "disease": "Blepharophimosis,_epicanthus_inversus,_and_ptosis",
+    "class": "multiple",
+    "genes": "FOXL2"
+  },
+  {
+    "id": 211,
+    "disease": "Blepharospasm",
+    "class": "Ophthamological",
+    "genes": "DRD5"
+  },
+  {
+    "id": 212,
+    "disease": "Blood_group",
+    "class": "Hematological",
+    "genes": "ABO, LU, AQP1, DAF, SLC4A1, DO, GYPC, AQP3, GCNT2, CD44, KEL, SLC14A1, CR1, ICAM4, FUT3, GYPA, BSG, A4GALT, B3GALT3, RHCE, GYPB, XG, ACHE"
+  },
+  {
+    "id": 213,
+    "disease": "Bloom_syndrome",
+    "class": "Cancer",
+    "genes": "BLM"
+  },
+  {
+    "id": 214,
+    "disease": "Blue-cone_monochromacy",
+    "class": "Ophthamological",
+    "genes": "OPN1LW, OPN1MW"
+  },
+  {
+    "id": 216,
+    "disease": "Bombay_phenotype",
+    "class": "Hematological",
+    "genes": "FUT1, FUT2"
+  },
+  {
+    "id": 217,
+    "disease": "Bone_mineral_density_variability",
+    "class": "Bone",
+    "genes": "LRP5"
+  },
+  {
+    "id": 218,
+    "disease": "Borjeson-Forssman-Lehmann_syndrome",
+    "class": "multiple",
+    "genes": "PHF6"
+  },
+  {
+    "id": 220,
+    "disease": "Bosley-Salih-Alorainy_syndrome",
+    "class": "Neurological",
+    "genes": "HOXA1"
+  },
+  {
+    "id": 221,
+    "disease": "Bothnia_retinal_dystrophy",
+    "class": "Ophthamological",
+    "genes": "RLBP1"
+  },
+  {
+    "id": 224,
+    "disease": "Brachydactyly",
+    "class": "Skeletal",
+    "genes": "IHH, BMPR1B, ROR2, GDF5, HOXD13"
+  },
+  {
+    "id": 225,
+    "disease": "Bradyopsia",
+    "class": "Ophthamological",
+    "genes": "R9AP, RGS9"
+  },
+  {
+    "id": 226,
+    "disease": "Branchiootic_syndrome",
+    "class": "Neurological",
+    "genes": "EYA1"
+  },
+  {
+    "id": 228,
+    "disease": "Breast_cancer",
+    "class": "Cancer",
+    "genes": "CHEK2, PIK3CA, PPM1D, SLC22A18, TP53, BRCA1, BRCA2, TSG101, BRIP1, RAD54L, CDH1, AR, KRAS, RB1CC1, PHB, ATM, BARD1, RAD51, XRCC3"
+  },
+  {
+    "id": 231,
+    "disease": "Brody_myopathy",
+    "class": "Muscular",
+    "genes": "ATP2A1"
+  },
+  {
+    "id": 233,
+    "disease": "Bruck_syndrome",
+    "class": "Unclassified",
+    "genes": "PLOD2"
+  },
+  {
+    "id": 234,
+    "disease": "Brugada_syndrome",
+    "class": "Cardiovascular",
+    "genes": "SCN5A"
+  },
+  {
+    "id": 235,
+    "disease": "Brunner_syndrome",
+    "class": "Unclassified",
+    "genes": "MAOA"
+  },
+  {
+    "id": 237,
+    "disease": "Burkitt_lymphoma",
+    "class": "Cancer",
+    "genes": "MYC"
+  },
+  {
+    "id": 238,
+    "disease": "Buschke-Ollendorff_syndrome",
+    "class": "multiple",
+    "genes": "LEMD3"
+  },
+  {
+    "id": 239,
+    "disease": "Butterfly_dystrophy,_retinal",
+    "class": "Ophthamological",
+    "genes": "RDS"
+  },
+  {
+    "id": 240,
+    "disease": "Complementary_component_deficiency",
+    "class": "Immunological",
+    "genes": "C1QA, C1QB, C1QG, C1S, C2, IF, C3, C4A, C4B, C6, C7, C8B, C9"
+  },
+  {
+    "id": 252,
+    "disease": "Cafe-au-lait_spots",
+    "class": "Cancer",
+    "genes": "MSH2, MLH1"
+  },
+  {
+    "id": 253,
+    "disease": "Caffey_disease",
+    "class": "Connective_tissue_disorder",
+    "genes": "COL1A1"
+  },
+  {
+    "id": 254,
+    "disease": "Calcinosis,_tumoral",
+    "class": "Bone",
+    "genes": "FGF23, GALNT3"
+  },
+  {
+    "id": 255,
+    "disease": "Campomelic_dysplasia",
+    "class": "Skeletal",
+    "genes": "SOX9"
+  },
+  {
+    "id": 256,
+    "disease": "Camptodactyly-arthropathy-coxa_vara-pericarditis_syndrome",
+    "class": "Skeletal",
+    "genes": "PRG4"
+  },
+  {
+    "id": 257,
+    "disease": "Camurati-Engelmann_disease",
+    "class": "Skeletal",
+    "genes": "TGFB1"
+  },
+  {
+    "id": 258,
+    "disease": "Canavan_disease",
+    "class": "Metabolic",
+    "genes": "ASPA"
+  },
+  {
+    "id": 259,
+    "disease": "Cancer_susceptibility",
+    "class": "Cancer",
+    "genes": "FGFR4, MSH6"
+  },
+  {
+    "id": 261,
+    "disease": "Capillary_malformations",
+    "class": "Cardiovascular",
+    "genes": "RASA1"
+  },
+  {
+    "id": 262,
+    "disease": "Carbamoylphosphate_synthetase_I_deficiency",
+    "class": "Metabolic",
+    "genes": "CPS1"
+  },
+  {
+    "id": 263,
+    "disease": "Carbohydrate-deficient_glycoprotein_syndrome",
+    "class": "Metabolic",
+    "genes": "PMM2, MPI, MGAT2"
+  },
+  {
+    "id": 264,
+    "disease": "Carboxypeptidase_N_deficiency",
+    "class": "Hematological",
+    "genes": "CPN1"
+  },
+  {
+    "id": 265,
+    "disease": "Carcinoid_tumors,_intestinal",
+    "class": "Cancer",
+    "genes": "SDHD"
+  },
+  {
+    "id": 267,
+    "disease": "Cardioencephalomyopathy,_fatal_infantile,_due_to_cytochrome_c_oxidase_deficiency",
+    "class": "Cardiovascular",
+    "genes": "SCO2"
+  },
+  {
+    "id": 268,
+    "disease": "Cardiomyopathy",
+    "class": "Cardiovascular",
+    "genes": "MYL3, ACTC, MYH7, LMNA, TNNT2, TTN, DES, EYA4, SGCD, CSRP3, TCAP, ABCC9, DMD, MYL2, CAV3, MYH6, TNNC1, TPM1, TNNI3, MYBPC3, COX15, MYLK2, PRKAG2, PLN, TAZ"
+  },
+  {
+    "id": 269,
+    "disease": "Carney_complex",
+    "class": "multiple",
+    "genes": "PRKAR1A, MYH8"
+  },
+  {
+    "id": 271,
+    "disease": "Carnitine-acylcarnitine_translocase_deficiency",
+    "class": "Metabolic",
+    "genes": "SLC25A20"
+  },
+  {
+    "id": 272,
+    "disease": "Carnitine_deficiency",
+    "class": "Metabolic",
+    "genes": "SLC22A5"
+  },
+  {
+    "id": 275,
+    "disease": "Carpal_tunnel_syndrome,_familial",
+    "class": "Unclassified",
+    "genes": "TTR"
+  },
+  {
+    "id": 276,
+    "disease": "Cartilage-hair_hypoplasia",
+    "class": "Skeletal",
+    "genes": "RMRP"
+  },
+  {
+    "id": 277,
+    "disease": "Cataract",
+    "class": "Ophthamological",
+    "genes": "CRYAA, CRYBB2, PITX3, BFSP2, PAX6, CRYBA1, CRYGC, LIM2, CRYGD, HSF4, MIP, CRYAB, CRYBB1, GJA8, GJA3"
+  },
+  {
+    "id": 279,
+    "disease": "Cavernous_malformations_of_CNS_and_retina",
+    "class": "Cardiovascular",
+    "genes": "KRIT1"
+  },
+  {
+    "id": 283,
+    "disease": "CD59_deficiency",
+    "class": "Immunological",
+    "genes": "CD59"
+  },
+  {
+    "id": 284,
+    "disease": "CD8_deficiency,_familial",
+    "class": "Immunological",
+    "genes": "CD8A"
+  },
+  {
+    "id": 287,
+    "disease": "Central_hypoventilation_syndrome",
+    "class": "Respiratory",
+    "genes": "GDNF, BDNF, EDN3, PHOX2B, RET"
+  },
+  {
+    "id": 289,
+    "disease": "Cerebellar_ataxia",
+    "class": "Neurological",
+    "genes": "CP, CACNA1A"
+  },
+  {
+    "id": 291,
+    "disease": "Cerebral_amyloid_angiopathy",
+    "class": "Neurological",
+    "genes": "ABCA1, CST3"
+  },
+  {
+    "id": 292,
+    "disease": "Cerebrooculofacioskeletal_syndrome",
+    "class": "multiple",
+    "genes": "ERCC2, ERCC5, ERCC6"
+  },
+  {
+    "id": 293,
+    "disease": "Cerebrotendinous_xanthomatosis",
+    "class": "Metabolic",
+    "genes": "CYP27A1"
+  },
+  {
+    "id": 294,
+    "disease": "Cerebrovascular_disease,_occlusive",
+    "class": "Unclassified",
+    "genes": "SERPINA3"
+  },
+  {
+    "id": 295,
+    "disease": "Ceroid_lipofuscinosis",
+    "class": "Neurological",
+    "genes": "PPT1"
+  },
+  {
+    "id": 296,
+    "disease": "Ceroid-lipofuscinosis",
+    "class": "Neurological",
+    "genes": "TPP1, CLN3, CLN5, CLN6, CLN8, PPT1"
+  },
+  {
+    "id": 298,
+    "disease": "Cervical_carcinoma",
+    "class": "Cancer",
+    "genes": "FGFR3"
+  },
+  {
+    "id": 299,
+    "disease": "CETP_deficiency",
+    "class": "Metabolic",
+    "genes": "CETP"
+  },
+  {
+    "id": 300,
+    "disease": "Chanarin-Dorfman_syndrome",
+    "class": "Metabolic",
+    "genes": "ABHD5"
+  },
+  {
+    "id": 301,
+    "disease": "Charcot-Marie-Tooth_disease",
+    "class": "Neurological",
+    "genes": "HSPB1, MPZ, DNM2, HOXD10, GDAP1, PMP22, LITAF, EGR2, NEFL, KIF1B, MFN2, RAB7, GARS, MTMR2, SBF2, SH3TC2, NDRG1, GJB1"
+  },
+  {
+    "id": 302,
+    "disease": "CHARGE_syndrome",
+    "class": "multiple",
+    "genes": "CHD7"
+  },
+  {
+    "id": 303,
+    "disease": "Char_syndrome",
+    "class": "multiple",
+    "genes": "TFAP2B"
+  },
+  {
+    "id": 304,
+    "disease": "Chediak-Higashi_syndrome",
+    "class": "multiple",
+    "genes": "LYST"
+  },
+  {
+    "id": 305,
+    "disease": "Cherubism",
+    "class": "Unclassified",
+    "genes": "SH3BP2"
+  },
+  {
+    "id": 306,
+    "disease": "CHILD_syndrome",
+    "class": "Developmental",
+    "genes": "NSDHL"
+  },
+  {
+    "id": 307,
+    "disease": "Chitotriosidase_deficiency",
+    "class": "Metabolic",
+    "genes": "CHIT1"
+  },
+  {
+    "id": 308,
+    "disease": "Chloride_diarrhea,_congenital,_Finnish_type",
+    "class": "Gastrointestinal",
+    "genes": "SLC26A3"
+  },
+  {
+    "id": 309,
+    "disease": "Cholelithiasis",
+    "class": "Gastrointestinal",
+    "genes": "ABCB4"
+  },
+  {
+    "id": 310,
+    "disease": "Cholestasis",
+    "class": "Gastrointestinal",
+    "genes": "ATP8B1, ABCB4, ABCB11, HSD3B7"
+  },
+  {
+    "id": 313,
+    "disease": "Cholesteryl_ester_storage_disease",
+    "class": "Metabolic",
+    "genes": "LIPA"
+  },
+  {
+    "id": 314,
+    "disease": "Chondrocalcinosis",
+    "class": "Connective_tissue_disorder",
+    "genes": "ANKH"
+  },
+  {
+    "id": 315,
+    "disease": "Chondrodysplasia_punctata",
+    "class": "Connective_tissue_disorder",
+    "genes": "GNPAT, EBP, ARSE"
+  },
+  {
+    "id": 316,
+    "disease": "Chondrosarcoma",
+    "class": "Cancer",
+    "genes": "EXT1, NR4A3, EWSR1"
+  },
+  {
+    "id": 318,
+    "disease": "Chorea,_hereditary_benign",
+    "class": "Neurological",
+    "genes": "TITF1"
+  },
+  {
+    "id": 319,
+    "disease": "Choreoacanthocytosis",
+    "class": "Neurological",
+    "genes": "VPS13A"
+  },
+  {
+    "id": 320,
+    "disease": "Choreoathetosis,_hypothyroidism,_and_respiratory_distress",
+    "class": "multiple",
+    "genes": "TITF1"
+  },
+  {
+    "id": 323,
+    "disease": "Choroidal_dystrophy",
+    "class": "Ophthamological",
+    "genes": "CHM"
+  },
+  {
+    "id": 326,
+    "disease": "Chromosome_22q13.3_deletion_syndrome",
+    "class": "multiple",
+    "genes": "SHANK3"
+  },
+  {
+    "id": 327,
+    "disease": "Chronic_granulomatous_disease",
+    "class": "Immunological",
+    "genes": "CYBA, NCF1, NCF2, CYBB"
+  },
+  {
+    "id": 328,
+    "disease": "Chudley-Lowry_syndrome",
+    "class": "multiple",
+    "genes": "ATRX"
+  },
+  {
+    "id": 329,
+    "disease": "Chylomicronemia_syndrome,_familial",
+    "class": "Metabolic",
+    "genes": "LPL"
+  },
+  {
+    "id": 330,
+    "disease": "Chylomicron_retention_disease",
+    "class": "Gastrointestinal",
+    "genes": "SAR1B"
+  },
+  {
+    "id": 331,
+    "disease": "Ciliary_dyskinesia",
+    "class": "Respiratory",
+    "genes": "DNAI1, DNAH5"
+  },
+  {
+    "id": 332,
+    "disease": "CINCA_syndrome",
+    "class": "multiple",
+    "genes": "CIAS1"
+  },
+  {
+    "id": 334,
+    "disease": "Cirrhosis",
+    "class": "Gastrointestinal",
+    "genes": "KRT18, KRT8, CIRH1A"
+  },
+  {
+    "id": 335,
+    "disease": "Citrullinemia",
+    "class": "Metabolic",
+    "genes": "ASS, SLC25A13"
+  },
+  {
+    "id": 336,
+    "disease": "Cleft_palate",
+    "class": "Developmental",
+    "genes": "PVRL1, MSX1, TBX22"
+  },
+  {
+    "id": 337,
+    "disease": "Cleidocranial_dysplasia",
+    "class": "Skeletal",
+    "genes": "RUNX2"
+  },
+  {
+    "id": 338,
+    "disease": "Coats_disease",
+    "class": "Ophthamological",
+    "genes": "NDP"
+  },
+  {
+    "id": 339,
+    "disease": "Cockayne_syndrome",
+    "class": "multiple",
+    "genes": "ERCC8, ERCC6"
+  },
+  {
+    "id": 340,
+    "disease": "Codeine_sensitivity",
+    "class": "Metabolic",
+    "genes": "CYP2D6"
+  },
+  {
+    "id": 341,
+    "disease": "Coffin-Lowry_syndrome",
+    "class": "multiple",
+    "genes": "RPS6KA3"
+  },
+  {
+    "id": 342,
+    "disease": "Cohen_syndrome",
+    "class": "multiple",
+    "genes": "VPS13B"
+  },
+  {
+    "id": 343,
+    "disease": "Colchicine_resistance",
+    "class": "Unclassified",
+    "genes": "ABCB1"
+  },
+  {
+    "id": 344,
+    "disease": "Cold-induced_autoinflammatory_syndrome",
+    "class": "Immunological",
+    "genes": "CIAS1"
+  },
+  {
+    "id": 345,
+    "disease": "Coloboma,_ocular",
+    "class": "Ophthamological",
+    "genes": "PAX6, SHH"
+  },
+  {
+    "id": 346,
+    "disease": "Colon_cancer",
+    "class": "Cancer",
+    "genes": "RAD54B, RAD54L, BCL10, PTPN12, TGFBR2, SRC, MLH3, PTPRJ, ODC1, MUTYH, AXIN2, BUB1B, EP300, PDGFRL, PIK3CA, TP53, APC, BAX, CTNNB1, DCC, MCC, NRAS, MSH2, MLH1, PMS1, PMS2, MSH6, FGFR3, FLCN, BRAF, DLC1, PLA2G2A, CCND1, BUB1"
+  },
+  {
+    "id": 347,
+    "disease": "Colonic_aganglionosis,_total,_with_small_bowel_involvement",
+    "class": "Gastrointestinal",
+    "genes": "RET"
+  },
+  {
+    "id": 348,
+    "disease": "Colorblindness",
+    "class": "Ophthamological",
+    "genes": "OPN1MW, OPN1LW, OPN1SW"
+  },
+  {
+    "id": 350,
+    "disease": "Combined_factor_V_and_VIII_deficiency",
+    "class": "Hematological",
+    "genes": "LMAN1"
+  },
+  {
+    "id": 351,
+    "disease": "Complex_mitochondrial_respiratory_chain,_deficiency_of",
+    "class": "multiple",
+    "genes": "NDUFS6, ATPAF2"
+  },
+  {
+    "id": 352,
+    "disease": "Cone_dystrophy",
+    "class": "Ophthamological",
+    "genes": "RPGR, GUCA1A, ABCA4, AIPL1, GUCY2D, RPGRIP1, CRX"
+  },
+  {
+    "id": 354,
+    "disease": "Congenital_disorder_of_glycosylation",
+    "class": "Metabolic",
+    "genes": "ALG6, ALG3, DPM1, MPDU1, ALG12, ALG8, ALG2, ALG9, SLC35C1, B4GALT1, COG7, DPAGT1, ALG1"
+  },
+  {
+    "id": 355,
+    "disease": "Congestive_heart_failure",
+    "class": "Cardiovascular",
+    "genes": "ADRA2C, ADRB1"
+  },
+  {
+    "id": 356,
+    "disease": "Conjunctivitis,_ligneous",
+    "class": "Ophthamological",
+    "genes": "PLG"
+  },
+  {
+    "id": 357,
+    "disease": "Conotruncal_anomaly_face_syndrome",
+    "class": "Cardiovascular",
+    "genes": "TBX1"
+  },
+  {
+    "id": 358,
+    "disease": "Contractural_arachnodactyly,_congenital",
+    "class": "Connective_tissue_disorder",
+    "genes": "FBN2"
+  },
+  {
+    "id": 359,
+    "disease": "Convulsions",
+    "class": "Neurological",
+    "genes": "MASS1"
+  },
+  {
+    "id": 360,
+    "disease": "COPD,_rate_of_decline_of_lung_function_in",
+    "class": "Respiratory",
+    "genes": "MMP1"
+  },
+  {
+    "id": 361,
+    "disease": "Coproporphyria",
+    "class": "Metabolic",
+    "genes": "CPOX"
+  },
+  {
+    "id": 362,
+    "disease": "Corneal_dystrophy",
+    "class": "Ophthamological",
+    "genes": "APOA1, TGFBI, TACSTD2, VSX1, COL8A2, PIP5K3, KERA"
+  },
+  {
+    "id": 364,
+    "disease": "Cornelia_de_Lange_syndrome",
+    "class": "Developmental",
+    "genes": "NIPBL"
+  },
+  {
+    "id": 365,
+    "disease": "Coronary_artery_disease",
+    "class": "Cardiovascular",
+    "genes": "MEF2A, ABCA1, KL, PON1, PON2, MMP3"
+  },
+  {
+    "id": 366,
+    "disease": "Corpus_callosum,_agenesis_of,_with_mental_retardation,_ocular_coloboma_and_micrognathia",
+    "class": "Neurological",
+    "genes": "IGBP1"
+  },
+  {
+    "id": 367,
+    "disease": "Cortisol_resistance",
+    "class": "Endocrine",
+    "genes": "NR3C1"
+  },
+  {
+    "id": 368,
+    "disease": "Cortisone_reductase_deficiency",
+    "class": "Metabolic",
+    "genes": "H6PD, HSD11B1"
+  },
+  {
+    "id": 369,
+    "disease": "Costello_syndrome",
+    "class": "multiple",
+    "genes": "HRAS"
+  },
+  {
+    "id": 370,
+    "disease": "Coumarin_resistance",
+    "class": "Hematological",
+    "genes": "CYP2A6"
+  },
+  {
+    "id": 372,
+    "disease": "Cowden_disease",
+    "class": "Cancer",
+    "genes": "PTEN, BMPR1A"
+  },
+  {
+    "id": 374,
+    "disease": "CPT_deficiency,_hepatic",
+    "class": "Metabolic",
+    "genes": "CPT1A, CPT2"
+  },
+  {
+    "id": 376,
+    "disease": "Cramps,_potassium-aggravated",
+    "class": "Muscular",
+    "genes": "SCN4A"
+  },
+  {
+    "id": 377,
+    "disease": "Craniofacial anomalies, empty sella turcica, corneal endothelial changes, and abnormal retinal and auditory bipolar cells",
+    "class": "multiple",
+    "genes": "VSX1"
+  },
+  {
+    "id": 378,
+    "disease": "Craniofacial-deafness-hand_syndrome",
+    "class": "multiple",
+    "genes": "PAX3"
+  },
+  {
+    "id": 379,
+    "disease": "Craniofacial-skeletal-dermatologic_dysplasia",
+    "class": "multiple",
+    "genes": "FGFR2"
+  },
+  {
+    "id": 380,
+    "disease": "Craniofrontonasal_dysplasia",
+    "class": "Skeletal",
+    "genes": "EFNB1"
+  },
+  {
+    "id": 382,
+    "disease": "Craniometaphyseal_dysplasia",
+    "class": "Bone",
+    "genes": "ANKH"
+  },
+  {
+    "id": 383,
+    "disease": "Craniosynostosis",
+    "class": "Skeletal",
+    "genes": "FGFR2, MSX2"
+  },
+  {
+    "id": 384,
+    "disease": "CRASH_syndrome",
+    "class": "multiple",
+    "genes": "L1CAM"
+  },
+  {
+    "id": 385,
+    "disease": "Creatine_phosphokinase",
+    "class": "Metabolic",
+    "genes": "CAV3"
+  },
+  {
+    "id": 388,
+    "disease": "Creutzfeldt-Jakob_disease",
+    "class": "Neurological",
+    "genes": "PRNP, HLA-DQB1"
+  },
+  {
+    "id": 389,
+    "disease": "Crigler-Najjar_syndrome",
+    "class": "multiple",
+    "genes": "UGT1A1"
+  },
+  {
+    "id": 390,
+    "disease": "Crohn_disease",
+    "class": "Gastrointestinal",
+    "genes": "CARD15, DLG5"
+  },
+  {
+    "id": 391,
+    "disease": "Crouzon_syndrome",
+    "class": "Skeletal",
+    "genes": "FGFR2, FGFR3"
+  },
+  {
+    "id": 392,
+    "disease": "Cryptorchidism",
+    "class": "Renal",
+    "genes": "LGR8, INSL3"
+  },
+  {
+    "id": 394,
+    "disease": "Currarino_syndrome",
+    "class": "Skeletal",
+    "genes": "HLXB9"
+  },
+  {
+    "id": 395,
+    "disease": "Cutis_laxa",
+    "class": "Connective_tissue_disorder",
+    "genes": "ELN, FBLN5, ATP7A"
+  },
+  {
+    "id": 396,
+    "disease": "Cyclic_ichthyosis_with_epidermolytic_hyperkeratosis",
+    "class": "Dermatological",
+    "genes": "KRT1"
+  },
+  {
+    "id": 397,
+    "disease": "Cylindromatosis,_familial",
+    "class": "Dermatological",
+    "genes": "CYLD"
+  },
+  {
+    "id": 398,
+    "disease": "Cystathioninuria",
+    "class": "Metabolic",
+    "genes": "CTH"
+  },
+  {
+    "id": 399,
+    "disease": "Cystic_fibrosis",
+    "class": "Respiratory",
+    "genes": "CFTR"
+  },
+  {
+    "id": 400,
+    "disease": "Cystinosis",
+    "class": "Renal",
+    "genes": "CTNS"
+  },
+  {
+    "id": 401,
+    "disease": "Cystinuria",
+    "class": "Renal",
+    "genes": "SLC3A1, SLC7A9"
+  },
+  {
+    "id": 402,
+    "disease": "D-2-hydroxyglutaric_aciduria",
+    "class": "Metabolic",
+    "genes": "MGC25181"
+  },
+  {
+    "id": 404,
+    "disease": "Darier_disease",
+    "class": "Dermatological",
+    "genes": "ATP2A2"
+  },
+  {
+    "id": 405,
+    "disease": "D-bifunctional_protein_deficiency",
+    "class": "Metabolic",
+    "genes": "HSD17B4"
+  },
+  {
+    "id": 406,
+    "disease": "Deafness",
+    "class": "Ear,Nose,Throat",
+    "genes": "EYA4, DIAPH1, MYO7A, TECTA, COL11A2, POU4F3, MYH9, ACTG1, MYO6, GJB3, KCNQ4, GRHL2, GJB2, GJB6, TMC1, DSPP, CRYM, MYH14, DFNA5, COCH, MYO1A, TMPRSS3, CDH23, ATP2B2, STRC, USH1C, OTOA, PCDH15, CLDN14, MYO3A, DFNB31, MYO15A, ESPN, SLC26A4, SLC26A5, TMIE, OTOF, JAG1, KIAA1199, TIMM8A, POU3F4"
+  },
+  {
+    "id": 407,
+    "disease": "Debrisoquine_sensitivity",
+    "class": "Metabolic",
+    "genes": "CYP2D6"
+  },
+  {
+    "id": 410,
+    "disease": "Dejerine-Sottas_disease",
+    "class": "multiple",
+    "genes": "PMP22, EGR2, PRX, MPZ"
+  },
+  {
+    "id": 411,
+    "disease": "Delayed_sleep_phase_syndrome",
+    "class": "Psychiatric",
+    "genes": "AANAT"
+  },
+  {
+    "id": 412,
+    "disease": "Dementia",
+    "class": "Neurological",
+    "genes": "ITM2B, PSEN1, MAPT, SNCA, SNCB, TNF"
+  },
+  {
+    "id": 413,
+    "disease": "Dengue_fever,_protection_against",
+    "class": "Immunological",
+    "genes": "CD209"
+  },
+  {
+    "id": 414,
+    "disease": "Dental_anomalies,_isolated",
+    "class": "Skeletal",
+    "genes": "RUNX2"
+  },
+  {
+    "id": 415,
+    "disease": "Dentatorubro-pallidoluysian_atrophy",
+    "class": "Neurological",
+    "genes": "ATN1"
+  },
+  {
+    "id": 416,
+    "disease": "Dent_disease",
+    "class": "Renal",
+    "genes": "CLCN5, OCRL"
+  },
+  {
+    "id": 417,
+    "disease": "Dentin_dysplasia,_type_II",
+    "class": "Bone",
+    "genes": "DSPP"
+  },
+  {
+    "id": 418,
+    "disease": "Dentinogenesis_imperfecta,_Shields_type",
+    "class": "Bone",
+    "genes": "DSPP"
+  },
+  {
+    "id": 420,
+    "disease": "Denys-Drash_syndrome",
+    "class": "Renal",
+    "genes": "WT1"
+  },
+  {
+    "id": 422,
+    "disease": "Dermatofibrosarcoma_protuberans",
+    "class": "Cancer",
+    "genes": "PDGFB"
+  },
+  {
+    "id": 424,
+    "disease": "De_Sanctis-Cacchione_syndrome",
+    "class": "multiple",
+    "genes": "ERCC6"
+  },
+  {
+    "id": 425,
+    "disease": "Desmoid_disease,_hereditary",
+    "class": "Cancer",
+    "genes": "APC"
+  },
+  {
+    "id": 426,
+    "disease": "Desmosterolosis",
+    "class": "Metabolic",
+    "genes": "DHCR24"
+  },
+  {
+    "id": 427,
+    "disease": "Diabetes_mellitus",
+    "class": "Endocrine",
+    "genes": "ABCC8, TCF1, SUMO4, PTPN22, INSR, PPARG, GCK, GCGR, GPD2, HNF4A, IRS2, MAPK8IP1, NEUROD1, TCF2, IRS1, SLC2A2, SLC2A4, CAPN10, ENPP1, RETN, PTF1A, KCNJ11, AKT2, IPF1, FOXP3, ACE, VEGF"
+  },
+  {
+    "id": 430,
+    "disease": "Diastrophic_dysplasia",
+    "class": "Skeletal",
+    "genes": "SLC26A2"
+  },
+  {
+    "id": 432,
+    "disease": "DiGeorge_syndrome",
+    "class": "multiple",
+    "genes": "TBX1"
+  },
+  {
+    "id": 433,
+    "disease": "Dihydropyrimidinuria",
+    "class": "Metabolic",
+    "genes": "DPYS"
+  },
+  {
+    "id": 434,
+    "disease": "Dilated_cardiomyopathy_with_woolly_hair_and_keratoderma",
+    "class": "multiple",
+    "genes": "DSP"
+  },
+  {
+    "id": 435,
+    "disease": "Dimethylglycine_dehydrogenase_deficiency",
+    "class": "Metabolic",
+    "genes": "DMGDH"
+  },
+  {
+    "id": 438,
+    "disease": "Disordered_steroidogenesis,_isolated",
+    "class": "Metabolic",
+    "genes": "POR"
+  },
+  {
+    "id": 439,
+    "disease": "Dissection_of_cervical_arteries",
+    "class": "Connective_tissue_disorder",
+    "genes": "COL1A1"
+  },
+  {
+    "id": 440,
+    "disease": "DNA_topoisomerase",
+    "class": "Metabolic",
+    "genes": "TOP1, TOP2A"
+  },
+  {
+    "id": 441,
+    "disease": "Dopamine_beta-hydroxylase_deficiency",
+    "class": "Metabolic",
+    "genes": "DBH"
+  },
+  {
+    "id": 443,
+    "disease": "Dosage-sensitive_sex_reversal",
+    "class": "Endocrine",
+    "genes": "NR0B1"
+  },
+  {
+    "id": 444,
+    "disease": "Double-outlet_right_ventricle",
+    "class": "Cardiovascular",
+    "genes": "CFC1"
+  },
+  {
+    "id": 445,
+    "disease": "Down_syndrome",
+    "class": "multiple",
+    "genes": "MTR"
+  },
+  {
+    "id": 446,
+    "disease": "Doyne_honeycomb_degeneration_of_retina",
+    "class": "Ophthamological",
+    "genes": "EFEMP1"
+  },
+  {
+    "id": 447,
+    "disease": "Drug_addiction",
+    "class": "Psychiatric",
+    "genes": "FAAH"
+  },
+  {
+    "id": 449,
+    "disease": "Duane_syndrome",
+    "class": "multiple",
+    "genes": "SALL4"
+  },
+  {
+    "id": 450,
+    "disease": "Dubin-Johnson_syndrome",
+    "class": "Metabolic",
+    "genes": "ABCC2"
+  },
+  {
+    "id": 451,
+    "disease": "Duchenne_muscular_dystrophy",
+    "class": "Muscular",
+    "genes": "DMD"
+  },
+  {
+    "id": 452,
+    "disease": "Dyggve-Melchior-Clausen_disease",
+    "class": "multiple",
+    "genes": "DYM"
+  },
+  {
+    "id": 453,
+    "disease": "Dysalbuminemic_hyperthyroxinemia",
+    "class": "Hematological",
+    "genes": "ALB"
+  },
+  {
+    "id": 454,
+    "disease": "Dysautonomia",
+    "class": "Neurological",
+    "genes": "IKBKAP"
+  },
+  {
+    "id": 455,
+    "disease": "Dyschromatosis",
+    "class": "Dermatological",
+    "genes": "ADAR"
+  },
+  {
+    "id": 456,
+    "disease": "Dyserythropoietic_anemia",
+    "class": "Hematological",
+    "genes": "GATA1"
+  },
+  {
+    "id": 457,
+    "disease": "Dysfibrinogenemia",
+    "class": "Hematological",
+    "genes": "FGA, FGB, FGG"
+  },
+  {
+    "id": 458,
+    "disease": "Dyskeratosis",
+    "class": "Dermatological",
+    "genes": "DKC1, TERC"
+  },
+  {
+    "id": 459,
+    "disease": "Dyslexia",
+    "class": "Psychiatric",
+    "genes": "DYX1C1, KIAA0319"
+  },
+  {
+    "id": 460,
+    "disease": "Dysprothrombinemia",
+    "class": "Hematological",
+    "genes": "F2"
+  },
+  {
+    "id": 461,
+    "disease": "Dyssegmental_dysplasia,_Silverman-Handmaker_type",
+    "class": "Neurological",
+    "genes": "HSPG2"
+  },
+  {
+    "id": 462,
+    "disease": "Dystonia",
+    "class": "Neurological",
+    "genes": "ATP1A3, TOR1A, GCH1, DRD2, SGCE, DRD5"
+  },
+  {
+    "id": 463,
+    "disease": "Dystransthyretinemic_hyperthyroxinemia",
+    "class": "Hematological",
+    "genes": "TTR"
+  },
+  {
+    "id": 465,
+    "disease": "EBD",
+    "class": "Dermatological",
+    "genes": "COL7A1"
+  },
+  {
+    "id": 466,
+    "disease": "Ectodermal_dysplasia",
+    "class": "Dermatological",
+    "genes": "EDA, GJB6, EDARADD, IKBKG, NFKBIA, EDAR, PVRL1, PKP1"
+  },
+  {
+    "id": 467,
+    "disease": "Ectopia",
+    "class": "Ophthamological",
+    "genes": "FBN1, PAX6"
+  },
+  {
+    "id": 468,
+    "disease": "EEC_syndrome",
+    "class": "Skeletal",
+    "genes": "TP73L"
+  },
+  {
+    "id": 470,
+    "disease": "Ehlers-Danlos_syndrome",
+    "class": "Connective_tissue_disorder",
+    "genes": "TNXB, B4GALT7, COL1A1, COL5A1, COL5A2, COL3A1, PLOD1, COL1A2, ADAMTS2"
+  },
+  {
+    "id": 471,
+    "disease": "Elite_sprint_athletic_performance",
+    "class": "Muscular",
+    "genes": "ACTN3"
+  },
+  {
+    "id": 472,
+    "disease": "Elliptocytosis",
+    "class": "Hematological",
+    "genes": "EPB41, SPTA1, SPTB, SLC4A1"
+  },
+  {
+    "id": 473,
+    "disease": "Ellis-van_Creveld_syndrome",
+    "class": "Skeletal",
+    "genes": "EVC, EVC2"
+  },
+  {
+    "id": 474,
+    "disease": "Emery-Dreifuss_muscular_dystrophy",
+    "class": "Muscular",
+    "genes": "EMD, LMNA"
+  },
+  {
+    "id": 475,
+    "disease": "Emphysema",
+    "class": "Respiratory",
+    "genes": "SERPINA1"
+  },
+  {
+    "id": 476,
+    "disease": "Encephalopathy",
+    "class": "Neurological",
+    "genes": "SERPINI1, COX10"
+  },
+  {
+    "id": 477,
+    "disease": "Enchondromatosis",
+    "class": "Cancer",
+    "genes": "PTHR1"
+  },
+  {
+    "id": 479,
+    "disease": "Endometrial_carcinoma",
+    "class": "Cancer",
+    "genes": "CDH1, MSH3, MSH6, PTEN"
+  },
+  {
+    "id": 481,
+    "disease": "Endotoxin_hyporesponsiveness",
+    "class": "Immunological",
+    "genes": "TLR4"
+  },
+  {
+    "id": 482,
+    "disease": "Endplate_acetylcholinesterase_deficiency",
+    "class": "Neurological",
+    "genes": "COLQ"
+  },
+  {
+    "id": 483,
+    "disease": "Enhanced_S-cone_syndrome",
+    "class": "Ophthamological",
+    "genes": "NR2E3"
+  },
+  {
+    "id": 484,
+    "disease": "Enlarged_vestibular_aqueduct",
+    "class": "Ear,Nose,Throat",
+    "genes": "SLC26A4"
+  },
+  {
+    "id": 485,
+    "disease": "Enolase_deficiency",
+    "class": "Metabolic",
+    "genes": "ENO3"
+  },
+  {
+    "id": 487,
+    "disease": "Enterokinase_deficiency",
+    "class": "Gastrointestinal",
+    "genes": "PRSS7"
+  },
+  {
+    "id": 491,
+    "disease": "Eosinophil_peroxidase_deficiency",
+    "class": "Hematological",
+    "genes": "EPX"
+  },
+  {
+    "id": 492,
+    "disease": "Epidermodysplasia_verruciformis",
+    "class": "Dermatological",
+    "genes": "EVER1, EVER2"
+  },
+  {
+    "id": 493,
+    "disease": "Epidermolysis_bullosa",
+    "class": "Dermatological",
+    "genes": "COL7A1, COL17A1, ITGB4, LAMA3, LAMB3, LAMC2, ITGA6, DSP, KRT14, KRT5, PLEC1"
+  },
+  {
+    "id": 494,
+    "disease": "Epidermolytic_hyperkeratosis",
+    "class": "Dermatological",
+    "genes": "KRT10, KRT1, KRT9"
+  },
+  {
+    "id": 495,
+    "disease": "Epilepsy",
+    "class": "Neurological",
+    "genes": "KCNQ2, KCNQ3, GABRG2, CLCN2, JRK, CACNB4, SCN1A, ME2, GABRA1, EPM2A, NHLRC1, SLC25A22, CHRNA4, CHRNB2, LGI1, CSTB, SYN1"
+  },
+  {
+    "id": 496,
+    "disease": "Epiphyseal_dysplasia",
+    "class": "Bone",
+    "genes": "COMP, SLC26A2, COL9A3, MATN3, COL9A1, COL9A2"
+  },
+  {
+    "id": 497,
+    "disease": "Episodic_ataxia",
+    "class": "Neurological",
+    "genes": "KCNA1, CACNA1A"
+  },
+  {
+    "id": 498,
+    "disease": "Epithelial_ovarian_cancer,_somatic",
+    "class": "Cancer",
+    "genes": "OPCML"
+  },
+  {
+    "id": 500,
+    "disease": "Epstein_syndrome",
+    "class": "Hematological",
+    "genes": "MYH9"
+  },
+  {
+    "id": 502,
+    "disease": "Erythermalgia",
+    "class": "Neurological",
+    "genes": "SCN9A"
+  },
+  {
+    "id": 504,
+    "disease": "Erythremias",
+    "class": "Hematological",
+    "genes": "HBA1, HBB"
+  },
+  {
+    "id": 505,
+    "disease": "Erythrocytosis",
+    "class": "Hematological",
+    "genes": "HBA2, EPOR"
+  },
+  {
+    "id": 507,
+    "disease": "Erythrokeratoderma",
+    "class": "Dermatological",
+    "genes": "LOR, GJB3, GJB4"
+  },
+  {
+    "id": 508,
+    "disease": "Esophageal_cancer",
+    "class": "Cancer",
+    "genes": "TGFBR2, RNF6, LZTS1, WWOX"
+  },
+  {
+    "id": 509,
+    "disease": "Estrogen_resistance",
+    "class": "Endocrine",
+    "genes": "ESR1"
+  },
+  {
+    "id": 510,
+    "disease": "Ethylmalonic_encephalopathy",
+    "class": "Metabolic",
+    "genes": "ETHE1"
+  },
+  {
+    "id": 511,
+    "disease": "Ewing_sarcoma",
+    "class": "Cancer",
+    "genes": "EWSR1"
+  },
+  {
+    "id": 512,
+    "disease": "Exertional_myoglobinuria_due_to_deficiency_of_LDH-A",
+    "class": "Metabolic",
+    "genes": "LDHA"
+  },
+  {
+    "id": 514,
+    "disease": "Exostoses",
+    "class": "Bone",
+    "genes": "EXT1, EXT2"
+  },
+  {
+    "id": 515,
+    "disease": "Exudative_vitreoretinopathy",
+    "class": "Ophthamological",
+    "genes": "FZD4, LRP5, NDP"
+  },
+  {
+    "id": 516,
+    "disease": "Eye_anomalies",
+    "class": "Ophthamological",
+    "genes": "PAX6"
+  },
+  {
+    "id": 517,
+    "disease": "Ezetimibe,_nonresponse_to",
+    "class": "Unclassified",
+    "genes": "NPC1L1"
+  },
+  {
+    "id": 518,
+    "disease": "Fabry_disease",
+    "class": "Metabolic",
+    "genes": "GLA"
+  },
+  {
+    "id": 519,
+    "disease": "Facioscapulohumeral_muscular_dystrophy",
+    "class": "Muscular",
+    "genes": "FSHMD1A"
+  },
+  {
+    "id": 520,
+    "disease": "Factor_x_deficiency",
+    "class": "Hematological",
+    "genes": "CFH, MCFD2, F7, F10, F11, F12, F13A1, F13B"
+  },
+  {
+    "id": 522,
+    "disease": "Familial_Mediterranean_fever",
+    "class": "Immunological",
+    "genes": "MEFV"
+  },
+  {
+    "id": 523,
+    "disease": "Fanconi_anemia",
+    "class": "multiple",
+    "genes": "FANCA, FANCB, FANCC, BRCA2, FANCD2, FANCE, FANCF, FANCG, BRIP1, FANCL, FANCM"
+  },
+  {
+    "id": 524,
+    "disease": "Fanconi-Bickel_syndrome",
+    "class": "Metabolic",
+    "genes": "SLC2A2"
+  },
+  {
+    "id": 526,
+    "disease": "Farber_lipogranulomatosis",
+    "class": "Metabolic",
+    "genes": "ASAH1"
+  },
+  {
+    "id": 527,
+    "disease": "Fatty_liver,_acute,_of_pregnancy",
+    "class": "Metabolic",
+    "genes": "HADHA"
+  },
+  {
+    "id": 528,
+    "disease": "Favism",
+    "class": "Metabolic",
+    "genes": "G6PD"
+  },
+  {
+    "id": 530,
+    "disease": "Fechtner_syndrome",
+    "class": "multiple",
+    "genes": "MYH9"
+  },
+  {
+    "id": 531,
+    "disease": "Feingold_syndrome",
+    "class": "multiple",
+    "genes": "MYCN"
+  },
+  {
+    "id": 532,
+    "disease": "Fertile_eunuch_syndrome",
+    "class": "Endocrine",
+    "genes": "GNRHR"
+  },
+  {
+    "id": 535,
+    "disease": "Fibrocalculous_pancreatic_diabetes",
+    "class": "Gastrointestinal",
+    "genes": "SPINK1"
+  },
+  {
+    "id": 537,
+    "disease": "Fibromatosisl",
+    "class": "Connective_tissue_disorder",
+    "genes": "SOS1, ANTXR2"
+  },
+  {
+    "id": 538,
+    "disease": "Fibrosis",
+    "class": "Ophthamological",
+    "genes": "KIF21A, PHOX2A"
+  },
+  {
+    "id": 539,
+    "disease": "Fibular_hypoplasia_and_complex_brachydactyly",
+    "class": "Skeletal",
+    "genes": "GDF5"
+  },
+  {
+    "id": 540,
+    "disease": "Fish-eye_disease",
+    "class": "Metabolic",
+    "genes": "LCAT"
+  },
+  {
+    "id": 541,
+    "disease": "Fish-odor_syndrome",
+    "class": "Metabolic",
+    "genes": "FMO3"
+  },
+  {
+    "id": 542,
+    "disease": "Fitzgerald_factor_deficiency",
+    "class": "Hematological",
+    "genes": "KNG1"
+  },
+  {
+    "id": 544,
+    "disease": "Fluorouracil_toxicity,_sensitivity_to",
+    "class": "Metabolic",
+    "genes": "DPYD"
+  },
+  {
+    "id": 545,
+    "disease": "Focal_cortical_dysplasia,_Taylor_balloon_cell_type",
+    "class": "Developmental",
+    "genes": "TSC1"
+  },
+  {
+    "id": 546,
+    "disease": "Follicle-stimulating_hormone_deficiency,_isolated",
+    "class": "Endocrine",
+    "genes": "FSHB"
+  },
+  {
+    "id": 547,
+    "disease": "Forebrain_defects",
+    "class": "Neurological",
+    "genes": "TDGF1"
+  },
+  {
+    "id": 548,
+    "disease": "Foveal_hypoplasia",
+    "class": "Ophthamological",
+    "genes": "PAX6"
+  },
+  {
+    "id": 549,
+    "disease": "Foveomacular_dystrophy,_adult-onset,_with_choroidal_neovascularization",
+    "class": "Ophthamological",
+    "genes": "RDS"
+  },
+  {
+    "id": 550,
+    "disease": "Fragile_X_syndrome",
+    "class": "Neurological",
+    "genes": "FMR1"
+  },
+  {
+    "id": 551,
+    "disease": "Fraser_syndrome",
+    "class": "multiple",
+    "genes": "FRAS1, FREM2"
+  },
+  {
+    "id": 552,
+    "disease": "Frasier_syndrome",
+    "class": "multiple",
+    "genes": "WT1"
+  },
+  {
+    "id": 553,
+    "disease": "Friedreich_ataxia",
+    "class": "Neurological",
+    "genes": "FXN"
+  },
+  {
+    "id": 554,
+    "disease": "Frontometaphyseal_dysplasia",
+    "class": "Skeletal",
+    "genes": "FLNA"
+  },
+  {
+    "id": 555,
+    "disease": "Fructose-bisphosphatase_deficiency",
+    "class": "Metabolic",
+    "genes": "FBP1"
+  },
+  {
+    "id": 556,
+    "disease": "Fructose_intolerance",
+    "class": "Metabolic",
+    "genes": "ALDOB"
+  },
+  {
+    "id": 557,
+    "disease": "Fructosuria",
+    "class": "Metabolic",
+    "genes": "KHK"
+  },
+  {
+    "id": 558,
+    "disease": "Fuchs_endothelial_corneal_dystrophy",
+    "class": "Ophthamological",
+    "genes": "COL8A2"
+  },
+  {
+    "id": 559,
+    "disease": "Fucosidosis",
+    "class": "Metabolic",
+    "genes": "FUCA1"
+  },
+  {
+    "id": 560,
+    "disease": "Fucosyltransferase-6_deficiency",
+    "class": "Metabolic",
+    "genes": "FUT6"
+  },
+  {
+    "id": 561,
+    "disease": "Fumarase_deficiency",
+    "class": "Metabolic",
+    "genes": "FH"
+  },
+  {
+    "id": 562,
+    "disease": "Fundus_albipunctatus",
+    "class": "Ophthamological",
+    "genes": "RDH5, RLBP1, ABCA4"
+  },
+  {
+    "id": 563,
+    "disease": "G6PD_deficiency",
+    "class": "Metabolic",
+    "genes": "G6PD"
+  },
+  {
+    "id": 564,
+    "disease": "GABA-transaminase_deficiency",
+    "class": "Metabolic",
+    "genes": "ABAT"
+  },
+  {
+    "id": 565,
+    "disease": "Galactokinase_deficiency",
+    "class": "Metabolic",
+    "genes": "GALK1"
+  },
+  {
+    "id": 566,
+    "disease": "Galactose_epimerase_deficiency",
+    "class": "Metabolic",
+    "genes": "GALE"
+  },
+  {
+    "id": 567,
+    "disease": "Galactosemia",
+    "class": "Metabolic",
+    "genes": "GALT"
+  },
+  {
+    "id": 568,
+    "disease": "Galactosialidosis",
+    "class": "Metabolic",
+    "genes": "PPGB"
+  },
+  {
+    "id": 570,
+    "disease": "GAMT_deficiency",
+    "class": "Metabolic",
+    "genes": "GAMT"
+  },
+  {
+    "id": 571,
+    "disease": "Gardner_syndrome",
+    "class": "Cancer",
+    "genes": "APC"
+  },
+  {
+    "id": 572,
+    "disease": "Gastric_cancer",
+    "class": "Cancer",
+    "genes": "APC, IRF1, CDH1, IL1B, IL1RN, CASP10, ERBB2, FGFR2, KLF6, MUTYH"
+  },
+  {
+    "id": 574,
+    "disease": "Gastrointestinal_stromal_tumor",
+    "class": "Cancer",
+    "genes": "KIT, PDGFRA"
+  },
+  {
+    "id": 575,
+    "disease": "Gaucher_disease",
+    "class": "Metabolic",
+    "genes": "GBA, PSAP"
+  },
+  {
+    "id": 576,
+    "disease": "Gaze_palsy",
+    "class": "Neurological",
+    "genes": "ROBO3"
+  },
+  {
+    "id": 578,
+    "disease": "Generalized_epilepsy",
+    "class": "Neurological",
+    "genes": "KCNMA1, SCN1B"
+  },
+  {
+    "id": 580,
+    "disease": "Germ_cell_tumor",
+    "class": "Cancer",
+    "genes": "BCL10, KIT"
+  },
+  {
+    "id": 581,
+    "disease": "Gerstmann-Straussler_disease",
+    "class": "Neurological",
+    "genes": "PRNP"
+  },
+  {
+    "id": 582,
+    "disease": "Giant_axonal_neuropathy",
+    "class": "Neurological",
+    "genes": "GAN"
+  },
+  {
+    "id": 583,
+    "disease": "Giant-cell_fibroblastoma",
+    "class": "Cancer",
+    "genes": "PDGFB"
+  },
+  {
+    "id": 584,
+    "disease": "Giant_platelet_disorder,_isolated",
+    "class": "Hematological",
+    "genes": "GP1BB"
+  },
+  {
+    "id": 586,
+    "disease": "Gilbert_syndrome",
+    "class": "Metabolic",
+    "genes": "UGT1A1"
+  },
+  {
+    "id": 587,
+    "disease": "Gitelman_syndrome",
+    "class": "Renal",
+    "genes": "SLC12A3"
+  },
+  {
+    "id": 588,
+    "disease": "Glanzmann_thrombasthenia",
+    "class": "Hematological",
+    "genes": "ITGA2B, ITGB3"
+  },
+  {
+    "id": 589,
+    "disease": "Glaucoma",
+    "class": "Ophthamological",
+    "genes": "MYOC, OPTN, CYP1B1, OPA1"
+  },
+  {
+    "id": 590,
+    "disease": "Glioblastoma",
+    "class": "Cancer",
+    "genes": "MSH2, DMBT1, ERBB2, LGI1, PPARG"
+  },
+  {
+    "id": 594,
+    "disease": "Glomerulocystic_kidney_disease,_hypoplastic",
+    "class": "Renal",
+    "genes": "TCF2"
+  },
+  {
+    "id": 596,
+    "disease": "Glomerulosclerosis",
+    "class": "Renal",
+    "genes": "ACTN4, TRPC6, CD2AP"
+  },
+  {
+    "id": 597,
+    "disease": "Glomuvenous_malformations",
+    "class": "Cardiovascular",
+    "genes": "GLMN"
+  },
+  {
+    "id": 598,
+    "disease": "Glucocorticoid_deficiency",
+    "class": "Endocrine",
+    "genes": "MRAP, MC2R"
+  },
+  {
+    "id": 599,
+    "disease": "Glucose/galactose_malabsorption",
+    "class": "Metabolic",
+    "genes": "SLC5A1"
+  },
+  {
+    "id": 600,
+    "disease": "Glucose_transport_defect,_blood-brain_barrier",
+    "class": "Metabolic",
+    "genes": "SLC2A1"
+  },
+  {
+    "id": 601,
+    "disease": "Glucosidase_I_deficiency",
+    "class": "Metabolic",
+    "genes": "GCS1"
+  },
+  {
+    "id": 602,
+    "disease": "Glutamate_formiminotransferase_deficiency",
+    "class": "Metabolic",
+    "genes": "FTCD"
+  },
+  {
+    "id": 603,
+    "disease": "Glutaricaciduria",
+    "class": "Metabolic",
+    "genes": "GCDH, ETFA, ETFB, ETFDH"
+  },
+  {
+    "id": 604,
+    "disease": "Glutathione_synthetase_deficiency",
+    "class": "Metabolic",
+    "genes": "GSS"
+  },
+  {
+    "id": 607,
+    "disease": "Glycerol_kinase_deficiency",
+    "class": "Metabolic",
+    "genes": "GK"
+  },
+  {
+    "id": 608,
+    "disease": "Glycine_encephalopathy",
+    "class": "Metabolic",
+    "genes": "AMT, GCSH, GLDC, GNMT"
+  },
+  {
+    "id": 609,
+    "disease": "Glycogenosis",
+    "class": "Metabolic",
+    "genes": "PHKG2, PHKA2"
+  },
+  {
+    "id": 610,
+    "disease": "Glycogen_storage_disease",
+    "class": "Metabolic",
+    "genes": "G6PC, SLC37A4, GAA, LAMP2, AGL, GBE1, GYS2, PYGL, PFKM"
+  },
+  {
+    "id": 614,
+    "disease": "GM-gangliosidosis",
+    "class": "Metabolic",
+    "genes": "GLB1, GM2A, HEXA"
+  },
+  {
+    "id": 615,
+    "disease": "Gnthodiaphyseal_dysplasia",
+    "class": "Bone",
+    "genes": "TMEM16E"
+  },
+  {
+    "id": 617,
+    "disease": "Goiter",
+    "class": "Endocrine",
+    "genes": "TPO, TG"
+  },
+  {
+    "id": 618,
+    "disease": "Goldberg-Shprintzen_megacolon_syndrome",
+    "class": "multiple",
+    "genes": "KIAA1279"
+  },
+  {
+    "id": 619,
+    "disease": "Gonadal_dysgenesis",
+    "class": "Endocrine",
+    "genes": "DHH, SRY"
+  },
+  {
+    "id": 622,
+    "disease": "GRACILE_syndrome",
+    "class": "Metabolic",
+    "genes": "BCS1L"
+  },
+  {
+    "id": 623,
+    "disease": "Graft-versus-host_disease",
+    "class": "Immunological",
+    "genes": "IL10"
+  },
+  {
+    "id": 624,
+    "disease": "Graves_disease",
+    "class": "Endocrine",
+    "genes": "CTLA4, GC"
+  },
+  {
+    "id": 625,
+    "disease": "Greenberg_dysplasia",
+    "class": "Skeletal",
+    "genes": "LBR"
+  },
+  {
+    "id": 626,
+    "disease": "Greig_cephalopolysyndactyly_syndrome",
+    "class": "Skeletal",
+    "genes": "GLI3"
+  },
+  {
+    "id": 627,
+    "disease": "Griscelli_syndrome",
+    "class": "Dermatological",
+    "genes": "MYO5A, RAB27A, MLPH"
+  },
+  {
+    "id": 628,
+    "disease": "Growth_hormone",
+    "class": "Endocrine",
+    "genes": "GHRHR, STAT5B"
+  },
+  {
+    "id": 630,
+    "disease": "Guttmacher_syndrome",
+    "class": "multiple",
+    "genes": "HOXA13"
+  },
+  {
+    "id": 632,
+    "disease": "Gyrate_atrophy_of_choroid_and_retina_with_ornithinemia,_B6_responsive_or_unresponsive",
+    "class": "Metabolic",
+    "genes": "OAT"
+  },
+  {
+    "id": 633,
+    "disease": "Hailey-Hailey_disease",
+    "class": "Dermatological",
+    "genes": "ATP2C1"
+  },
+  {
+    "id": 634,
+    "disease": "Haim-Munk_syndrome",
+    "class": "multiple",
+    "genes": "CTSC"
+  },
+  {
+    "id": 638,
+    "disease": "Hand-foot-uterus_syndrome",
+    "class": "multiple",
+    "genes": "HOXA13"
+  },
+  {
+    "id": 639,
+    "disease": "Harderoporphyrinuria",
+    "class": "Metabolic",
+    "genes": "CPOX"
+  },
+  {
+    "id": 640,
+    "disease": "HARP_syndrome",
+    "class": "Metabolic",
+    "genes": "PANK2"
+  },
+  {
+    "id": 641,
+    "disease": "Hartnup_disorder",
+    "class": "Metabolic",
+    "genes": "SLC6A19"
+  },
+  {
+    "id": 643,
+    "disease": "Hay-Wells_syndrome",
+    "class": "multiple",
+    "genes": "TP73L"
+  },
+  {
+    "id": 644,
+    "disease": "HDL_cholesterol_level_QTL",
+    "class": "Metabolic",
+    "genes": "ABCA1, ESR1"
+  },
+  {
+    "id": 646,
+    "disease": "Hearing_loss,_low-frequency_sensorineural",
+    "class": "Ear,Nose,Throat",
+    "genes": "WFS1"
+  },
+  {
+    "id": 647,
+    "disease": "Heart_block",
+    "class": "Cardiovascular",
+    "genes": "SCN5A"
+  },
+  {
+    "id": 648,
+    "disease": "Heinz_body_anemia",
+    "class": "Hematological",
+    "genes": "HBA2, HBA1, HBB"
+  },
+  {
+    "id": 649,
+    "disease": "HELLP_syndrome",
+    "class": "Metabolic",
+    "genes": "HADHA"
+  },
+  {
+    "id": 650,
+    "disease": "Hemangioblastoma,_cerebellar",
+    "class": "Cancer",
+    "genes": "VHL"
+  },
+  {
+    "id": 651,
+    "disease": "Hemangioma",
+    "class": "Cancer",
+    "genes": "FLT4, KDR"
+  },
+  {
+    "id": 652,
+    "disease": "Hematopoiesis,_cyclic",
+    "class": "Hematological",
+    "genes": "ELA2"
+  },
+  {
+    "id": 653,
+    "disease": "Hematuria,_familial_benign",
+    "class": "Renal",
+    "genes": "COL4A4"
+  },
+  {
+    "id": 654,
+    "disease": "Heme_oxygenase-1_deficiency",
+    "class": "Metabolic",
+    "genes": "HMOX1"
+  },
+  {
+    "id": 656,
+    "disease": "Hemiplegic_migraine,_familial",
+    "class": "Neurological",
+    "genes": "CACNA1A"
+  },
+  {
+    "id": 657,
+    "disease": "Hemochromatosis",
+    "class": "Metabolic",
+    "genes": "HFE, HAMP, HFE2, TFR2, SLC40A1"
+  },
+  {
+    "id": 659,
+    "disease": "Hemoglobin_H_disease",
+    "class": "Hematological",
+    "genes": "HBA2"
+  },
+  {
+    "id": 660,
+    "disease": "Hemolytic_anemia",
+    "class": "Hematological",
+    "genes": "AK1, SLC4A1, BPGM, G6PD, GCLC, GPI, GSS, HK1, PGK1, TPI1"
+  },
+  {
+    "id": 661,
+    "disease": "Hemolytic-uremic_syndrome",
+    "class": "Hematological",
+    "genes": "CFH"
+  },
+  {
+    "id": 662,
+    "disease": "Hemophagocytic_lymphohistiocytosis",
+    "class": "Hematological",
+    "genes": "PRF1, UNC13D"
+  },
+  {
+    "id": 663,
+    "disease": "Hemophilia",
+    "class": "Hematological",
+    "genes": "F8, F9"
+  },
+  {
+    "id": 664,
+    "disease": "Hemorrhagic_diathesis",
+    "class": "Hematological",
+    "genes": "SERPINA1, F5"
+  },
+  {
+    "id": 665,
+    "disease": "Hemosiderosis,_systemic,_due_to_aceruloplasminemia",
+    "class": "Hematological",
+    "genes": "CP"
+  },
+  {
+    "id": 666,
+    "disease": "Hepatic_failure,_early_onset,_and_neurologic_disorder",
+    "class": "Gastrointestinal",
+    "genes": "SCO1"
+  },
+  {
+    "id": 668,
+    "disease": "Hepatic_adenoma",
+    "class": "Cancer",
+    "genes": "TCF1, CTNNB1, PDGFRL, AXIN1, TP53, IGF2R, MET, CASP8"
+  },
+  {
+    "id": 669,
+    "disease": "Hereditary_hemorrhagic_telangiectasia",
+    "class": "Cardiovascular",
+    "genes": "ENG, ACVRL1"
+  },
+  {
+    "id": 670,
+    "disease": "Hermansky-Pudlak_syndrome",
+    "class": "multiple",
+    "genes": "HPS1, HPS3, HPS4, HPS5, HPS6, AP3B1, DTNBP1"
+  },
+  {
+    "id": 675,
+    "disease": "Heterotaxy",
+    "class": "multiple",
+    "genes": "CFC1, ZIC3"
+  },
+  {
+    "id": 676,
+    "disease": "Heterotopia",
+    "class": "Neurological",
+    "genes": "FLNA"
+  },
+  {
+    "id": 677,
+    "disease": "Hex_A_pseudodeficiency",
+    "class": "Metabolic",
+    "genes": "HEXA"
+  },
+  {
+    "id": 679,
+    "disease": "High-molecular-weight_kininogen_deficiency",
+    "class": "Hematological",
+    "genes": "KNG1"
+  },
+  {
+    "id": 681,
+    "disease": "Hirschsprung_disease",
+    "class": "Gastrointestinal",
+    "genes": "EDN3, GDNF, NRTN, RET, EDNRB, ECE1, PHOX2B"
+  },
+  {
+    "id": 682,
+    "disease": "Histidinemia",
+    "class": "Metabolic",
+    "genes": "HAL"
+  },
+  {
+    "id": 683,
+    "disease": "Histiocytoma",
+    "class": "Cancer",
+    "genes": "TP53"
+  },
+  {
+    "id": 684,
+    "disease": "HIV",
+    "class": "Immunological",
+    "genes": "CCL5, IL10, CCR2, CCR5"
+  },
+  {
+    "id": 686,
+    "disease": "HMG-CoA_deficiency",
+    "class": "Metabolic",
+    "genes": "HMGCL, HMGCS2"
+  },
+  {
+    "id": 688,
+    "disease": "Holocarboxylase_synthetase_deficiency",
+    "class": "Metabolic",
+    "genes": "HLCS"
+  },
+  {
+    "id": 689,
+    "disease": "Holoprosencephaly",
+    "class": "Developmental",
+    "genes": "SIX3, SHH, TGIF, ZIC2, PTCH"
+  },
+  {
+    "id": 696,
+    "disease": "Holt-Oram_syndrome",
+    "class": "Developmental",
+    "genes": "TBX5"
+  },
+  {
+    "id": 697,
+    "disease": "Homocysteine_plasma_level",
+    "class": "Metabolic",
+    "genes": "CTH"
+  },
+  {
+    "id": 698,
+    "disease": "Homocystinuria",
+    "class": "Metabolic",
+    "genes": "CBS, MTHFR"
+  },
+  {
+    "id": 699,
+    "disease": "Homocystinuria-megaloblastic_anemia,_cbl_E_type",
+    "class": "Metabolic",
+    "genes": "MTRR"
+  },
+  {
+    "id": 701,
+    "disease": "Homozygous_2p16_deletion_syndrome",
+    "class": "multiple",
+    "genes": "SLC3A1"
+  },
+  {
+    "id": 702,
+    "disease": "Hoyeraal-Hreidarsson_syndrome",
+    "class": "multiple",
+    "genes": "DKC1"
+  },
+  {
+    "id": 703,
+    "disease": "HPFH",
+    "class": "Hematological",
+    "genes": "HBB, HBG1, HBG2"
+  },
+  {
+    "id": 704,
+    "disease": "HPRT-related_gout",
+    "class": "Metabolic",
+    "genes": "HPRT1"
+  },
+  {
+    "id": 705,
+    "disease": "H._pylori_infection",
+    "class": "Immunological",
+    "genes": "IFNGR1"
+  },
+  {
+    "id": 708,
+    "disease": "Huntington_disease",
+    "class": "Neurological",
+    "genes": "HD, PRNP, JPH3, TBP"
+  },
+  {
+    "id": 710,
+    "disease": "Hyalinosis,_infantile_systemic",
+    "class": "multiple",
+    "genes": "ANTXR2"
+  },
+  {
+    "id": 712,
+    "disease": "Hydrocephalus",
+    "class": "Neurological",
+    "genes": "L1CAM"
+  },
+  {
+    "id": 716,
+    "disease": "Hyperalphalipoproteinemia",
+    "class": "Metabolic",
+    "genes": "CETP"
+  },
+  {
+    "id": 717,
+    "disease": "Hyperammonemia",
+    "class": "Metabolic",
+    "genes": "ALDH18A1"
+  },
+  {
+    "id": 718,
+    "disease": "Hyperandrogenism",
+    "class": "Endocrine",
+    "genes": "CYP21A2"
+  },
+  {
+    "id": 719,
+    "disease": "Hyperapobetalipoproteinemia",
+    "class": "Metabolic",
+    "genes": "PPARA"
+  },
+  {
+    "id": 720,
+    "disease": "Hyperbilirubinemia",
+    "class": "Gastrointestinal",
+    "genes": "UGT1A1"
+  },
+  {
+    "id": 721,
+    "disease": "Hypercalciuria",
+    "class": "Renal",
+    "genes": "SAC"
+  },
+  {
+    "id": 723,
+    "disease": "Hypercholanemia",
+    "class": "Gastrointestinal",
+    "genes": "BAAT, EPHX1, TJP2"
+  },
+  {
+    "id": 724,
+    "disease": "Hypercholesterolemia",
+    "class": "Metabolic",
+    "genes": "APOB, LDLR, PCSK9, LDLRAP1, EPHX2, APOA2, C7orf16, ITIH4"
+  },
+  {
+    "id": 725,
+    "disease": "Hyperekplexia",
+    "class": "Neurological",
+    "genes": "GLRA1, GLRB"
+  },
+  {
+    "id": 726,
+    "disease": "Hypereosinophilic_syndrome",
+    "class": "Hematological",
+    "genes": "PDGFRA"
+  },
+  {
+    "id": 727,
+    "disease": "Hyperferritinemia-cataract_syndrome",
+    "class": "Ophthamological",
+    "genes": "FTL"
+  },
+  {
+    "id": 728,
+    "disease": "Hyper-IgD_syndrome",
+    "class": "Immunological",
+    "genes": "MVK"
+  },
+  {
+    "id": 731,
+    "disease": "Hyperinsulinism",
+    "class": "Metabolic",
+    "genes": "GCK"
+  },
+  {
+    "id": 732,
+    "disease": "Hyperinsulinism-hyperammonemia_syndrome",
+    "class": "Metabolic",
+    "genes": "GLUD1"
+  },
+  {
+    "id": 733,
+    "disease": "Hyperkalemic_periodic_paralysis",
+    "class": "Neurological",
+    "genes": "SCN4A"
+  },
+  {
+    "id": 734,
+    "disease": "Hyperkeratotic_cutaneous_capillary-venous_malformations_associated_with_cerebral_capillary_malformations",
+    "class": "Neurological",
+    "genes": "KRIT1"
+  },
+  {
+    "id": 736,
+    "disease": "Hyperlipidemia",
+    "class": "Metabolic",
+    "genes": "USF1"
+  },
+  {
+    "id": 737,
+    "disease": "Hyperlipoproteinemia",
+    "class": "Metabolic",
+    "genes": "APOC2, APOE"
+  },
+  {
+    "id": 738,
+    "disease": "Hyperlysinemia",
+    "class": "Metabolic",
+    "genes": "AASS"
+  },
+  {
+    "id": 739,
+    "disease": "Hypermethioninemia",
+    "class": "Metabolic",
+    "genes": "MAT1A, AHCY"
+  },
+  {
+    "id": 740,
+    "disease": "Hyperornithinemia-hyperammonemia-homocitrullinemia_syndrome",
+    "class": "Metabolic",
+    "genes": "SLC25A15"
+  },
+  {
+    "id": 741,
+    "disease": "Hyperostosis,_endosteal",
+    "class": "Bone",
+    "genes": "LRP5"
+  },
+  {
+    "id": 742,
+    "disease": "Hyperoxaluria",
+    "class": "Metabolic",
+    "genes": "AGXT, GRHPR"
+  },
+  {
+    "id": 743,
+    "disease": "Hyperparathyroidism",
+    "class": "Endocrine",
+    "genes": "MEN1, CDC73, CASR"
+  },
+  {
+    "id": 746,
+    "disease": "Hyperphenylalaninemia",
+    "class": "Metabolic",
+    "genes": "PCBD1, PAH"
+  },
+  {
+    "id": 748,
+    "disease": "Hyperproinsulinemia",
+    "class": "Endocrine",
+    "genes": "INS"
+  },
+  {
+    "id": 749,
+    "disease": "Hyperprolinemia",
+    "class": "Metabolic",
+    "genes": "PRODH, ALDH4A1"
+  },
+  {
+    "id": 750,
+    "disease": "Hyperproreninemia",
+    "class": "Cardiovascular",
+    "genes": "REN"
+  },
+  {
+    "id": 751,
+    "disease": "Hyperprothrombinemia",
+    "class": "Hematological",
+    "genes": "F2"
+  },
+  {
+    "id": 752,
+    "disease": "Hypertension",
+    "class": "Cardiovascular",
+    "genes": "KCNMB1, NR3C2, AGTR1, PTGIS, ADD1, AGT, ECE1, GNB3, RETN, HSD11B2, NOS3, CYP3A5"
+  },
+  {
+    "id": 754,
+    "disease": "Hyperthroidism",
+    "class": "Endocrine",
+    "genes": "TSHR"
+  },
+  {
+    "id": 755,
+    "disease": "Hyperthyroidism",
+    "class": "Endocrine",
+    "genes": "TPO"
+  },
+  {
+    "id": 757,
+    "disease": "Hypertriglyceridemia",
+    "class": "Metabolic",
+    "genes": "APOA1, APOA5, LIPI, RP1"
+  },
+  {
+    "id": 758,
+    "disease": "Hypertrypsinemia",
+    "class": "Gastrointestinal",
+    "genes": "CFTR"
+  },
+  {
+    "id": 759,
+    "disease": "Hyperuricemic_nephropathy",
+    "class": "Renal",
+    "genes": "UMOD"
+  },
+  {
+    "id": 761,
+    "disease": "Hypoaldosteronism",
+    "class": "Metabolic",
+    "genes": "CYP11B2"
+  },
+  {
+    "id": 762,
+    "disease": "Hypoalphalipoproteinemia",
+    "class": "Metabolic",
+    "genes": "APOA1"
+  },
+  {
+    "id": 763,
+    "disease": "Hypobetalipoproteinemia",
+    "class": "Metabolic",
+    "genes": "APOB"
+  },
+  {
+    "id": 764,
+    "disease": "Hypocalcemia",
+    "class": "Endocrine",
+    "genes": "CASR"
+  },
+  {
+    "id": 765,
+    "disease": "Hypocalciuric_hypercalcemia",
+    "class": "Endocrine",
+    "genes": "CASR"
+  },
+  {
+    "id": 766,
+    "disease": "Hypoceruloplasminemia",
+    "class": "Metabolic",
+    "genes": "CP"
+  },
+  {
+    "id": 767,
+    "disease": "Hypochondroplasia",
+    "class": "Skeletal",
+    "genes": "FGFR3"
+  },
+  {
+    "id": 768,
+    "disease": "Hypochromic_microcytic_anemia",
+    "class": "Hematological",
+    "genes": "HBA2"
+  },
+  {
+    "id": 769,
+    "disease": "Hypodontia",
+    "class": "Skeletal",
+    "genes": "PAX9, MSX1"
+  },
+  {
+    "id": 770,
+    "disease": "Hypofibrinogenemia",
+    "class": "Hematological",
+    "genes": "FGG"
+  },
+  {
+    "id": 771,
+    "disease": "Hypoglobulinemia_and_absent_B_cells",
+    "class": "Immunological",
+    "genes": "BLNK"
+  },
+  {
+    "id": 772,
+    "disease": "Hypoglycemia",
+    "class": "Metabolic",
+    "genes": "ABCC8"
+  },
+  {
+    "id": 773,
+    "disease": "Hypogonadism,_hypergonadotropic",
+    "class": "Endocrine",
+    "genes": "LHB"
+  },
+  {
+    "id": 774,
+    "disease": "Hypogonadotropic_hypogonadism",
+    "class": "Endocrine",
+    "genes": "GPR54, NELF, GNRHR, LHCGR"
+  },
+  {
+    "id": 775,
+    "disease": "Hypohaptoglobinemia",
+    "class": "Hematological",
+    "genes": "HP"
+  },
+  {
+    "id": 776,
+    "disease": "Hypokalemic_periodic_paralysis",
+    "class": "Renal",
+    "genes": "CACNA1S, KCNE3, SCN4A"
+  },
+  {
+    "id": 777,
+    "disease": "Hypolactasia,_adult_type",
+    "class": "Metabolic",
+    "genes": "LCT, MCM6"
+  },
+  {
+    "id": 778,
+    "disease": "Hypomagnesemia",
+    "class": "Renal",
+    "genes": "FXYD2, CLDN16, TRPM6"
+  },
+  {
+    "id": 779,
+    "disease": "Hypoparathyroidism",
+    "class": "Endocrine",
+    "genes": "PTH, GCM2"
+  },
+  {
+    "id": 780,
+    "disease": "Hypoparathyroidism-retardation-dysmorphism_syndrome",
+    "class": "Endocrine",
+    "genes": "TBCE"
+  },
+  {
+    "id": 781,
+    "disease": "Hypoparathyroidism",
+    "class": "Endocrine",
+    "genes": "GATA3"
+  },
+  {
+    "id": 782,
+    "disease": "Hypophosphatasia",
+    "class": "Metabolic",
+    "genes": "ALPL"
+  },
+  {
+    "id": 783,
+    "disease": "Hypophosphatemia",
+    "class": "Metabolic",
+    "genes": "CLCN5, PHEX"
+  },
+  {
+    "id": 784,
+    "disease": "Hypophosphatemic_rickets",
+    "class": "Bone",
+    "genes": "FGF23"
+  },
+  {
+    "id": 785,
+    "disease": "Hypoplastic_enamel_pitting,_localized",
+    "class": "Connective_tissue_disorder",
+    "genes": "ENAM"
+  },
+  {
+    "id": 786,
+    "disease": "Hypoprothrombinemia",
+    "class": "Hematological",
+    "genes": "F2"
+  },
+  {
+    "id": 787,
+    "disease": "Hypothyroidism",
+    "class": "Endocrine",
+    "genes": "CTLA4, SLC5A5, DUOX2, PAX8, TSHR, TG, TSHB"
+  },
+  {
+    "id": 788,
+    "disease": "Hypotrichosis",
+    "class": "Dermatological",
+    "genes": "CDH3, DSG4, SOX18, CDSN"
+  },
+  {
+    "id": 791,
+    "disease": "Hypouricemia",
+    "class": "Renal",
+    "genes": "SLC22A12"
+  },
+  {
+    "id": 792,
+    "disease": "Hystrix-like_ichthyosis_with_deafness",
+    "class": "multiple",
+    "genes": "GJB2"
+  },
+  {
+    "id": 793,
+    "disease": "Ichthyosiform_erythroderma",
+    "class": "Dermatological",
+    "genes": "TGM1, ALOX12B, ALOXE3"
+  },
+  {
+    "id": 794,
+    "disease": "Ichthyosis",
+    "class": "Dermatological",
+    "genes": "KRT2A, ICHTHYIN, KRT10, ABCA12, KRT1, TGM1, STS"
+  },
+  {
+    "id": 795,
+    "disease": "ICOS_deficiency",
+    "class": "Immunological",
+    "genes": "ICOS"
+  },
+  {
+    "id": 797,
+    "disease": "IgE_levels_QTL",
+    "class": "Immunological",
+    "genes": "PHF11"
+  },
+  {
+    "id": 798,
+    "disease": "IgG2_deficiency",
+    "class": "Immunological",
+    "genes": "IGHG2"
+  },
+  {
+    "id": 799,
+    "disease": "IgG_receptor_I,_phagocytic,_familial_deficiency_of",
+    "class": "Immunological",
+    "genes": "FCGR1A"
+  },
+  {
+    "id": 801,
+    "disease": "Immunodeficiency-centromeric_instability-facial_anomalies_syndrome",
+    "class": "multiple",
+    "genes": "DNMT3B"
+  },
+  {
+    "id": 802,
+    "disease": "Immunodeficiency",
+    "class": "Immunological",
+    "genes": "CD3E, CD3G, AICDA, CD40, UNG, CD40LG"
+  },
+  {
+    "id": 803,
+    "disease": "Immunodysregulation,_polyendocrinopathy,_and_enteropathy,_X-linked",
+    "class": "multiple",
+    "genes": "FOXP3"
+  },
+  {
+    "id": 804,
+    "disease": "Immunoglobulin_A_deficiency",
+    "class": "Immunological",
+    "genes": "TNFRSF13B"
+  },
+  {
+    "id": 805,
+    "disease": "Inclusion_body_myopathy",
+    "class": "Muscular",
+    "genes": "MYH2, GNE, VCP"
+  },
+  {
+    "id": 806,
+    "disease": "Incontinentia_pigmenti",
+    "class": "Dermatological",
+    "genes": "IKBKG"
+  },
+  {
+    "id": 807,
+    "disease": "Infantile_spasm_syndrome",
+    "class": "Neurological",
+    "genes": "ARX"
+  },
+  {
+    "id": 809,
+    "disease": "Infundibular_hypoplasia_and_hypopituitarism",
+    "class": "Endocrine",
+    "genes": "SOX3"
+  },
+  {
+    "id": 810,
+    "disease": "Inosine_triphosphatase_deficiency",
+    "class": "Metabolic",
+    "genes": "ITPA"
+  },
+  {
+    "id": 811,
+    "disease": "Insensitivity_to_pain",
+    "class": "Neurological",
+    "genes": "NTRK1"
+  },
+  {
+    "id": 812,
+    "disease": "Insomnia",
+    "class": "Psychiatric",
+    "genes": "GABRB3, PRNP"
+  },
+  {
+    "id": 814,
+    "disease": "Insulin_resistance",
+    "class": "Metabolic",
+    "genes": "PPARG, PPP1R3A, PTPN1"
+  },
+  {
+    "id": 816,
+    "disease": "Interleukin-2_receptor,_alpha_chain,_deficiency_of",
+    "class": "Immunological",
+    "genes": "IL2RA"
+  },
+  {
+    "id": 817,
+    "disease": "Intervertebral_disc_disease",
+    "class": "Neurological",
+    "genes": "COL9A2, COL9A3"
+  },
+  {
+    "id": 819,
+    "disease": "Intrauterine_and_postnatal_growth_retardation",
+    "class": "Developmental",
+    "genes": "IGF1R, IGF2"
+  },
+  {
+    "id": 820,
+    "disease": "Intrinsic_factor_deficiency",
+    "class": "Hematological",
+    "genes": "GIF"
+  },
+  {
+    "id": 821,
+    "disease": "IRAK4_deficiency",
+    "class": "Immunological",
+    "genes": "IRAK4"
+  },
+  {
+    "id": 822,
+    "disease": "Iridogoniodysgenesis",
+    "class": "Ophthamological",
+    "genes": "FOXC1, PITX2"
+  },
+  {
+    "id": 823,
+    "disease": "Iris_hypoplasia_and_glaucoma",
+    "class": "Ophthamological",
+    "genes": "FOXC1"
+  },
+  {
+    "id": 824,
+    "disease": "Iron_overload/deficiency",
+    "class": "Hematological",
+    "genes": "TF, FTH1"
+  },
+  {
+    "id": 825,
+    "disease": "Isolated_growth_hormone_deficiency",
+    "class": "Endocrine",
+    "genes": "GH1"
+  },
+  {
+    "id": 826,
+    "disease": "Isovaleric_acidemia",
+    "class": "Metabolic",
+    "genes": "IVD"
+  },
+  {
+    "id": 827,
+    "disease": "Jackson-Weiss_syndrome",
+    "class": "Skeletal",
+    "genes": "FGFR1, FGFR2"
+  },
+  {
+    "id": 829,
+    "disease": "Jensen_syndrome",
+    "class": "Neurological",
+    "genes": "TIMM8A"
+  },
+  {
+    "id": 830,
+    "disease": "Jervell_and_Lange-Nielsen_syndrome",
+    "class": "multiple",
+    "genes": "KCNE1, KCNQ1"
+  },
+  {
+    "id": 831,
+    "disease": "Joubert_syndrome",
+    "class": "multiple",
+    "genes": "NPHP1, AHI1"
+  },
+  {
+    "id": 832,
+    "disease": "Juberg-Marsidi_syndrome",
+    "class": "multiple",
+    "genes": "ATRX"
+  },
+  {
+    "id": 833,
+    "disease": "Juvenile_polyposis/hereditary_hemorrhagic_telangiectasia_syndrome",
+    "class": "Cancer",
+    "genes": "SMAD4"
+  },
+  {
+    "id": 835,
+    "disease": "Kallikrein,_decreased_urinary_activity_of",
+    "class": "Renal",
+    "genes": "KLK1"
+  },
+  {
+    "id": 836,
+    "disease": "Kallmann_syndrome",
+    "class": "multiple",
+    "genes": "FGFR1, KAL1"
+  },
+  {
+    "id": 837,
+    "disease": "Kanzaki_disease",
+    "class": "Metabolic",
+    "genes": "NAGA"
+  },
+  {
+    "id": 838,
+    "disease": "Kaposi_sarcoma",
+    "class": "Immunological",
+    "genes": "IL6"
+  },
+  {
+    "id": 839,
+    "disease": "Kappa_light_chain_deficiency",
+    "class": "Immunological",
+    "genes": "IGKC"
+  },
+  {
+    "id": 840,
+    "disease": "Kartagener_syndrome",
+    "class": "multiple",
+    "genes": "DNAH11, DNAH5, DNAI1"
+  },
+  {
+    "id": 841,
+    "disease": "Kenny-Caffey_syndrome-1",
+    "class": "multiple",
+    "genes": "TBCE"
+  },
+  {
+    "id": 842,
+    "disease": "Keratitis",
+    "class": "Ophthamological",
+    "genes": "PAX6"
+  },
+  {
+    "id": 843,
+    "disease": "Keratitis-ichthyosis-deafness_syndrome",
+    "class": "multiple",
+    "genes": "GJB2"
+  },
+  {
+    "id": 844,
+    "disease": "Keratoconus",
+    "class": "Ophthamological",
+    "genes": "VSX1"
+  },
+  {
+    "id": 845,
+    "disease": "Keratoderma,_palmoplantar,_with_deafness",
+    "class": "Dermatological",
+    "genes": "GJB2"
+  },
+  {
+    "id": 847,
+    "disease": "Keratosis_palmoplantaria_striata",
+    "class": "Dermatological",
+    "genes": "SAT, KRT1, DSG1, DSP"
+  },
+  {
+    "id": 848,
+    "disease": "Ketoacidosis",
+    "class": "Metabolic",
+    "genes": "OXCT1"
+  },
+  {
+    "id": 849,
+    "disease": "Keutel_syndrome",
+    "class": "multiple",
+    "genes": "MGP"
+  },
+  {
+    "id": 850,
+    "disease": "Kindler_syndrome",
+    "class": "Dermatological",
+    "genes": "C20orf42"
+  },
+  {
+    "id": 851,
+    "disease": "Kininogen_deficiency",
+    "class": "Hematological",
+    "genes": "KNG1"
+  },
+  {
+    "id": 853,
+    "disease": "Klippel-Trenaunay_syndrome",
+    "class": "multiple",
+    "genes": "AGGF1"
+  },
+  {
+    "id": 854,
+    "disease": "Kniest_dysplasia",
+    "class": "Skeletal",
+    "genes": "COL2A1"
+  },
+  {
+    "id": 855,
+    "disease": "Knobloch_syndrome",
+    "class": "multiple",
+    "genes": "COL18A1"
+  },
+  {
+    "id": 856,
+    "disease": "Krabbe_disease",
+    "class": "Neurological",
+    "genes": "GALC"
+  },
+  {
+    "id": 857,
+    "disease": "L-2-hydroxyglutaric_aciduria",
+    "class": "Metabolic",
+    "genes": "L2HGDH"
+  },
+  {
+    "id": 858,
+    "disease": "Lactate_dehydrogenase-B_deficiency",
+    "class": "Metabolic",
+    "genes": "LDHB"
+  },
+  {
+    "id": 859,
+    "disease": "Lacticacidemia_due_to_PDX1_deficiency",
+    "class": "Metabolic",
+    "genes": "PDHX"
+  },
+  {
+    "id": 862,
+    "disease": "Langer_mesomelic_dysplasia",
+    "class": "Skeletal",
+    "genes": "SHOX"
+  },
+  {
+    "id": 863,
+    "disease": "Laron_dwarfism",
+    "class": "Skeletal",
+    "genes": "GHR"
+  },
+  {
+    "id": 865,
+    "disease": "Larson_syndrome",
+    "class": "Skeletal",
+    "genes": "FLNB"
+  },
+  {
+    "id": 868,
+    "disease": "Laryngoonychocutaneous_syndrome",
+    "class": "multiple",
+    "genes": "LAMA3"
+  },
+  {
+    "id": 869,
+    "disease": "Lathosterolosis",
+    "class": "Metabolic",
+    "genes": "SC5DL"
+  },
+  {
+    "id": 870,
+    "disease": "LCHAD_deficiency",
+    "class": "Metabolic",
+    "genes": "HADHA"
+  },
+  {
+    "id": 871,
+    "disease": "Lead_poisoning",
+    "class": "Metabolic",
+    "genes": "ALAD"
+  },
+  {
+    "id": 872,
+    "disease": "Leanness,_inherited",
+    "class": "Nutritional",
+    "genes": "AGRP"
+  },
+  {
+    "id": 873,
+    "disease": "Leber_congenital_amaurosis",
+    "class": "Ophthamological",
+    "genes": "CRB1, CRX, RPGRIP1, RPE65, AIPL1, GUCY2D, RDH12"
+  },
+  {
+    "id": 874,
+    "disease": "Left-right_axis_malformations",
+    "class": "Developmental",
+    "genes": "ACVR2B, LEFTY2"
+  },
+  {
+    "id": 875,
+    "disease": "Left_ventricular_noncompaction",
+    "class": "Cardiovascular",
+    "genes": "DTNA"
+  },
+  {
+    "id": 876,
+    "disease": "Legionaire_disease",
+    "class": "Immunological",
+    "genes": "TLR5"
+  },
+  {
+    "id": 877,
+    "disease": "Leigh_syndrome",
+    "class": "Neurological",
+    "genes": "BCS1L, GCSL, NDUFS3, NDUFS4, NDUFS7, NDUFS8, NDUFV1, SDHA, SURF1, COX15, LRPPRC, PDHA1"
+  },
+  {
+    "id": 878,
+    "disease": "Leiomyomatosis",
+    "class": "Cancer",
+    "genes": "FH, COL4A6"
+  },
+  {
+    "id": 880,
+    "disease": "Leopard_syndrome",
+    "class": "multiple",
+    "genes": "PTPN11"
+  },
+  {
+    "id": 881,
+    "disease": "Leprechaunism",
+    "class": "Developmental",
+    "genes": "INSR"
+  },
+  {
+    "id": 882,
+    "disease": "Leprosy",
+    "class": "Immunological",
+    "genes": "PARK2"
+  },
+  {
+    "id": 883,
+    "disease": "Leri-Weill_dyschondrosteosis",
+    "class": "Skeletal",
+    "genes": "SHOX"
+  },
+  {
+    "id": 884,
+    "disease": "Lesch-Nyhan_syndrome,",
+    "class": "Metabolic",
+    "genes": "HPRT1"
+  },
+  {
+    "id": 886,
+    "disease": "Leukemia",
+    "class": "Cancer",
+    "genes": "TAL1, TAL2, FLT3, NBN, ZNFN1A1, HOXD4, BCR, ARNT, KRAS, GMPS, MLLT10, ARHGEF12, PICALM, CEBPA, CHIC2, KIT, LPP, NPM1, NUP214, RUNX1, WHSC1L1, MLLT11, NUMA1, ZBTB16, PML, STAT5B, ARL11, P2RX7, ARHGAP26, NF1, PTPN11, BCL2, CCND1, TRA@, GATA1, ABL1, NQO1"
+  },
+  {
+    "id": 889,
+    "disease": "Leukocyte_adhesion_deficiency",
+    "class": "Immunological",
+    "genes": "ITGB2"
+  },
+  {
+    "id": 891,
+    "disease": "Leukoencephalopathy_with_vanishing_white_matter",
+    "class": "Neurological",
+    "genes": "EIF2B1, EIF2B2, EIF2B3, EIF2B5, EIF2B4"
+  },
+  {
+    "id": 894,
+    "disease": "Leydig_cell_adenoma",
+    "class": "Cancer",
+    "genes": "LHCGR"
+  },
+  {
+    "id": 895,
+    "disease": "Lhermitte-Duclos_syndrome",
+    "class": "Cancer",
+    "genes": "PTEN"
+  },
+  {
+    "id": 896,
+    "disease": "Liddle_syndrome",
+    "class": "Renal",
+    "genes": "SCNN1B, SCNN1G"
+  },
+  {
+    "id": 897,
+    "disease": "Li_Fraumeni_syndrome",
+    "class": "Cancer",
+    "genes": "CDKN2A"
+  },
+  {
+    "id": 898,
+    "disease": "Li-Fraumeni_syndrome",
+    "class": "Cancer",
+    "genes": "TP53, CHEK2"
+  },
+  {
+    "id": 899,
+    "disease": "LIG4_syndrome",
+    "class": "multiple",
+    "genes": "LIG4"
+  },
+  {
+    "id": 901,
+    "disease": "Limb-mammary_syndrome",
+    "class": "multiple",
+    "genes": "TP73L"
+  },
+  {
+    "id": 902,
+    "disease": "Lipodystrophy",
+    "class": "Metabolic",
+    "genes": "AGPAT2, BSCL2, LMNA, PPARG, PPARGC1A"
+  },
+  {
+    "id": 903,
+    "disease": "Lipoid_adrenal_hyperplasia",
+    "class": "Endocrine",
+    "genes": "STAR, CYP11A1"
+  },
+  {
+    "id": 904,
+    "disease": "Lipoma",
+    "class": "Cancer",
+    "genes": "HMGA2, LPP, MEN1"
+  },
+  {
+    "id": 906,
+    "disease": "Lipoprotein_lipase_deficiency",
+    "class": "Metabolic",
+    "genes": "LPL"
+  },
+  {
+    "id": 908,
+    "disease": "Lissencephaly",
+    "class": "Neurological",
+    "genes": "PAFAH1B1, RELN, DCX, ARX"
+  },
+  {
+    "id": 909,
+    "disease": "Listeria_monocytogenes",
+    "class": "Immunological",
+    "genes": "CDH1"
+  },
+  {
+    "id": 910,
+    "disease": "Loeys-Dietz_syndrome",
+    "class": "Connective_tissue_disorder",
+    "genes": "TGFBR1, TGFBR2"
+  },
+  {
+    "id": 911,
+    "disease": "Longevity",
+    "class": "Developmental",
+    "genes": "CETP, AKAP10"
+  },
+  {
+    "id": 912,
+    "disease": "Long_QT_syndrome",
+    "class": "Cardiovascular",
+    "genes": "KCNQ1, KCNH2, SCN5A, ANK2, KCNE1, KCNE2, KCNJ2"
+  },
+  {
+    "id": 913,
+    "disease": "Lower_motor_neuron_disease,_progressive,_without_sensory_symptoms",
+    "class": "Neurological",
+    "genes": "DCTN1"
+  },
+  {
+    "id": 914,
+    "disease": "Lowe_syndrome",
+    "class": "Metabolic",
+    "genes": "OCRL"
+  },
+  {
+    "id": 915,
+    "disease": "Low_renin_hypertension",
+    "class": "Cardiovascular",
+    "genes": "CYP11B2"
+  },
+  {
+    "id": 916,
+    "disease": "LPA_deficiency,_congenital",
+    "class": "Metabolic",
+    "genes": "LPA"
+  },
+  {
+    "id": 917,
+    "disease": "Lumbar_disc_disease",
+    "class": "Skeletal",
+    "genes": "CILP"
+  },
+  {
+    "id": 918,
+    "disease": "Lung_cancer",
+    "class": "Cancer",
+    "genes": "KRAS, PPP2R1B, SLC22A18, MAP3K8"
+  },
+  {
+    "id": 919,
+    "disease": "Lupus_erythematosus",
+    "class": "Connective_tissue_disorder",
+    "genes": "FCGR2A"
+  },
+  {
+    "id": 920,
+    "disease": "Lymphangioleiomyomatosis",
+    "class": "Respiratory",
+    "genes": "TSC1, TSC2"
+  },
+  {
+    "id": 921,
+    "disease": "Lymphedema",
+    "class": "Hematological",
+    "genes": "FOXC2, FLT4"
+  },
+  {
+    "id": 925,
+    "disease": "Lymphoma",
+    "class": "Cancer",
+    "genes": "RAP1GDS1, ATM, BCL8, BCL10, RAD54B, RAD54L, FCGR2B, MAD1L1, MSH2, SH2D1A"
+  },
+  {
+    "id": 930,
+    "disease": "Lynch_cancer_family_syndrome_II",
+    "class": "Cancer",
+    "genes": "MSH2"
+  },
+  {
+    "id": 931,
+    "disease": "Lysinuric_protein_intolerance",
+    "class": "Metabolic",
+    "genes": "SLC7A7"
+  },
+  {
+    "id": 933,
+    "disease": "Machado-Joseph_disease",
+    "class": "Neurological",
+    "genes": "ATXN3"
+  },
+  {
+    "id": 935,
+    "disease": "Macrocytic_anemia",
+    "class": "Hematological",
+    "genes": "IRF1"
+  },
+  {
+    "id": 936,
+    "disease": "Macrothrombocytopenia",
+    "class": "Hematological",
+    "genes": "GATA1"
+  },
+  {
+    "id": 937,
+    "disease": "Macular_degeneration",
+    "class": "Ophthamological",
+    "genes": "CFH, HMCN1, FBLN5, CNGB3, RPGR"
+  },
+  {
+    "id": 938,
+    "disease": "Maculopathy,_bull's-eye",
+    "class": "Ophthamological",
+    "genes": "VMD2"
+  },
+  {
+    "id": 939,
+    "disease": "Major_depressive_disorder",
+    "class": "Psychiatric",
+    "genes": "FKBP5"
+  },
+  {
+    "id": 940,
+    "disease": "Malaria",
+    "class": "Immunological",
+    "genes": "CD36, ICAM1, TNF, GYPC, NOS2A"
+  },
+  {
+    "id": 942,
+    "disease": "Malignant_hyperthermia_susceptibility",
+    "class": "Neurological",
+    "genes": "RYR1, CACNA1S"
+  },
+  {
+    "id": 943,
+    "disease": "Malonyl-CoA_decarboxylase_deficiency",
+    "class": "Metabolic",
+    "genes": "MLYCD"
+  },
+  {
+    "id": 944,
+    "disease": "MALT_lymphoma",
+    "class": "Cancer",
+    "genes": "MALT1"
+  },
+  {
+    "id": 945,
+    "disease": "Mandibuloacral_dysplasia_with_type_B_lipodystrophy",
+    "class": "multiple",
+    "genes": "ZMPSTE24"
+  },
+  {
+    "id": 947,
+    "disease": "Mannosidosis",
+    "class": "Metabolic",
+    "genes": "MAN2B1, MANBA"
+  },
+  {
+    "id": 948,
+    "disease": "Maple_syrup_urine_disease",
+    "class": "Metabolic",
+    "genes": "BCKDHA, BCKDHB, DBT, GCSL"
+  },
+  {
+    "id": 950,
+    "disease": "Marfan_syndrome",
+    "class": "Connective_tissue_disorder",
+    "genes": "FBN1, COL1A2"
+  },
+  {
+    "id": 952,
+    "disease": "Maroteaux-Lamy_syndrome",
+    "class": "Metabolic",
+    "genes": "ARSB"
+  },
+  {
+    "id": 953,
+    "disease": "Marshall_syndrome",
+    "class": "multiple",
+    "genes": "COL11A1"
+  },
+  {
+    "id": 955,
+    "disease": "MASA_syndrome",
+    "class": "multiple",
+    "genes": "L1CAM"
+  },
+  {
+    "id": 956,
+    "disease": "MASP2_deficiency",
+    "class": "Immunological",
+    "genes": "MASP2"
+  },
+  {
+    "id": 957,
+    "disease": "MASS_syndrome",
+    "class": "Connective_tissue_disorder",
+    "genes": "FBN1"
+  },
+  {
+    "id": 958,
+    "disease": "Mast_cell_leukemia",
+    "class": "Cancer",
+    "genes": "KIT"
+  },
+  {
+    "id": 959,
+    "disease": "Mastocytosis_with_associated_hematologic_disorder",
+    "class": "Immunological",
+    "genes": "KIT"
+  },
+  {
+    "id": 960,
+    "disease": "Mast_syndrome",
+    "class": "Neurological",
+    "genes": "SPG21"
+  },
+  {
+    "id": 961,
+    "disease": "May-Hegglin_anomaly",
+    "class": "Hematological",
+    "genes": "MYH9"
+  },
+  {
+    "id": 962,
+    "disease": "McArdle_disease",
+    "class": "Metabolic",
+    "genes": "PYGM"
+  },
+  {
+    "id": 963,
+    "disease": "McCune-Albright_syndrome",
+    "class": "multiple",
+    "genes": "GNAS"
+  },
+  {
+    "id": 964,
+    "disease": "McKusick-Kaufman_syndrome",
+    "class": "Developmental",
+    "genes": "MKKS"
+  },
+  {
+    "id": 965,
+    "disease": "McLeod_syndrome",
+    "class": "Hematological",
+    "genes": "XK"
+  },
+  {
+    "id": 969,
+    "disease": "Medullary_cystic_kidney_disease",
+    "class": "Renal",
+    "genes": "UMOD"
+  },
+  {
+    "id": 970,
+    "disease": "Medulloblastoma",
+    "class": "Cancer",
+    "genes": "PTCH2, SUFU"
+  },
+  {
+    "id": 971,
+    "disease": "Meesmann_corneal_dystrophy",
+    "class": "Ophthamological",
+    "genes": "KRT12, KRT3"
+  },
+  {
+    "id": 973,
+    "disease": "Megakaryoblastic_leukemia,_acute",
+    "class": "Cancer",
+    "genes": "MKL1"
+  },
+  {
+    "id": 974,
+    "disease": "Megalencephalic_leukoencephalopathy_with_subcortical_cysts",
+    "class": "Neurological",
+    "genes": "MLC1"
+  },
+  {
+    "id": 975,
+    "disease": "Megaloblastic_anemia",
+    "class": "Hematological",
+    "genes": "CUBN, AMN"
+  },
+  {
+    "id": 978,
+    "disease": "Melanoma",
+    "class": "Cancer",
+    "genes": "CDK4, CDKN2A, XRCC3, STK11, BRAF"
+  },
+  {
+    "id": 979,
+    "disease": "Meleda_disease",
+    "class": "Dermatological",
+    "genes": "SLURP1"
+  },
+  {
+    "id": 981,
+    "disease": "Melnick-Needles_syndrome",
+    "class": "Skeletal",
+    "genes": "FLNA"
+  },
+  {
+    "id": 982,
+    "disease": "Melorheostosis_with_osteopoikilosis",
+    "class": "Developmental",
+    "genes": "LEMD3"
+  },
+  {
+    "id": 984,
+    "disease": "Memory_impairment",
+    "class": "Neurological",
+    "genes": "BDNF"
+  },
+  {
+    "id": 985,
+    "disease": "Meniere_disease",
+    "class": "Neurological",
+    "genes": "COCH"
+  },
+  {
+    "id": 986,
+    "disease": "Meningioma",
+    "class": "Cancer",
+    "genes": "MN1, PTEN, NF2, PDGFB"
+  },
+  {
+    "id": 987,
+    "disease": "Meningococcal_disease",
+    "class": "Immunological",
+    "genes": "MBL2"
+  },
+  {
+    "id": 988,
+    "disease": "Menkes_disease",
+    "class": "Neurological",
+    "genes": "ATP7A"
+  },
+  {
+    "id": 990,
+    "disease": "Mental_retardation",
+    "class": "Neurological",
+    "genes": "PRSS12, CRBN, NLGN4X, MECP2, PAK3, IL1RAPL1, ARX, SLC6A8, FTSJ1, ZNF81, TSPAN7, OPHN1, AFF2, SMCX, GDI1, ACSL4, RPS6KA3, ARHGEF6, AGTR2, FGD1, ZNF41, DLG3, SMS, SOX3"
+  },
+  {
+    "id": 991,
+    "disease": "Mephenytoin_poor_metabolizer",
+    "class": "Metabolic",
+    "genes": "CYP2C19"
+  },
+  {
+    "id": 992,
+    "disease": "Merkel_cell_carcinoma",
+    "class": "Cancer",
+    "genes": "SDHD"
+  },
+  {
+    "id": 993,
+    "disease": "Mesangial_sclerosis",
+    "class": "Renal",
+    "genes": "WT1"
+  },
+  {
+    "id": 995,
+    "disease": "Mesothelioma",
+    "class": "Cancer",
+    "genes": "BCL10"
+  },
+  {
+    "id": 996,
+    "disease": "Metachromatic_leukodystrophy",
+    "class": "Neurological",
+    "genes": "ARSA, PSAP"
+  },
+  {
+    "id": 997,
+    "disease": "Metaphyseal_chondrodysplasia",
+    "class": "Connective_tissue_disorder",
+    "genes": "PTHR1, COL10A1, RMRP"
+  },
+  {
+    "id": 999,
+    "disease": "Methemoglobinemia",
+    "class": "Hematological",
+    "genes": "CYB5, HBA1, HBB, CYB5R3"
+  },
+  {
+    "id": 1001,
+    "disease": "Methionine_adenosyltransferase_deficiency,_autosomal_recessive",
+    "class": "Metabolic",
+    "genes": "MAT1A"
+  },
+  {
+    "id": 1002,
+    "disease": "Methylcobalamin_deficiency,_cblG_type",
+    "class": "Metabolic",
+    "genes": "MTR"
+  },
+  {
+    "id": 1003,
+    "disease": "Methylmalonate_semialdehyde_dehydrogenase_deficiency",
+    "class": "Metabolic",
+    "genes": "ALDH6A1"
+  },
+  {
+    "id": 1004,
+    "disease": "Methylmalonic_aciduria",
+    "class": "Metabolic",
+    "genes": "MUT, MMAA, MMAB"
+  },
+  {
+    "id": 1005,
+    "disease": "Mevalonicaciduria",
+    "class": "Metabolic",
+    "genes": "MVK"
+  },
+  {
+    "id": 1006,
+    "disease": "MHC_class_II_deficiency",
+    "class": "Immunological",
+    "genes": "RFXANK"
+  },
+  {
+    "id": 1007,
+    "disease": "Microcephaly",
+    "class": "Neurological",
+    "genes": "SLC25A19, MCPH1, CDK5RAP2, ASPM, CENPJ"
+  },
+  {
+    "id": 1009,
+    "disease": "Microcoria-congenital_nephrosis_syndrome",
+    "class": "Ophthamological",
+    "genes": "LAMB2"
+  },
+  {
+    "id": 1011,
+    "disease": "Micropenis",
+    "class": "Renal",
+    "genes": "LHCGR"
+  },
+  {
+    "id": 1012,
+    "disease": "Microphthalmia",
+    "class": "Ophthamological",
+    "genes": "CHX10, SIX6, BCOR"
+  },
+  {
+    "id": 1013,
+    "disease": "Migraine",
+    "class": "Neurological",
+    "genes": "ATP1A2, EDNRA, ESR1, TNF"
+  },
+  {
+    "id": 1014,
+    "disease": "Miller-Dieker_lissencephaly",
+    "class": "multiple",
+    "genes": "YWHAE"
+  },
+  {
+    "id": 1016,
+    "disease": "Mitochondrial_complex_deficiency",
+    "class": "multiple",
+    "genes": "NDUFS1, NDUFS2, NDUFS4, NDUFV1, BCS1L, UQCRB, SDHA"
+  },
+  {
+    "id": 1018,
+    "disease": "Miyoshi_myopathy",
+    "class": "Muscular",
+    "genes": "DYSF"
+  },
+  {
+    "id": 1020,
+    "disease": "MODY",
+    "class": "Endocrine",
+    "genes": "TCF2, INS, HNF4A, GCK, TCF1, IPF1"
+  },
+  {
+    "id": 1022,
+    "disease": "Mohr-Tranebjaerg_syndrome",
+    "class": "Neurological",
+    "genes": "TIMM8A"
+  },
+  {
+    "id": 1023,
+    "disease": "Molybdenum_cofactor_deficiency",
+    "class": "Metabolic",
+    "genes": "MOCS1, MOCS2, GPHN"
+  },
+  {
+    "id": 1024,
+    "disease": "Monilethrix",
+    "class": "Dermatological",
+    "genes": "KRTHB1, KRTHB6"
+  },
+  {
+    "id": 1026,
+    "disease": "Morning_glory_disc_anomaly",
+    "class": "Skeletal",
+    "genes": "PAX6"
+  },
+  {
+    "id": 1028,
+    "disease": "Mowat-Wilson_syndrome",
+    "class": "Developmental",
+    "genes": "ZFHX1B"
+  },
+  {
+    "id": 1029,
+    "disease": "Moyamoya_disease",
+    "class": "Neurological",
+    "genes": "MYMY3"
+  },
+  {
+    "id": 1030,
+    "disease": "Muckle-Wells_syndrome",
+    "class": "multiple",
+    "genes": "CIAS1"
+  },
+  {
+    "id": 1031,
+    "disease": "Mucoepidermoid_salivary_gland_carcinoma",
+    "class": "Cancer",
+    "genes": "MAML2, MECT1"
+  },
+  {
+    "id": 1032,
+    "disease": "Mucolipidosis",
+    "class": "Metabolic",
+    "genes": "GNPTAB, GNPTG, MCOLN1"
+  },
+  {
+    "id": 1033,
+    "disease": "Mucopolysaccharidosis",
+    "class": "Metabolic",
+    "genes": "IDUA, IDS, GALNS, GLB1, GNS, HYAL1, GUSB"
+  },
+  {
+    "id": 1034,
+    "disease": "Muenke_syndrome",
+    "class": "Skeletal",
+    "genes": "FGFR3"
+  },
+  {
+    "id": 1035,
+    "disease": "Muir-Torre_syndrome",
+    "class": "Cancer",
+    "genes": "MLH1, MSH2"
+  },
+  {
+    "id": 1036,
+    "disease": "Mulibrey_nanism",
+    "class": "multiple",
+    "genes": "TRIM37"
+  },
+  {
+    "id": 1037,
+    "disease": "Multiple_endocrine_neoplasia",
+    "class": "Cancer",
+    "genes": "MEN1, RET"
+  },
+  {
+    "id": 1038,
+    "disease": "Muscle-eye-brain_disease",
+    "class": "multiple",
+    "genes": "POMGNT1"
+  },
+  {
+    "id": 1039,
+    "disease": "Muscle_hypertrophy",
+    "class": "Muscular",
+    "genes": "PHKA1, GDF8"
+  },
+  {
+    "id": 1040,
+    "disease": "Muscular_dystrophy",
+    "class": "Muscular",
+    "genes": "FKRP, LAMA2, LARGE, FCMD, MYOT, CAPN3, DYSF, SGCG, SGCA, SGCB, SGCD, TCAP, TRIM32, TTN, POMT1, CAV3, SEPN1, PLEC1"
+  },
+  {
+    "id": 1041,
+    "disease": "Myasthenia",
+    "class": "Muscular",
+    "genes": "FIMG1"
+  },
+  {
+    "id": 1042,
+    "disease": "Myasthenic_syndrome",
+    "class": "Muscular",
+    "genes": "SCN4A, CHRNB1, CHRNE, RAPSN, CHAT, CHRNA1, CHRND"
+  },
+  {
+    "id": 1043,
+    "disease": "Mycobacterial_infection",
+    "class": "Immunological",
+    "genes": "IL12RB1, IFNGR1, IFNGR2, STAT1, SLC11A1"
+  },
+  {
+    "id": 1045,
+    "disease": "Myelodysplastic_syndrome",
+    "class": "Muscular",
+    "genes": "MDS1, ACSL6, IRF1"
+  },
+  {
+    "id": 1046,
+    "disease": "Myelofibrosis,_idiopathic",
+    "class": "Hematological",
+    "genes": "JAK2"
+  },
+  {
+    "id": 1047,
+    "disease": "Myelogenous_leukemia",
+    "class": "Cancer",
+    "genes": "ACSL6, IRF1, CBFB, CSF1R"
+  },
+  {
+    "id": 1049,
+    "disease": "Myelokathexis,_isolated",
+    "class": "Immunological",
+    "genes": "CXCR4"
+  },
+  {
+    "id": 1050,
+    "disease": "Myelomonocytic_leukemia,_chronic",
+    "class": "Cancer",
+    "genes": "PDGFRB"
+  },
+  {
+    "id": 1051,
+    "disease": "Myeloperoxidase_deficiency",
+    "class": "Immunological",
+    "genes": "MPO"
+  },
+  {
+    "id": 1052,
+    "disease": "Myeloproliferative_disorder",
+    "class": "Cancer",
+    "genes": "PDGFRB"
+  },
+  {
+    "id": 1053,
+    "disease": "Myoadenylate_deaminase_deficiency",
+    "class": "Muscular",
+    "genes": "AMPD1"
+  },
+  {
+    "id": 1054,
+    "disease": "Myocardial_infarction",
+    "class": "Cardiovascular",
+    "genes": "F7, APOE, ACE, ALOX5AP, LGALS2, LTA, OLR1, THBD, GCLM, TNFSF4"
+  },
+  {
+    "id": 1055,
+    "disease": "Myoclonic_epilepsy",
+    "class": "Neurological",
+    "genes": "EFHC1, GABRG2, ARX"
+  },
+  {
+    "id": 1056,
+    "disease": "Myoglobinuria/hemolysis_due_to_PGK_deficiency",
+    "class": "Metabolic",
+    "genes": "PGK1"
+  },
+  {
+    "id": 1057,
+    "disease": "Myokymia_with_neonatal_epilepsy",
+    "class": "Neurological",
+    "genes": "KCNQ2"
+  },
+  {
+    "id": 1058,
+    "disease": "Myoneurogastrointestinal_encephalomyopathy_syndrome",
+    "class": "multiple",
+    "genes": "ECGF1"
+  },
+  {
+    "id": 1059,
+    "disease": "Myopathy",
+    "class": "Muscular",
+    "genes": "ACTA1, CRYAB, MYF6, ITGA7, DES, DYSF, CAV3, CPT2, PGAM2, MYH7"
+  },
+  {
+    "id": 1061,
+    "disease": "Myotilinopathy",
+    "class": "Muscular",
+    "genes": "MYOT"
+  },
+  {
+    "id": 1062,
+    "disease": "Myotonia_congenita",
+    "class": "Muscular",
+    "genes": "SCN4A, CLCN1"
+  },
+  {
+    "id": 1063,
+    "disease": "Myotonic_dystrophy",
+    "class": "Muscular",
+    "genes": "DMPK, ZNF9"
+  },
+  {
+    "id": 1064,
+    "disease": "Myotubular_myopathy",
+    "class": "Muscular",
+    "genes": "MTM1"
+  },
+  {
+    "id": 1065,
+    "disease": "Myxoid_liposarcoma",
+    "class": "Cancer",
+    "genes": "DDIT3"
+  },
+  {
+    "id": 1066,
+    "disease": "Myxoma,_intracardiac",
+    "class": "Cardiovascular",
+    "genes": "PRKAR1A"
+  },
+  {
+    "id": 1067,
+    "disease": "N-acetylglutamate_synthase_deficiency",
+    "class": "Metabolic",
+    "genes": "NAGS"
+  },
+  {
+    "id": 1070,
+    "disease": "Nail-patella_syndrome",
+    "class": "multiple",
+    "genes": "LMX1B"
+  },
+  {
+    "id": 1071,
+    "disease": "Nance-Horan_syndrome",
+    "class": "Ophthamological",
+    "genes": "NHS"
+  },
+  {
+    "id": 1073,
+    "disease": "Narcolepsy",
+    "class": "Psychiatric",
+    "genes": "HCRT"
+  },
+  {
+    "id": 1074,
+    "disease": "Nasopharyngeal_carcinoma",
+    "class": "Cancer",
+    "genes": "TP53"
+  },
+  {
+    "id": 1075,
+    "disease": "Nasu-Hakola_disease",
+    "class": "Bone",
+    "genes": "TREM2, TYROBP"
+  },
+  {
+    "id": 1077,
+    "disease": "Naxos_disease",
+    "class": "multiple",
+    "genes": "JUP"
+  },
+  {
+    "id": 1078,
+    "disease": "Nemaline_myopathy",
+    "class": "Muscular",
+    "genes": "TPM2, TPM3, NEB, TNNT1"
+  },
+  {
+    "id": 1080,
+    "disease": "Nephrogenic_syndrome_of_inappropriate_antidiuresis",
+    "class": "Renal",
+    "genes": "AVPR2"
+  },
+  {
+    "id": 1081,
+    "disease": "Nephrolithiasis",
+    "class": "Renal",
+    "genes": "CLCN5, ZNF365"
+  },
+  {
+    "id": 1082,
+    "disease": "Nephronophthisis",
+    "class": "Renal",
+    "genes": "INVS, NPHP4, NPHP3, NPHP1"
+  },
+  {
+    "id": 1084,
+    "disease": "Nephropathy-hypertension",
+    "class": "Renal",
+    "genes": "CFH"
+  },
+  {
+    "id": 1085,
+    "disease": "Nephropathy",
+    "class": "Renal",
+    "genes": "CD151"
+  },
+  {
+    "id": 1087,
+    "disease": "Nephrotic_syndrome",
+    "class": "Renal",
+    "genes": "NPHS1, NPHS2"
+  },
+  {
+    "id": 1088,
+    "disease": "Netherton_syndrome",
+    "class": "Dermatological",
+    "genes": "SPINK5"
+  },
+  {
+    "id": 1090,
+    "disease": "Neural_tube_defects,_maternal_risk_of",
+    "class": "Developmental",
+    "genes": "MTHFD1"
+  },
+  {
+    "id": 1091,
+    "disease": "Neuroblastoma",
+    "class": "Cancer",
+    "genes": "NME1, PHOX2B"
+  },
+  {
+    "id": 1092,
+    "disease": "Neurodegeneration",
+    "class": "Neurological",
+    "genes": "PANK2"
+  },
+  {
+    "id": 1093,
+    "disease": "Neuroectodermal_tumors",
+    "class": "multiple",
+    "genes": "PMS2"
+  },
+  {
+    "id": 1095,
+    "disease": "Neurofibromatosis",
+    "class": "Cancer",
+    "genes": "NF1"
+  },
+  {
+    "id": 1096,
+    "disease": "Neurofibromatosis-Noonan_syndrome",
+    "class": "Cancer",
+    "genes": "NF1"
+  },
+  {
+    "id": 1097,
+    "disease": "Neurofibromatosis",
+    "class": "Cancer",
+    "genes": "NF1, NF2, MSH2"
+  },
+  {
+    "id": 1098,
+    "disease": "Neurofibrosarcoma",
+    "class": "Cancer",
+    "genes": "MXI1"
+  },
+  {
+    "id": 1099,
+    "disease": "Neuropathy",
+    "class": "Neurological",
+    "genes": "EGR2, MPZ, HSPB1, HSPB8, SPTLC1, NGFB, HSN2, PMP22"
+  },
+  {
+    "id": 1101,
+    "disease": "Neutropenia",
+    "class": "Hematological",
+    "genes": "FCGR3A, ELA2, GFI1, WAS"
+  },
+  {
+    "id": 1102,
+    "disease": "Neutrophil_immunodeficiency_syndrome",
+    "class": "Immunological",
+    "genes": "RAC2"
+  },
+  {
+    "id": 1103,
+    "disease": "Nevo_syndrome",
+    "class": "Connective_tissue_disorder",
+    "genes": "PLOD1"
+  },
+  {
+    "id": 1104,
+    "disease": "Nevus,_epidermal,_epidermolytic_hyperkeratotic_type",
+    "class": "Dermatological",
+    "genes": "KRT10"
+  },
+  {
+    "id": 1105,
+    "disease": "Newfoundland_rod-cone_dystrophy",
+    "class": "Ophthamological",
+    "genes": "RLBP1"
+  },
+  {
+    "id": 1106,
+    "disease": "Nicotine_addiction",
+    "class": "Psychiatric",
+    "genes": "CYP2A6, CHRNA4, GPR51"
+  },
+  {
+    "id": 1107,
+    "disease": "Niemann-Pick_disease",
+    "class": "Metabolic",
+    "genes": "SMPD1, NPC1, NPC2"
+  },
+  {
+    "id": 1110,
+    "disease": "Night_blindness",
+    "class": "Ophthamological",
+    "genes": "GNAT1, NYX, PDE6B, CACNA1F, RHO"
+  },
+  {
+    "id": 1111,
+    "disease": "Nijmegen_breakage_syndrome",
+    "class": "multiple",
+    "genes": "NBN"
+  },
+  {
+    "id": 1112,
+    "disease": "Nonaka_myopathy",
+    "class": "Muscular",
+    "genes": "GNE"
+  },
+  {
+    "id": 1113,
+    "disease": "Noncompaction_of_left_ventricular_myocardium",
+    "class": "Cardiovascular",
+    "genes": "TAZ"
+  },
+  {
+    "id": 1114,
+    "disease": "Non-Hodgkin_lymphoma",
+    "class": "Cancer",
+    "genes": "CASP10"
+  },
+  {
+    "id": 1115,
+    "disease": "Nonsmall_cell_lung_cancer",
+    "class": "Cancer",
+    "genes": "IRF1, EGFR, BRAF"
+  },
+  {
+    "id": 1116,
+    "disease": "Noonan_syndrome",
+    "class": "Developmental",
+    "genes": "PTPN11"
+  },
+  {
+    "id": 1117,
+    "disease": "Norrie_disease",
+    "class": "Neurological",
+    "genes": "NDP"
+  },
+  {
+    "id": 1118,
+    "disease": "Norum_disease",
+    "class": "Metabolic",
+    "genes": "LCAT"
+  },
+  {
+    "id": 1119,
+    "disease": "Norwalk_virus_infection,_resistance_to",
+    "class": "Immunological",
+    "genes": "FUT2"
+  },
+  {
+    "id": 1122,
+    "disease": "Nucleoside_phosphorylase_deficiency,_immunodeficiency_due_to",
+    "class": "Immunological",
+    "genes": "NP"
+  },
+  {
+    "id": 1126,
+    "disease": "Obesity",
+    "class": "Nutritional",
+    "genes": "POMC, MC4R, AKR1C2, NTRK2, AGRP, NR0B2, LEP, LEPR, PPARG, SIM1, UCP3, MC3R, SLC6A14, ADRB2, ADRB3, CART, ENPP1, GHRL, UCP1, UCP2, PCSK1"
+  },
+  {
+    "id": 1128,
+    "disease": "Obsessive-compulsive_disorder",
+    "class": "Psychiatric",
+    "genes": "SLC6A4, BDNF, HTR2A"
+  },
+  {
+    "id": 1129,
+    "disease": "Occipital_horn_syndrome",
+    "class": "multiple",
+    "genes": "ATP7A"
+  },
+  {
+    "id": 1130,
+    "disease": "Ocular_albinism",
+    "class": "Ophthamological",
+    "genes": "GPR143, MC1R, SLC45A2"
+  },
+  {
+    "id": 1132,
+    "disease": "Oculodentodigital_dysplasia",
+    "class": "Skeletal",
+    "genes": "GJA1"
+  },
+  {
+    "id": 1133,
+    "disease": "Oculofaciocardiodental_syndrome",
+    "class": "multiple",
+    "genes": "BCOR"
+  },
+  {
+    "id": 1135,
+    "disease": "Oculopharyngeal_muscular_dystorphy",
+    "class": "Muscular",
+    "genes": "PABPN1"
+  },
+  {
+    "id": 1136,
+    "disease": "Odontohypophosphatasia",
+    "class": "Bone",
+    "genes": "ALPL"
+  },
+  {
+    "id": 1137,
+    "disease": "Oguchi_disease",
+    "class": "Ophthamological",
+    "genes": "SAG, GRK1"
+  },
+  {
+    "id": 1138,
+    "disease": "Oligodendroglioma",
+    "class": "Cancer",
+    "genes": "PTEN"
+  },
+  {
+    "id": 1139,
+    "disease": "Oligodontia",
+    "class": "Skeletal",
+    "genes": "PAX9"
+  },
+  {
+    "id": 1140,
+    "disease": "Oligodontia-colorectal_cancer_syndrome",
+    "class": "Cancer",
+    "genes": "AXIN2"
+  },
+  {
+    "id": 1141,
+    "disease": "Omenn_syndrome",
+    "class": "Immunological",
+    "genes": "DCLRE1C, RAG1, RAG2"
+  },
+  {
+    "id": 1142,
+    "disease": "Opitz_G_syndrome",
+    "class": "multiple",
+    "genes": "MID1"
+  },
+  {
+    "id": 1143,
+    "disease": "Opremazole_poor_metabolizer",
+    "class": "Metabolic",
+    "genes": "CYP2C19"
+  },
+  {
+    "id": 1144,
+    "disease": "Optic_atrophy",
+    "class": "Ophthamological",
+    "genes": "OPA1, OPA3"
+  },
+  {
+    "id": 1145,
+    "disease": "Oral-facial-digital_syndrome",
+    "class": "Skeletal",
+    "genes": "OFD1"
+  },
+  {
+    "id": 1146,
+    "disease": "Ornithine_transcarbamylase_deficiency",
+    "class": "Metabolic",
+    "genes": "OTC"
+  },
+  {
+    "id": 1147,
+    "disease": "Orofacial_cleft",
+    "class": "Skeletal",
+    "genes": "IRF6"
+  },
+  {
+    "id": 1148,
+    "disease": "Orolaryngeal_cancer",
+    "class": "Cancer",
+    "genes": "CDKN2A"
+  },
+  {
+    "id": 1149,
+    "disease": "Oroticaciduria",
+    "class": "Metabolic",
+    "genes": "UMPS"
+  },
+  {
+    "id": 1150,
+    "disease": "Orthostatic_intolerance",
+    "class": "Cardiovascular",
+    "genes": "SLC6A2"
+  },
+  {
+    "id": 1151,
+    "disease": "OSMED_syndrome",
+    "class": "Bone",
+    "genes": "COL11A2"
+  },
+  {
+    "id": 1152,
+    "disease": "Osseous_heteroplasia",
+    "class": "Bone",
+    "genes": "GNAS"
+  },
+  {
+    "id": 1153,
+    "disease": "Ossification_of_the_posterior_longitudinal_spinal_ligaments",
+    "class": "Connective_tissue_disorder",
+    "genes": "ENPP1"
+  },
+  {
+    "id": 1154,
+    "disease": "Osteoarthritis",
+    "class": "Connective_tissue_disorder",
+    "genes": "MATN3, FRZB, ASPN, COL2A1"
+  },
+  {
+    "id": 1156,
+    "disease": "Osteogenesis_imperfecta",
+    "class": "Bone",
+    "genes": "COL1A2, COL1A1"
+  },
+  {
+    "id": 1157,
+    "disease": "Osteolysis",
+    "class": "Bone",
+    "genes": "TNFRSF11A, MMP2"
+  },
+  {
+    "id": 1161,
+    "disease": "Osteopetrosis",
+    "class": "Bone",
+    "genes": "LRP5, CLCN7, OSTM1, TCIRG1"
+  },
+  {
+    "id": 1162,
+    "disease": "Osteopoikilosis",
+    "class": "Bone",
+    "genes": "LEMD3"
+  },
+  {
+    "id": 1163,
+    "disease": "Osteoporosis",
+    "class": "Bone",
+    "genes": "COL1A1, LRP5, CALCA, SLC34A1, COL1A2, CALCR"
+  },
+  {
+    "id": 1164,
+    "disease": "Osteoporosis-pseudoglioma_syndrome",
+    "class": "Bone",
+    "genes": "LRP5"
+  },
+  {
+    "id": 1165,
+    "disease": "Osteoporosis",
+    "class": "Bone",
+    "genes": "PDLIM4"
+  },
+  {
+    "id": 1166,
+    "disease": "Osteosarcoma",
+    "class": "Cancer",
+    "genes": "TP53, CHEK2"
+  },
+  {
+    "id": 1168,
+    "disease": "Otopalatodigital_syndrome",
+    "class": "multiple",
+    "genes": "FLNA"
+  },
+  {
+    "id": 1170,
+    "disease": "Ovarian_cancer",
+    "class": "Cancer",
+    "genes": "BRCA1, MSH2, PIK3CA, MSH6, ERBB2, CDH1, RRAS2, CTNNB1"
+  },
+  {
+    "id": 1171,
+    "disease": "Ovarioleukodystrophy",
+    "class": "Neurological",
+    "genes": "EIF2B2, EIF2B4, EIF2B5"
+  },
+  {
+    "id": 1172,
+    "disease": "Pachyonychia_congenita",
+    "class": "Dermatological",
+    "genes": "KRT17, KRT6B, KRT16, KRT6A"
+  },
+  {
+    "id": 1173,
+    "disease": "Paget_disease",
+    "class": "Bone",
+    "genes": "TNFRSF11B, SQSTM1, TNFRSF11A"
+  },
+  {
+    "id": 1174,
+    "disease": "Pallidopontonigral_degeneration",
+    "class": "Neurological",
+    "genes": "MAPT"
+  },
+  {
+    "id": 1175,
+    "disease": "Pallister-Hall_syndrome",
+    "class": "multiple",
+    "genes": "GLI3"
+  },
+  {
+    "id": 1176,
+    "disease": "Palmoplantar_keratoderma",
+    "class": "Dermatological",
+    "genes": "KRT16"
+  },
+  {
+    "id": 1178,
+    "disease": "Pancreatic_cancer",
+    "class": "Cancer",
+    "genes": "ARMET, BRCA2, TP53, SMAD4, CDKN2A, ACVR1B, STK11, KRAS, RBBP8"
+  },
+  {
+    "id": 1179,
+    "disease": "Pancreatitis",
+    "class": "Gastrointestinal",
+    "genes": "PRSS1, SPINK1, CFTR"
+  },
+  {
+    "id": 1183,
+    "disease": "Papillary_serous_carcinoma_of_the_peritoneum",
+    "class": "Cancer",
+    "genes": "BRCA1"
+  },
+  {
+    "id": 1184,
+    "disease": "Papillon-Lefevre_syndrome",
+    "class": "multiple",
+    "genes": "CTSC"
+  },
+  {
+    "id": 1186,
+    "disease": "Paragangliomas",
+    "class": "Cancer",
+    "genes": "SDHB, SDHD, SDHC"
+  },
+  {
+    "id": 1188,
+    "disease": "Paramyotonia_congenita",
+    "class": "Muscular",
+    "genes": "SCN4A"
+  },
+  {
+    "id": 1189,
+    "disease": "Parathyroid_adenoma",
+    "class": "Cancer",
+    "genes": "MEN1, CDC73"
+  },
+  {
+    "id": 1190,
+    "disease": "Parietal_foramina",
+    "class": "Skeletal",
+    "genes": "MSX2, ALX4"
+  },
+  {
+    "id": 1191,
+    "disease": "Parkes_Weber_syndrome",
+    "class": "multiple",
+    "genes": "RASA1"
+  },
+  {
+    "id": 1192,
+    "disease": "Parkinson_disease",
+    "class": "Neurological",
+    "genes": "NR4A2, SNCAIP, TBP, SNCA, PARK7, LRRK2, PINK1, UCHL1, PARK2, DBH, NDUFV2"
+  },
+  {
+    "id": 1195,
+    "disease": "Paroxysmal_kinesigenic_choreoathetosis",
+    "class": "Neurological",
+    "genes": "MR-1"
+  },
+  {
+    "id": 1196,
+    "disease": "Partington_syndrome",
+    "class": "Neurological",
+    "genes": "ARX"
+  },
+  {
+    "id": 1198,
+    "disease": "PCWH",
+    "class": "Neurological",
+    "genes": "SOX10"
+  },
+  {
+    "id": 1199,
+    "disease": "Pelger-Huet_anomaly",
+    "class": "Hematological",
+    "genes": "LBR"
+  },
+  {
+    "id": 1200,
+    "disease": "Pelizaeus-Merzbacher_disease",
+    "class": "Neurological",
+    "genes": "PLP1"
+  },
+  {
+    "id": 1201,
+    "disease": "(null)",
+    "class": "Neurological",
+    "genes": "GJA12"
+  },
+  {
+    "id": 1204,
+    "disease": "Pendred_syndrome",
+    "class": "Ear,Nose,Throat",
+    "genes": "SLC26A4"
+  },
+  {
+    "id": 1205,
+    "disease": "Perineal_hypospadias",
+    "class": "Endocrine",
+    "genes": "AR"
+  },
+  {
+    "id": 1206,
+    "disease": "Periodic_fever,_familial",
+    "class": "Immunological",
+    "genes": "TNFRSF1A"
+  },
+  {
+    "id": 1207,
+    "disease": "Periodontitis",
+    "class": "Ear,Nose,Throat",
+    "genes": "CTSC"
+  },
+  {
+    "id": 1209,
+    "disease": "Periventricular_heterotopia_with_microcephaly",
+    "class": "Neurological",
+    "genes": "ARFGEF2"
+  },
+  {
+    "id": 1210,
+    "disease": "Peroxisomal_biogenesis_disorder",
+    "class": "multiple",
+    "genes": "PEX6, PEX12"
+  },
+  {
+    "id": 1212,
+    "disease": "Persistent_Mullerian_duct_syndrome",
+    "class": "Developmental",
+    "genes": "AMH, AMHR2"
+  },
+  {
+    "id": 1213,
+    "disease": "Peters_anomaly",
+    "class": "Developmental",
+    "genes": "PAX6, CYP1B1"
+  },
+  {
+    "id": 1214,
+    "disease": "Peutz-Jeghers_syndrome",
+    "class": "Cancer",
+    "genes": "STK11"
+  },
+  {
+    "id": 1215,
+    "disease": "Pfeiffer_syndrome",
+    "class": "Skeletal",
+    "genes": "FGFR1, FGFR2"
+  },
+  {
+    "id": 1216,
+    "disease": "Phenylketonuria",
+    "class": "Metabolic",
+    "genes": "PAH, QDPR, PTS"
+  },
+  {
+    "id": 1217,
+    "disease": "Phenylthiocarbamide_tasting",
+    "class": "Ear,Nose,Throat",
+    "genes": "TAS2R38"
+  },
+  {
+    "id": 1218,
+    "disease": "Pheochromocytoma",
+    "class": "Cancer",
+    "genes": "SDHD, VHL, SDHB"
+  },
+  {
+    "id": 1220,
+    "disease": "Phosphoglycerate_dehydrogenase_deficiency",
+    "class": "Metabolic",
+    "genes": "PHGDH"
+  },
+  {
+    "id": 1221,
+    "disease": "Phosphoribosyl_pyrophosphate_synthetase-related_gout",
+    "class": "Metabolic",
+    "genes": "PRPS1"
+  },
+  {
+    "id": 1222,
+    "disease": "Phosphorylase_kinase_deficiency_of_liver_and_muscle,_autosomal_recessive",
+    "class": "Metabolic",
+    "genes": "PHKB"
+  },
+  {
+    "id": 1223,
+    "disease": "Phosphoserine_phosphatase_deficiency",
+    "class": "Metabolic",
+    "genes": "PSPH"
+  },
+  {
+    "id": 1225,
+    "disease": "Pick_disease",
+    "class": "Neurological",
+    "genes": "PSEN1"
+  },
+  {
+    "id": 1226,
+    "disease": "Piebaldism",
+    "class": "Dermatological",
+    "genes": "KIT"
+  },
+  {
+    "id": 1227,
+    "disease": "Pigmentation_of_hair,_skin,_and_eyes,_variation_in",
+    "class": "Dermatological",
+    "genes": "SLC45A2"
+  },
+  {
+    "id": 1229,
+    "disease": "Pigmented_paravenous_chorioretinal_atrophy",
+    "class": "Ophthamological",
+    "genes": "CRB1"
+  },
+  {
+    "id": 1230,
+    "disease": "Pilomatricoma",
+    "class": "Cancer",
+    "genes": "CTNNB1"
+  },
+  {
+    "id": 1232,
+    "disease": "Pituitary_ACTH-secreting_adenoma",
+    "class": "Cancer",
+    "genes": "GNAI2, GNAS, THRA"
+  },
+  {
+    "id": 1233,
+    "disease": "Placental_abruption",
+    "class": "Unclassified",
+    "genes": "NOS3"
+  },
+  {
+    "id": 1234,
+    "disease": "Plasmin_inhibitor_deficiency",
+    "class": "Hematological",
+    "genes": "SERPINF2"
+  },
+  {
+    "id": 1235,
+    "disease": "Plasminogen_deficiency",
+    "class": "Hematological",
+    "genes": "PLG"
+  },
+  {
+    "id": 1237,
+    "disease": "Platelet_defect/deficiency",
+    "class": "Hematological",
+    "genes": "PLA2G7, P2RY12, RUNX1, CD36"
+  },
+  {
+    "id": 1238,
+    "disease": "Pneumonitis,_desquamative_interstitial",
+    "class": "Respiratory",
+    "genes": "SFTPC"
+  },
+  {
+    "id": 1239,
+    "disease": "Pneumothorax,_primary_spontaneous",
+    "class": "Respiratory",
+    "genes": "FLCN"
+  },
+  {
+    "id": 1241,
+    "disease": "Polycystic_kidney_disease",
+    "class": "Renal",
+    "genes": "PKHD1, PKD1, PKD2, PKDTS"
+  },
+  {
+    "id": 1242,
+    "disease": "Polycythemia",
+    "class": "Hematological",
+    "genes": "VHL, JAK2"
+  },
+  {
+    "id": 1243,
+    "disease": "Polydactyly",
+    "class": "Skeletal",
+    "genes": "GLI3"
+  },
+  {
+    "id": 1244,
+    "disease": "Polymicrogyria",
+    "class": "Neurological",
+    "genes": "GPR56"
+  },
+  {
+    "id": 1245,
+    "disease": "Polyposis",
+    "class": "Cancer",
+    "genes": "BMPR1A, SMAD4"
+  },
+  {
+    "id": 1246,
+    "disease": "Popliteal_pterygium_syndrome",
+    "class": "multiple",
+    "genes": "IRF6"
+  },
+  {
+    "id": 1247,
+    "disease": "Porencephaly",
+    "class": "Neurological",
+    "genes": "COL4A1"
+  },
+  {
+    "id": 1249,
+    "disease": "Porphyria",
+    "class": "Metabolic",
+    "genes": "ALAD, HMBS, UROS, UROD, HFE, PPOX"
+  },
+  {
+    "id": 1253,
+    "disease": "PPM-X_syndrome",
+    "class": "Neurological",
+    "genes": "MECP2"
+  },
+  {
+    "id": 1254,
+    "disease": "Prader-Willi_syndrome",
+    "class": "multiple",
+    "genes": "NDN, SNRPN"
+  },
+  {
+    "id": 1256,
+    "disease": "Precocious_puberty,_male",
+    "class": "Developmental",
+    "genes": "LHCGR"
+  },
+  {
+    "id": 1257,
+    "disease": "Preeclampsia",
+    "class": "Cardiovascular",
+    "genes": "STOX1, EPHX1, AGT"
+  },
+  {
+    "id": 1259,
+    "disease": "Prekallikrein_deficiency",
+    "class": "Hematological",
+    "genes": "KLKB1"
+  },
+  {
+    "id": 1260,
+    "disease": "Premature_ovarian_failure",
+    "class": "Renal",
+    "genes": "DIAPH2, FOXL2"
+  },
+  {
+    "id": 1261,
+    "disease": "Primary_lateral_sclerosis",
+    "class": "Neurological",
+    "genes": "ALS2"
+  },
+  {
+    "id": 1263,
+    "disease": "Prion_disease_with_protracted_course",
+    "class": "Neurological",
+    "genes": "PRNP"
+  },
+  {
+    "id": 1265,
+    "disease": "Progressive_external_ophthalmoplegia_with_mitochondrial_DNA_deletions",
+    "class": "Ophthamological",
+    "genes": "PEO1, POLG, SLC25A4"
+  },
+  {
+    "id": 1266,
+    "disease": "Proguanil_poor_metabolizer",
+    "class": "Metabolic",
+    "genes": "CYP2C19"
+  },
+  {
+    "id": 1267,
+    "disease": "Prolactinoma,_hyperparathyroidism,_carcinoid_syndrome",
+    "class": "Endocrine",
+    "genes": "MEN1"
+  },
+  {
+    "id": 1268,
+    "disease": "Prolidase_deficiency",
+    "class": "Connective_tissue_disorder",
+    "genes": "PEPD"
+  },
+  {
+    "id": 1270,
+    "disease": "Properdin_deficiency",
+    "class": "Immunological",
+    "genes": "PFC"
+  },
+  {
+    "id": 1271,
+    "disease": "Propionicacidemia",
+    "class": "Metabolic",
+    "genes": "PCCA, PCCB"
+  },
+  {
+    "id": 1272,
+    "disease": "Prostate_cancer",
+    "class": "Cancer",
+    "genes": "RNASEL, BRCA2, PTEN, AR, CHEK2, MSR1, EPHB2, KLF6, MAD1L1, ATBF1, ELAC2, MXI1"
+  },
+  {
+    "id": 1273,
+    "disease": "Protein_S_deficiency",
+    "class": "Hematological",
+    "genes": "PROS1"
+  },
+  {
+    "id": 1274,
+    "disease": "Proteinuria",
+    "class": "Renal",
+    "genes": "CLCN5"
+  },
+  {
+    "id": 1276,
+    "disease": "Protoporphyria",
+    "class": "Metabolic",
+    "genes": "FECH"
+  },
+  {
+    "id": 1277,
+    "disease": "Proud_syndrome",
+    "class": "multiple",
+    "genes": "ARX"
+  },
+  {
+    "id": 1278,
+    "disease": "Pseudoachondroplasia",
+    "class": "Skeletal",
+    "genes": "COMP"
+  },
+  {
+    "id": 1279,
+    "disease": "Pseudohermaphroditism,_male",
+    "class": "Developmental",
+    "genes": "HSD17B3, LHCGR"
+  },
+  {
+    "id": 1281,
+    "disease": "Pseudohypoaldosteronism",
+    "class": "Endocrine",
+    "genes": "SCNN1A, SCNN1B, SCNN1G, NR3C2, WNK4, WNK1"
+  },
+  {
+    "id": 1282,
+    "disease": "Pseudohypoparathyroidism",
+    "class": "Endocrine",
+    "genes": "GNAS"
+  },
+  {
+    "id": 1283,
+    "disease": "Pseudovaginal_perineoscrotal_hypospadias",
+    "class": "Unclassified",
+    "genes": "SRD5A2"
+  },
+  {
+    "id": 1284,
+    "disease": "Pseudovitamin_D_deficiency_rickets_1",
+    "class": "Bone",
+    "genes": "CYP27B1"
+  },
+  {
+    "id": 1285,
+    "disease": "Pseudoxanthoma_elasticum",
+    "class": "Connective_tissue_disorder",
+    "genes": "ABCC6"
+  },
+  {
+    "id": 1288,
+    "disease": "Psoraisis",
+    "class": "Dermatological",
+    "genes": "PSORS6, CARD15"
+  },
+  {
+    "id": 1291,
+    "disease": "Pulmonary_fibrosis",
+    "class": "Respiratory",
+    "genes": "CSF2RB, SFTPC, SFTPB, SFTPA1"
+  },
+  {
+    "id": 1293,
+    "disease": "Pycnodysostosis",
+    "class": "Skeletal",
+    "genes": "CTSK"
+  },
+  {
+    "id": 1294,
+    "disease": "Pyloric_stenosis,_infantile_hypertrophic",
+    "class": "Developmental",
+    "genes": "NOS1"
+  },
+  {
+    "id": 1295,
+    "disease": "Pyogenic_sterile_arthritis,_pyoderma_gangrenosum,_and_acne",
+    "class": "Dermatological",
+    "genes": "PSTPIP1"
+  },
+  {
+    "id": 1296,
+    "disease": "Pyropoikilocytosis",
+    "class": "Hematological",
+    "genes": "SPTA1"
+  },
+  {
+    "id": 1297,
+    "disease": "Pyruvate_dehydrogenase_deficiency",
+    "class": "Metabolic",
+    "genes": "PC, PDHA1, PDHB"
+  },
+  {
+    "id": 1298,
+    "disease": "Rabson-Mendenhall_syndrome",
+    "class": "multiple",
+    "genes": "INSR"
+  },
+  {
+    "id": 1301,
+    "disease": "Radioulnar_synostosis_with_amegakaryocytic_thrombocytopenia",
+    "class": "multiple",
+    "genes": "HOXA11"
+  },
+  {
+    "id": 1303,
+    "disease": "RAPADILINO_syndrome",
+    "class": "multiple",
+    "genes": "RECQL4"
+  },
+  {
+    "id": 1304,
+    "disease": "Rapid_progression_to_AIDS_from_HIV1_infection",
+    "class": "Immunological",
+    "genes": "CX3CR1"
+  },
+  {
+    "id": 1305,
+    "disease": "Rapp-Hodgkin_syndrome",
+    "class": "multiple",
+    "genes": "TP73L"
+  },
+  {
+    "id": 1306,
+    "disease": "Red_hair/fair_skin",
+    "class": "Dermatological",
+    "genes": "MC1R"
+  },
+  {
+    "id": 1307,
+    "disease": "Refsum_disease",
+    "class": "Neurological",
+    "genes": "PEX7, PHYH, PEX1, PEX26, PXMP3"
+  },
+  {
+    "id": 1308,
+    "disease": "Renal_cell_carcinoma",
+    "class": "Cancer",
+    "genes": "FLCN, RNF139, OGG1, PRCC, TFE3, MET, VHL"
+  },
+  {
+    "id": 1309,
+    "disease": "Renpenning_syndrome",
+    "class": "Neurological",
+    "genes": "PQBP1"
+  },
+  {
+    "id": 1311,
+    "disease": "Response_to_morphine-6-glucuronide",
+    "class": "Neurological",
+    "genes": "OPRM1"
+  },
+  {
+    "id": 1312,
+    "disease": "Resting_heart_rate",
+    "class": "Cardiovascular",
+    "genes": "ADRB1"
+  },
+  {
+    "id": 1314,
+    "disease": "Restrictive_dermopathy,_lethal",
+    "class": "Dermatological",
+    "genes": "ZMPSTE24"
+  },
+  {
+    "id": 1315,
+    "disease": "Retinal_cone_dsytrophy",
+    "class": "Ophthamological",
+    "genes": "NRL, PROM1, C1QTNF5, LRAT"
+  },
+  {
+    "id": 1316,
+    "disease": "Retinitis_pigmentosa",
+    "class": "Ophthamological",
+    "genes": "IMPDH1, PRPF31, RP1, CRB1, PRPF8, TULP1, CA4, PRPF3, ABCA4, RPE65, RP2, CERKL, NRL, FSCN2, RPGR, RHO, RDS, RP9, RLBP1, USH2A, RGR, CNGB1, CNGA1, PDE6A, PDE6B, ROM1, AIPL1, NR2E3, CRX, MERTK"
+  },
+  {
+    "id": 1317,
+    "disease": "Retinoblastoma",
+    "class": "Cancer",
+    "genes": "RB1"
+  },
+  {
+    "id": 1318,
+    "disease": "Retinol_binding_protein,_deficiency_of",
+    "class": "Ophthamological",
+    "genes": "RBP4"
+  },
+  {
+    "id": 1320,
+    "disease": "Retinoschisis",
+    "class": "Ophthamological",
+    "genes": "RS1"
+  },
+  {
+    "id": 1321,
+    "disease": "Rett_syndrome",
+    "class": "Neurological",
+    "genes": "MECP2, CDKL5"
+  },
+  {
+    "id": 1322,
+    "disease": "Rhabdoid_tumors",
+    "class": "Cancer",
+    "genes": "SMARCB1"
+  },
+  {
+    "id": 1323,
+    "disease": "Rhabdomyosarcoma",
+    "class": "Cancer",
+    "genes": "SLC22A18, FOXO1A, PAX3, PAX7"
+  },
+  {
+    "id": 1324,
+    "disease": "Rheumatoid_arthritis",
+    "class": "Connective_tissue_disorder",
+    "genes": "IL10, CIITA, NFKBIL1, PADI4, PTPN22, RUNX1, SLC22A4, MIF"
+  },
+  {
+    "id": 1325,
+    "disease": "Rhizomelic_chondrodysplasia_punctata",
+    "class": "multiple",
+    "genes": "PEX7, AGPS"
+  },
+  {
+    "id": 1326,
+    "disease": "Rh-mod_syndrome",
+    "class": "Hematological",
+    "genes": "RHAG"
+  },
+  {
+    "id": 1327,
+    "disease": "Rh-negative_blood_type",
+    "class": "Hematological",
+    "genes": "RHD, RHCE"
+  },
+  {
+    "id": 1329,
+    "disease": "Ribose_5-phosphate_isomerase_deficiency",
+    "class": "Metabolic",
+    "genes": "RPIA"
+  },
+  {
+    "id": 1330,
+    "disease": "Rickets",
+    "class": "Bone",
+    "genes": "CYP2R1, VDR"
+  },
+  {
+    "id": 1331,
+    "disease": "Rieger_syndrome",
+    "class": "multiple",
+    "genes": "FOXC1, PITX2"
+  },
+  {
+    "id": 1332,
+    "disease": "Ring_dermoid_of_cornea",
+    "class": "Ophthamological",
+    "genes": "PITX2"
+  },
+  {
+    "id": 1333,
+    "disease": "Rippling_muscle_disease",
+    "class": "Muscular",
+    "genes": "CAV3"
+  },
+  {
+    "id": 1334,
+    "disease": "Roberts_syndrome",
+    "class": "Developmental",
+    "genes": "ESCO2"
+  },
+  {
+    "id": 1335,
+    "disease": "Robinow_syndrome,_autosomal_recessive",
+    "class": "multiple",
+    "genes": "ROR2"
+  },
+  {
+    "id": 1337,
+    "disease": "Rokitansky-Kuster-Hauser_syndrome",
+    "class": "Developmental",
+    "genes": "WNT4"
+  },
+  {
+    "id": 1338,
+    "disease": "Rothmund-Thomson_syndrome",
+    "class": "multiple",
+    "genes": "RECQL4"
+  },
+  {
+    "id": 1339,
+    "disease": "Roussy-Levy_syndrome",
+    "class": "multiple",
+    "genes": "MPZ, PMP22"
+  },
+  {
+    "id": 1341,
+    "disease": "Rubenstein-Taybi_syndrome",
+    "class": "multiple",
+    "genes": "CREBBP, EP300"
+  },
+  {
+    "id": 1344,
+    "disease": "Saethre-Chotzen_syndrome",
+    "class": "Developmental",
+    "genes": "FGFR2, TWIST1"
+  },
+  {
+    "id": 1345,
+    "disease": "Salivary_adenoma",
+    "class": "Cancer",
+    "genes": "HMGA2"
+  },
+  {
+    "id": 1346,
+    "disease": "Salla_disease",
+    "class": "Metabolic",
+    "genes": "SLC17A5"
+  },
+  {
+    "id": 1347,
+    "disease": "Sandhoff_disease,_infantile,_juvenile,_and_adult_forms",
+    "class": "Metabolic",
+    "genes": "HEXB"
+  },
+  {
+    "id": 1348,
+    "disease": "Sanfilippo_syndrome",
+    "class": "Metabolic",
+    "genes": "SGSH, NAGLU"
+  },
+  {
+    "id": 1349,
+    "disease": "Sarcoidosis",
+    "class": "Immunological",
+    "genes": "CARD15, BTNL2, HLA-DRB1"
+  },
+  {
+    "id": 1350,
+    "disease": "Sarcoma,_synovial",
+    "class": "Cancer",
+    "genes": "SSX1, SSX2"
+  },
+  {
+    "id": 1352,
+    "disease": "SARS,_progression_of",
+    "class": "Immunological",
+    "genes": "ACE"
+  },
+  {
+    "id": 1354,
+    "disease": "Schimke_immunoosseous_dysplasia",
+    "class": "Connective_tissue_disorder",
+    "genes": "SMARCAL1"
+  },
+  {
+    "id": 1355,
+    "disease": "Schindler_disease",
+    "class": "Metabolic",
+    "genes": "NAGA"
+  },
+  {
+    "id": 1357,
+    "disease": "Schizencephaly",
+    "class": "Neurological",
+    "genes": "EMX2"
+  },
+  {
+    "id": 1359,
+    "disease": "Schizophrenia",
+    "class": "Psychiatric",
+    "genes": "DISC1, TAAR6, APP, COMT, HTR2A, RTN4R, SYN2, ENTH, PRODH"
+  },
+  {
+    "id": 1360,
+    "disease": "Schwannomatosis",
+    "class": "Cancer",
+    "genes": "NF2"
+  },
+  {
+    "id": 1361,
+    "disease": "Schwartz-Jampel_syndrome,_type_1",
+    "class": "multiple",
+    "genes": "HSPG2"
+  },
+  {
+    "id": 1362,
+    "disease": "SCID",
+    "class": "Immunological",
+    "genes": "JAK3"
+  },
+  {
+    "id": 1363,
+    "disease": "Sclerosteosis",
+    "class": "Skeletal",
+    "genes": "SOST"
+  },
+  {
+    "id": 1365,
+    "disease": "Scurvy",
+    "class": "Nutritional",
+    "genes": "GULOP"
+  },
+  {
+    "id": 1366,
+    "disease": "Sea-blue_histiocyte_disease",
+    "class": "Hematological",
+    "genes": "APOE"
+  },
+  {
+    "id": 1367,
+    "disease": "Seasonal_affective_disorder",
+    "class": "Psychiatric",
+    "genes": "HTR2A"
+  },
+  {
+    "id": 1368,
+    "disease": "Sebastian_syndrome",
+    "class": "Hematological",
+    "genes": "MYH9"
+  },
+  {
+    "id": 1369,
+    "disease": "Seckel_syndrome",
+    "class": "Developmental",
+    "genes": "ATR"
+  },
+  {
+    "id": 1370,
+    "disease": "Segawa_syndrome",
+    "class": "Neurological",
+    "genes": "TH"
+  },
+  {
+    "id": 1371,
+    "disease": "Seizures",
+    "class": "Neurological",
+    "genes": "SCN2A1"
+  },
+  {
+    "id": 1372,
+    "disease": "Selective_T-cell_defect",
+    "class": "Immunological",
+    "genes": "ZAP70"
+  },
+  {
+    "id": 1373,
+    "disease": "Self-healing_collodion_baby",
+    "class": "Dermatological",
+    "genes": "TGM1"
+  },
+  {
+    "id": 1374,
+    "disease": "SEMD,_Pakistani_type",
+    "class": "Connective_tissue_disorder",
+    "genes": "PAPSS2"
+  },
+  {
+    "id": 1375,
+    "disease": "Senior-Loken_syndrome",
+    "class": "Renal",
+    "genes": "NPHP1, NPHP4, IQCB1"
+  },
+  {
+    "id": 1376,
+    "disease": "Sensory_ataxic_neuropathy,_dysarthria,_and_ophthalmoparesis",
+    "class": "Ophthamological",
+    "genes": "POLG"
+  },
+  {
+    "id": 1377,
+    "disease": "Sepiapterin_reductase_deficiency",
+    "class": "Metabolic",
+    "genes": "SPR"
+  },
+  {
+    "id": 1378,
+    "disease": "Sepsis",
+    "class": "Immunological",
+    "genes": "CASP12P1, TNF"
+  },
+  {
+    "id": 1380,
+    "disease": "Septooptic_dysplasia",
+    "class": "multiple",
+    "genes": "HESX1"
+  },
+  {
+    "id": 1381,
+    "disease": "Sertoli-cell-only_syndrome",
+    "class": "Renal",
+    "genes": "USP26"
+  },
+  {
+    "id": 1383,
+    "disease": "Severe_combined_immunodeficiency",
+    "class": "Immunological",
+    "genes": "DCLRE1C, RAG1, RAG2, ADA, PTPRC, IL7R, CD3D, IL2RG"
+  },
+  {
+    "id": 1384,
+    "disease": "Sex_reversal",
+    "class": "Unclassified",
+    "genes": "NR5A1"
+  },
+  {
+    "id": 1385,
+    "disease": "Sezary_syndrome",
+    "class": "Cancer",
+    "genes": "BCL10"
+  },
+  {
+    "id": 1386,
+    "disease": "Shah-Waardenburg_syndrome",
+    "class": "multiple",
+    "genes": "EDN3"
+  },
+  {
+    "id": 1387,
+    "disease": "Short_stature",
+    "class": "Skeletal",
+    "genes": "GHR, SHOX, LHX4"
+  },
+  {
+    "id": 1388,
+    "disease": "Shprintzen-Goldberg_syndrome",
+    "class": "multiple",
+    "genes": "FBN1"
+  },
+  {
+    "id": 1389,
+    "disease": "Shwachman-Diamond_syndrome",
+    "class": "multiple",
+    "genes": "SBDS"
+  },
+  {
+    "id": 1391,
+    "disease": "Sialidosis",
+    "class": "Metabolic",
+    "genes": "SLC17A5, NEU1"
+  },
+  {
+    "id": 1392,
+    "disease": "Sialuria",
+    "class": "Metabolic",
+    "genes": "GNE"
+  },
+  {
+    "id": 1393,
+    "disease": "Sickle_cell_anemia",
+    "class": "Hematological",
+    "genes": "HBB"
+  },
+  {
+    "id": 1394,
+    "disease": "Sick_sinus_syndrome",
+    "class": "Cardiovascular",
+    "genes": "SCN5A"
+  },
+  {
+    "id": 1396,
+    "disease": "Silver_spastic_paraplegia_syndrome",
+    "class": "Neurological",
+    "genes": "BSCL2"
+  },
+  {
+    "id": 1397,
+    "disease": "Simpson-Golabi-Behmel_syndrome",
+    "class": "multiple",
+    "genes": "GPC3"
+  },
+  {
+    "id": 1398,
+    "disease": "Sitosterolemia",
+    "class": "Metabolic",
+    "genes": "ABCG5, ABCG8"
+  },
+  {
+    "id": 1399,
+    "disease": "Situs_ambiguus",
+    "class": "Developmental",
+    "genes": "NODAL, DNAH11"
+  },
+  {
+    "id": 1400,
+    "disease": "Sjogren-Larsson_syndrome",
+    "class": "Metabolic",
+    "genes": "ALDH3A2"
+  },
+  {
+    "id": 1401,
+    "disease": "Skin_fragility-woolly_hair_syndrome",
+    "class": "Dermatological",
+    "genes": "DSP"
+  },
+  {
+    "id": 1403,
+    "disease": "Slow_acetylation",
+    "class": "Metabolic",
+    "genes": "NAT2"
+  },
+  {
+    "id": 1404,
+    "disease": "Slowed_nerve_conduction_velocity,_AD",
+    "class": "Neurological",
+    "genes": "ARHGEF10"
+  },
+  {
+    "id": 1406,
+    "disease": "Small_patella_syndrome",
+    "class": "Skeletal",
+    "genes": "TBX4"
+  },
+  {
+    "id": 1408,
+    "disease": "SMED_Strudwick_type",
+    "class": "Skeletal",
+    "genes": "COL2A1"
+  },
+  {
+    "id": 1409,
+    "disease": "Smith-Fineman-Myers_syndrome",
+    "class": "multiple",
+    "genes": "ATRX"
+  },
+  {
+    "id": 1410,
+    "disease": "Smith-Lemli-Opitz_syndrome",
+    "class": "multiple",
+    "genes": "DHCR7"
+  },
+  {
+    "id": 1411,
+    "disease": "Smith-Magenis_syndrome",
+    "class": "multiple",
+    "genes": "RAI1"
+  },
+  {
+    "id": 1412,
+    "disease": "Smith-McCort_dysplasia",
+    "class": "Skeletal",
+    "genes": "DYM"
+  },
+  {
+    "id": 1414,
+    "disease": "Solitary_median_maxillary_central_incisor",
+    "class": "Skeletal",
+    "genes": "SHH"
+  },
+  {
+    "id": 1415,
+    "disease": "Somatotrophinoma",
+    "class": "Endocrine",
+    "genes": "GNAS"
+  },
+  {
+    "id": 1416,
+    "disease": "Sorsby_fundus_dystrophy",
+    "class": "Ophthamological",
+    "genes": "TIMP3"
+  },
+  {
+    "id": 1417,
+    "disease": "Sotos_syndrome",
+    "class": "Developmental",
+    "genes": "NSD1"
+  },
+  {
+    "id": 1418,
+    "disease": "Spastic_ataxia/paraplegia",
+    "class": "Neurological",
+    "genes": "SACS, ALS2, KIF5A, HSPD1, PLP1, SPG3A, SPAST, NIPA1, SPG7"
+  },
+  {
+    "id": 1419,
+    "disease": "Specific_language_impairment_QTL",
+    "class": "Neurological",
+    "genes": "FOXP2"
+  },
+  {
+    "id": 1422,
+    "disease": "Spermatogenic_failure",
+    "class": "Renal",
+    "genes": "DAZL"
+  },
+  {
+    "id": 1423,
+    "disease": "Spherocytosis",
+    "class": "Hematological",
+    "genes": "SPTB, ANK1, SLC4A1, EPB42, SPTA1"
+  },
+  {
+    "id": 1425,
+    "disease": "Spina_bifida",
+    "class": "Developmental",
+    "genes": "MTHFD1, MTR, MTRR"
+  },
+  {
+    "id": 1426,
+    "disease": "Spinal_muscular_atrophy",
+    "class": "Muscular",
+    "genes": "AR, VAPB, SMN1, BSCL2, GARS, HEXB, IGHMBP2"
+  },
+  {
+    "id": 1428,
+    "disease": "Spinocereballar_ataxia",
+    "class": "Neurological",
+    "genes": "ATXN10, ATXN1, PPP2R2B, PRKCG, TBP, ATXN2, SCA25, FGF14, PLEKHG4, CACNA1A, ATXN7, KLHL1AS, TDP1"
+  },
+  {
+    "id": 1430,
+    "disease": "Split-hand/foot_malformation",
+    "class": "Skeletal",
+    "genes": "FBXW4, TP73L"
+  },
+  {
+    "id": 1432,
+    "disease": "Spondylocarpotarsal_synostosis_syndrome",
+    "class": "Skeletal",
+    "genes": "FLNB"
+  },
+  {
+    "id": 1433,
+    "disease": "Spondylocostal_dysostosis",
+    "class": "Skeletal",
+    "genes": "DLL3, MESP2"
+  },
+  {
+    "id": 1435,
+    "disease": "Spondyloepiphyseal_dysplasia",
+    "class": "Skeletal",
+    "genes": "MATN3, AGC1, CHST3, TRAPPC2, WISP3"
+  },
+  {
+    "id": 1436,
+    "disease": "Spondylometaphyseal_dysplasia",
+    "class": "Skeletal",
+    "genes": "COL10A1"
+  },
+  {
+    "id": 1437,
+    "disease": "Squamous_cell_carcinoma",
+    "class": "Cancer",
+    "genes": "FAS, ING1, TNFRSF10B"
+  },
+  {
+    "id": 1438,
+    "disease": "Stapes_ankylosis_syndrome_without_symphalangism",
+    "class": "multiple",
+    "genes": "NOG"
+  },
+  {
+    "id": 1439,
+    "disease": "Stargardt_disease",
+    "class": "Ophthamological",
+    "genes": "ABCA4, ELOVL4"
+  },
+  {
+    "id": 1440,
+    "disease": "Startle_disease",
+    "class": "Neurological",
+    "genes": "GLRA1"
+  },
+  {
+    "id": 1441,
+    "disease": "STAT1_deficiency",
+    "class": "Unclassified",
+    "genes": "STAT1"
+  },
+  {
+    "id": 1442,
+    "disease": "Statins",
+    "class": "Metabolic",
+    "genes": "HMGCR"
+  },
+  {
+    "id": 1444,
+    "disease": "Steatocystoma_multiplex",
+    "class": "Dermatological",
+    "genes": "KRT17"
+  },
+  {
+    "id": 1445,
+    "disease": "Stem-cell_leukemia/lymphoma_syndrome",
+    "class": "Cancer",
+    "genes": "ZNF198"
+  },
+  {
+    "id": 1446,
+    "disease": "Stevens-Johnson_syndrome,_carbamazepine-induced",
+    "class": "Dermatological",
+    "genes": "HLA-B"
+  },
+  {
+    "id": 1447,
+    "disease": "Stickler_syndrome",
+    "class": "multiple",
+    "genes": "COL2A1, COL11A1, COL11A2"
+  },
+  {
+    "id": 1449,
+    "disease": "Stomach_cancer",
+    "class": "Cancer",
+    "genes": "KRAS"
+  },
+  {
+    "id": 1454,
+    "disease": "Stroke",
+    "class": "Cardiovascular",
+    "genes": "PDE4D, ALOX5AP"
+  },
+  {
+    "id": 1455,
+    "disease": "Stuve-Wiedemann_syndrome/Schwartz-Jampel_type_2_syndrome",
+    "class": "multiple",
+    "genes": "LIFR"
+  },
+  {
+    "id": 1456,
+    "disease": "Subcortical_laminar_heterotopia",
+    "class": "Neurological",
+    "genes": "DCX, PAFAH1B1"
+  },
+  {
+    "id": 1457,
+    "disease": "Succinic_semialdehyde_dehydrogenase_deficiency",
+    "class": "Metabolic",
+    "genes": "ALDH5A1"
+  },
+  {
+    "id": 1458,
+    "disease": "Sucrose_intolerance",
+    "class": "Metabolic",
+    "genes": "SI"
+  },
+  {
+    "id": 1459,
+    "disease": "Sudden_infant_death_with_dysgenesis_of_the_testes_syndrome",
+    "class": "Unclassified",
+    "genes": "TSPYL1"
+  },
+  {
+    "id": 1460,
+    "disease": "Sulfite_oxidase_deficiency",
+    "class": "Metabolic",
+    "genes": "SUOX"
+  },
+  {
+    "id": 1461,
+    "disease": "Superoxide_dismutase,_elevated_extracellular",
+    "class": "Unclassified",
+    "genes": "SOD3"
+  },
+  {
+    "id": 1462,
+    "disease": "Supranuclear_palsy",
+    "class": "Neurological",
+    "genes": "MAPT"
+  },
+  {
+    "id": 1463,
+    "disease": "Supravalvar_aortic_stenosis",
+    "class": "Cardiovascular",
+    "genes": "ELN"
+  },
+  {
+    "id": 1464,
+    "disease": "Surfactant_deficiency",
+    "class": "Respiratory",
+    "genes": "ABCA3, SFTPC"
+  },
+  {
+    "id": 1465,
+    "disease": "Sutherland-Haan_syndrome-like",
+    "class": "multiple",
+    "genes": "ATRX"
+  },
+  {
+    "id": 1466,
+    "disease": "Sweat_chloride_elevation_without_CF",
+    "class": "Unclassified",
+    "genes": "CFTR"
+  },
+  {
+    "id": 1467,
+    "disease": "Symphalangism,_proximal",
+    "class": "Skeletal",
+    "genes": "NOG"
+  },
+  {
+    "id": 1468,
+    "disease": "Syndactyly",
+    "class": "Skeletal",
+    "genes": "GJA1"
+  },
+  {
+    "id": 1469,
+    "disease": "Synostoses_syndrome",
+    "class": "multiple",
+    "genes": "NOG"
+  },
+  {
+    "id": 1470,
+    "disease": "Synpolydactyly",
+    "class": "Skeletal",
+    "genes": "FBLN1, HOXD13"
+  },
+  {
+    "id": 1471,
+    "disease": "Systemic_lupus_erythematosus",
+    "class": "Immunological",
+    "genes": "FASLG, DNASE1, PTPN22, PDCD1"
+  },
+  {
+    "id": 1472,
+    "disease": "Tall_stature",
+    "class": "Skeletal",
+    "genes": "MCM6"
+  },
+  {
+    "id": 1473,
+    "disease": "Tangier_disease",
+    "class": "Metabolic",
+    "genes": "ABCA1"
+  },
+  {
+    "id": 1475,
+    "disease": "Tarsal-carpal_coalition_syndrome",
+    "class": "Skeletal",
+    "genes": "NOG"
+  },
+  {
+    "id": 1476,
+    "disease": "Tauopathy_and_respiratory_failure",
+    "class": "Neurological",
+    "genes": "MAPT"
+  },
+  {
+    "id": 1477,
+    "disease": "Tay-Sachs_disease",
+    "class": "Metabolic",
+    "genes": "HEXA"
+  },
+  {
+    "id": 1478,
+    "disease": "T-cell_lymphoblastic_leukemia",
+    "class": "Cancer",
+    "genes": "BAX, ATM"
+  },
+  {
+    "id": 1480,
+    "disease": "Temperature-sensitive_apoptosis,_cellular",
+    "class": "Unclassified",
+    "genes": "DAD1"
+  },
+  {
+    "id": 1482,
+    "disease": "Tetra-amelia,_autosomal_recessive",
+    "class": "multiple",
+    "genes": "WNT3"
+  },
+  {
+    "id": 1483,
+    "disease": "Tetralogy_of_Fallot",
+    "class": "Cardiovascular",
+    "genes": "JAG1, ZFPM2, NKX2-5"
+  },
+  {
+    "id": 1486,
+    "disease": "Thalassemias",
+    "class": "Hematological",
+    "genes": "HBA2, HBB, HBD, LCRB, HBA1"
+  },
+  {
+    "id": 1490,
+    "disease": "Thanatophoric_dysplasia,_types_I_and_II",
+    "class": "Skeletal",
+    "genes": "FGFR3"
+  },
+  {
+    "id": 1491,
+    "disease": "Thiamine-responsive_megaloblastic_anemia_syndrome",
+    "class": "Hematological",
+    "genes": "SLC19A2"
+  },
+  {
+    "id": 1493,
+    "disease": "Thrombocythemia",
+    "class": "Hematological",
+    "genes": "JAK2, THPO"
+  },
+  {
+    "id": 1494,
+    "disease": "Thrombocytopenia",
+    "class": "Hematological",
+    "genes": "MASTL, MPL, WAS, F5"
+  },
+  {
+    "id": 1497,
+    "disease": "Thrombophilia",
+    "class": "Hematological",
+    "genes": "F5, SERPIND1, HRG, PROC, THBD, FGB, FGG, CBS, ADAMTS13"
+  },
+  {
+    "id": 1502,
+    "disease": "Thymine-uraciluria",
+    "class": "Metabolic",
+    "genes": "DPYD"
+  },
+  {
+    "id": 1503,
+    "disease": "Thyroid_carcinoma",
+    "class": "Cancer",
+    "genes": "TSHR, TP53, MINPP1, PTEN, HRAS, GOLGA5, NCOA4, PCM1, PRKAR1A, TRIM33, TRIM24"
+  },
+  {
+    "id": 1504,
+    "disease": "Thyrotoxic_periodic_paralysis",
+    "class": "Endocrine",
+    "genes": "CACNA1S"
+  },
+  {
+    "id": 1505,
+    "disease": "Thyrotropin-releasing_hormone_deficiency",
+    "class": "Endocrine",
+    "genes": "TRHR"
+  },
+  {
+    "id": 1506,
+    "disease": "Thyroxine-binding_globulin_deficiency",
+    "class": "Hematological",
+    "genes": "SERPINA7"
+  },
+  {
+    "id": 1508,
+    "disease": "Tietz_syndrome",
+    "class": "multiple",
+    "genes": "MITF"
+  },
+  {
+    "id": 1509,
+    "disease": "Timothy_syndrome",
+    "class": "multiple",
+    "genes": "CACNA1C"
+  },
+  {
+    "id": 1510,
+    "disease": "Toenail_dystrophy,_isolated",
+    "class": "Dermatological",
+    "genes": "COL7A1"
+  },
+  {
+    "id": 1511,
+    "disease": "Tolbutamide_poor_metabolizer",
+    "class": "Unclassified",
+    "genes": "CYP2C9"
+  },
+  {
+    "id": 1514,
+    "disease": "Townes-Brocks_syndrome",
+    "class": "multiple",
+    "genes": "SALL1"
+  },
+  {
+    "id": 1515,
+    "disease": "Transaldolase_deficiency",
+    "class": "Metabolic",
+    "genes": "TALDO1"
+  },
+  {
+    "id": 1516,
+    "disease": "Transcobalamin_II_deficiency",
+    "class": "Hematological",
+    "genes": "TCN2"
+  },
+  {
+    "id": 1518,
+    "disease": "Transient_bullous_of_the_newborn",
+    "class": "Dermatological",
+    "genes": "COL7A1"
+  },
+  {
+    "id": 1519,
+    "disease": "Transposition_of_great_arteries,_dextro-looped",
+    "class": "Developmental",
+    "genes": "CFC1, THRAP2"
+  },
+  {
+    "id": 1520,
+    "disease": "Treacher_Collins_mandibulofacial_dysostosis",
+    "class": "Developmental",
+    "genes": "TCOF1"
+  },
+  {
+    "id": 1521,
+    "disease": "Tremor,_familial_essential",
+    "class": "Neurological",
+    "genes": "HS1BP3"
+  },
+  {
+    "id": 1522,
+    "disease": "Trichodontoosseous_syndrome",
+    "class": "multiple",
+    "genes": "DLX3"
+  },
+  {
+    "id": 1524,
+    "disease": "Trichorhinophalangeal_syndrome",
+    "class": "Developmental",
+    "genes": "TRPS1"
+  },
+  {
+    "id": 1525,
+    "disease": "Trichothiodystrophy",
+    "class": "Dermatological",
+    "genes": "ERCC3, ERCC2, GTF2H5, C7orf11"
+  },
+  {
+    "id": 1526,
+    "disease": "Trifunctional_protein_deficiency",
+    "class": "Metabolic",
+    "genes": "HADHA, HADHB"
+  },
+  {
+    "id": 1528,
+    "disease": "Trismus-pseudocomptodactyly_syndrome",
+    "class": "multiple",
+    "genes": "MYH8"
+  },
+  {
+    "id": 1529,
+    "disease": "Tropical_calcific_pancreatitis",
+    "class": "Gastrointestinal",
+    "genes": "SPINK1"
+  },
+  {
+    "id": 1530,
+    "disease": "Troyer_syndrome",
+    "class": "Neurological",
+    "genes": "SPG20"
+  },
+  {
+    "id": 1533,
+    "disease": "Tuberculosis",
+    "class": "Respiratory",
+    "genes": "IFNGR1, IFNG"
+  },
+  {
+    "id": 1534,
+    "disease": "Tuberous_sclerosis",
+    "class": "multiple",
+    "genes": "IFNG, TSC1, TSC2"
+  },
+  {
+    "id": 1536,
+    "disease": "Turcot_syndrome",
+    "class": "Cancer",
+    "genes": "APC, MLH1, PMS2"
+  },
+  {
+    "id": 1538,
+    "disease": "Twinning,_dizygotic",
+    "class": "Unclassified",
+    "genes": "FSHR"
+  },
+  {
+    "id": 1540,
+    "disease": "Tyrosinemia",
+    "class": "Metabolic",
+    "genes": "FAH, TAT, HPD"
+  },
+  {
+    "id": 1542,
+    "disease": "Ullrich_congenital_muscular_dystrophy",
+    "class": "Muscular",
+    "genes": "COL6A1, COL6A3, COL6A2"
+  },
+  {
+    "id": 1543,
+    "disease": "Ulnar-mammary_syndrome",
+    "class": "multiple",
+    "genes": "TBX3"
+  },
+  {
+    "id": 1544,
+    "disease": "Unipolar_depression",
+    "class": "Psychiatric",
+    "genes": "TPH2"
+  },
+  {
+    "id": 1545,
+    "disease": "Unna-Thost_disease,_nonepidermolytic",
+    "class": "Dermatological",
+    "genes": "KRT1"
+  },
+  {
+    "id": 1550,
+    "disease": "Urolithiasise",
+    "class": "Metabolic",
+    "genes": "APRT, SLC34A1"
+  },
+  {
+    "id": 1551,
+    "disease": "Usher_syndrome",
+    "class": "multiple",
+    "genes": "MYO7A, USH1C, CDH23, PCDH15, USH1G, USH2A, USH3A, MASS1"
+  },
+  {
+    "id": 1552,
+    "disease": "Uterine_leiomyoma",
+    "class": "Cancer",
+    "genes": "HMGA2"
+  },
+  {
+    "id": 1553,
+    "disease": "UV-induced_skin_damage",
+    "class": "Dermatological",
+    "genes": "MC1R"
+  },
+  {
+    "id": 1554,
+    "disease": "van_Buchem_disease",
+    "class": "Unclassified",
+    "genes": "LRP5"
+  },
+  {
+    "id": 1555,
+    "disease": "VATER_association_with_hydrocephalus",
+    "class": "multiple",
+    "genes": "PTEN"
+  },
+  {
+    "id": 1556,
+    "disease": "Velocardiofacial_syndrome",
+    "class": "multiple",
+    "genes": "TBX1"
+  },
+  {
+    "id": 1557,
+    "disease": "Venous_thrombosis",
+    "class": "Cardiovascular",
+    "genes": "TEK, SERPINA10"
+  },
+  {
+    "id": 1558,
+    "disease": "Ventricular_tachycardia",
+    "class": "Cardiovascular",
+    "genes": "GNAI2, CASQ2, RYR2"
+  },
+  {
+    "id": 1559,
+    "disease": "Vertical_talus",
+    "class": "Skeletal",
+    "genes": "HOXD10"
+  },
+  {
+    "id": 1562,
+    "disease": "Viral_infection",
+    "class": "Immunological",
+    "genes": "FCGR3A, OAS1"
+  },
+  {
+    "id": 1563,
+    "disease": "Virilization",
+    "class": "Developmental",
+    "genes": "CYP19A1"
+  },
+  {
+    "id": 1565,
+    "disease": "Vitamin_K-dependent_coagulation_defect",
+    "class": "Hematological",
+    "genes": "VKORC1, GGCX"
+  },
+  {
+    "id": 1566,
+    "disease": "Vitelliform_macular_dystrophy",
+    "class": "Ophthamological",
+    "genes": "VMD2"
+  },
+  {
+    "id": 1570,
+    "disease": "VLCAD_deficiency",
+    "class": "Metabolic",
+    "genes": "ACADVL"
+  },
+  {
+    "id": 1571,
+    "disease": "Vohwinkel_syndrome",
+    "class": "multiple",
+    "genes": "GJB2, LOR"
+  },
+  {
+    "id": 1572,
+    "disease": "von_Hippel-Lindau_syndrome",
+    "class": "Cancer",
+    "genes": "CCND1, VHL"
+  },
+  {
+    "id": 1573,
+    "disease": "Waardenburg-Shah_syndrome",
+    "class": "multiple",
+    "genes": "EDNRB, SOX10"
+  },
+  {
+    "id": 1574,
+    "disease": "Waardenburg_syndrome",
+    "class": "multiple",
+    "genes": "TYR, MITF, PAX3, SNAI2"
+  },
+  {
+    "id": 1575,
+    "disease": "Wagner_syndrome",
+    "class": "Ophthamological",
+    "genes": "COL2A1"
+  },
+  {
+    "id": 1576,
+    "disease": "WAGR_syndrome",
+    "class": "multiple",
+    "genes": "WT1"
+  },
+  {
+    "id": 1578,
+    "disease": "Walker-Warburg_syndrome",
+    "class": "multiple",
+    "genes": "FCMD, POMT1, RAB3GAP1"
+  },
+  {
+    "id": 1580,
+    "disease": "Warfarin_resistance/sensitivity",
+    "class": "Hematological",
+    "genes": "VKORC1, CYP2C9, F9"
+  },
+  {
+    "id": 1581,
+    "disease": "Watson_syndrome",
+    "class": "Cancer",
+    "genes": "NF1"
+  },
+  {
+    "id": 1582,
+    "disease": "Weaver_syndrome",
+    "class": "Developmental",
+    "genes": "NSD1"
+  },
+  {
+    "id": 1583,
+    "disease": "Wegener_granulomatosis",
+    "class": "Immunological",
+    "genes": "TAP2"
+  },
+  {
+    "id": 1585,
+    "disease": "Weill-Marchesani_syndrome",
+    "class": "Connective_tissue_disorder",
+    "genes": "FBN1, ADAMTS10"
+  },
+  {
+    "id": 1586,
+    "disease": "Weissenbacher-Zweymuller_syndrome",
+    "class": "Connective_tissue_disorder",
+    "genes": "COL11A2"
+  },
+  {
+    "id": 1588,
+    "disease": "Werner_syndrome",
+    "class": "multiple",
+    "genes": "WRN"
+  },
+  {
+    "id": 1589,
+    "disease": "Wernicke-Korsakoff_syndrome",
+    "class": "Metabolic",
+    "genes": "TKT"
+  },
+  {
+    "id": 1590,
+    "disease": "Weyers_acrodental_dysostosis",
+    "class": "Skeletal",
+    "genes": "EVC"
+  },
+  {
+    "id": 1591,
+    "disease": "WHIM_syndrome",
+    "class": "Immunological",
+    "genes": "CXCR4"
+  },
+  {
+    "id": 1592,
+    "disease": "White_sponge_nevus",
+    "class": "Connective_tissue_disorder",
+    "genes": "KRT13, KRT4"
+  },
+  {
+    "id": 1594,
+    "disease": "Williams-Beuren_syndrome",
+    "class": "multiple",
+    "genes": "ELN"
+  },
+  {
+    "id": 1595,
+    "disease": "Wilms_tumor",
+    "class": "Cancer",
+    "genes": "BRCA2, GPC3, POU6F2, WT1"
+  },
+  {
+    "id": 1596,
+    "disease": "Wilson_disease",
+    "class": "Metabolic",
+    "genes": "ATP7B"
+  },
+  {
+    "id": 1598,
+    "disease": "Wiskott-Aldrich_syndrome",
+    "class": "Immunological",
+    "genes": "WAS"
+  },
+  {
+    "id": 1599,
+    "disease": "Witkop_syndrome",
+    "class": "Developmental",
+    "genes": "MSX1"
+  },
+  {
+    "id": 1600,
+    "disease": "Wolcott-Rallison_syndrome",
+    "class": "Bone",
+    "genes": "EIF2AK3"
+  },
+  {
+    "id": 1601,
+    "disease": "Wolff-Parkinson-White_syndrome",
+    "class": "Cardiovascular",
+    "genes": "PRKAG2"
+  },
+  {
+    "id": 1603,
+    "disease": "Wolfram_syndrome",
+    "class": "Metabolic",
+    "genes": "WFS1"
+  },
+  {
+    "id": 1604,
+    "disease": "Wolman_disease",
+    "class": "Metabolic",
+    "genes": "LIPA"
+  },
+  {
+    "id": 1607,
+    "disease": "Xanthinuria,_type_I",
+    "class": "Metabolic",
+    "genes": "XDH"
+  },
+  {
+    "id": 1608,
+    "disease": "Xeroderma_pigmentosum",
+    "class": "Dermatological",
+    "genes": "XPA, ERCC3, XPC, ERCC2, DDB2, ERCC4, ERCC5, POLH"
+  },
+  {
+    "id": 1610,
+    "disease": "X-inactivation,_familial_skewed",
+    "class": "Unclassified",
+    "genes": "XIST"
+  },
+  {
+    "id": 1611,
+    "disease": "XLA_and_isolated_growth_hormone_deficiency",
+    "class": "Immunological",
+    "genes": "BTK"
+  },
+  {
+    "id": 1613,
+    "disease": "Yellow_nail_syndrome",
+    "class": "Immunological",
+    "genes": "FOXC2"
+  },
+  {
+    "id": 1614,
+    "disease": "Yemenite_deaf-blind_hypopigmentation_syndrome",
+    "class": "multiple",
+    "genes": "SOX10"
+  },
+  {
+    "id": 1615,
+    "disease": "Zellweger_syndrome",
+    "class": "multiple",
+    "genes": "PEX1, PEX10, PEX13, PEX14, PEX26, PEX19, PEX5, ABCD3, PXMP3, PEX16, PEX3"
+  },
+  {
+    "id": 1617,
+    "disease": "Zlotogora-Ogur_syndrome",
+    "class": "multiple",
+    "genes": "PVRL1"
+  },
+  {
+    "id": 2053,
+    "disease": "Adrenal_adenoma",
+    "class": "Cancer",
+    "genes": "MEN1"
+  },
+  {
+    "id": 2054,
+    "disease": "Adrenal_cortical_carcinoma",
+    "class": "Cancer",
+    "genes": "TP53"
+  },
+  {
+    "id": 2055,
+    "disease": "Adrenocortical_insufficiency",
+    "class": "Endocrine",
+    "genes": "NR5A1"
+  },
+  {
+    "id": 2074,
+    "disease": "Alcohol_intolerance",
+    "class": "Metabolic",
+    "genes": "ALDH2"
+  },
+  {
+    "id": 2112,
+    "disease": "Aneurysm,_familial_arterial",
+    "class": "Unclassified",
+    "genes": "COL3A1"
+  },
+  {
+    "id": 2174,
+    "disease": "Autoimmune_thyroid_disease",
+    "class": "Endocrine",
+    "genes": "TG"
+  },
+  {
+    "id": 2188,
+    "disease": "Basal_cell_nevus_syndrome",
+    "class": "multiple",
+    "genes": "PTCH"
+  },
+  {
+    "id": 2265,
+    "disease": "Carcinoid_tumor_of_lung",
+    "class": "Cancer",
+    "genes": "MEN1"
+  },
+  {
+    "id": 2287,
+    "disease": "Central_core_disease",
+    "class": "Muscular",
+    "genes": "RYR1, MYH7"
+  },
+  {
+    "id": 2291,
+    "disease": "Cerebral_arteriopathy_with_subcortical_infarcts_and_leukoencephalopathy",
+    "class": "Cardiovascular",
+    "genes": "NOTCH3"
+  },
+  {
+    "id": 2315,
+    "disease": "Chondrodysplasia,_Grebe_type",
+    "class": "Skeletal",
+    "genes": "GDF5"
+  },
+  {
+    "id": 2327,
+    "disease": "Chronic_infections,_due_to_opsonin_defect",
+    "class": "Immunological",
+    "genes": "MBL2"
+  },
+  {
+    "id": 2344,
+    "disease": "Cold-induced_sweating_syndrome",
+    "class": "multiple",
+    "genes": "CRLF1"
+  },
+  {
+    "id": 2350,
+    "disease": "Combined_hyperlipemia",
+    "class": "Metabolic",
+    "genes": "LPL"
+  },
+  {
+    "id": 2354,
+    "disease": "Congenital_bilateral_absence_of_vas_deferens",
+    "class": "Unclassified",
+    "genes": "CFTR"
+  },
+  {
+    "id": 2365,
+    "disease": "Coronary_spasms",
+    "class": "Cardiovascular",
+    "genes": "NOS3"
+  },
+  {
+    "id": 2385,
+    "disease": "Creatine_deficiency_syndrome,_X-linked",
+    "class": "Neurological",
+    "genes": "SLC6A8"
+  },
+  {
+    "id": 2427,
+    "disease": "Diabetes_insipidus",
+    "class": "Endocrine",
+    "genes": "AVPR2, AQP2, AVP"
+  },
+  {
+    "id": 2440,
+    "disease": "DNA_ligase_I_deficiency",
+    "class": "multiple",
+    "genes": "LIG1"
+  },
+  {
+    "id": 2584,
+    "disease": "Giant_cell_hepatitis",
+    "class": "Gastrointestinal",
+    "genes": "CYP7B1"
+  },
+  {
+    "id": 2628,
+    "disease": "Growth_retardation",
+    "class": "Developmental",
+    "genes": "IGF1"
+  },
+  {
+    "id": 2669,
+    "disease": "Hereditary_persistence_of_fetal_hemoglobin",
+    "class": "Hematological",
+    "genes": "AFP"
+  },
+  {
+    "id": 2785,
+    "disease": "Hypoplastic_left_heart_syndrome",
+    "class": "Cardiovascular",
+    "genes": "GJA1"
+  },
+  {
+    "id": 2903,
+    "disease": "Lipoid_proteinosis",
+    "class": "Metabolic",
+    "genes": "ECM1"
+  },
+  {
+    "id": 2937,
+    "disease": "Macular_dystrophy",
+    "class": "Ophthamological",
+    "genes": "CHST6, RDS, ABCA4, ELOVL4, VMD2"
+  },
+  {
+    "id": 2969,
+    "disease": "Medullary_thyroid_carcinoma",
+    "class": "Cancer",
+    "genes": "RET, NTRK1"
+  },
+  {
+    "id": 3016,
+    "disease": "Mitochondrial_DNA_depletion_myopathy",
+    "class": "Muscular",
+    "genes": "TK2"
+  },
+  {
+    "id": 3037,
+    "disease": "Multiple_cutaneous_and_uterine_leiomyomata",
+    "class": "Cancer",
+    "genes": "FH"
+  },
+  {
+    "id": 3079,
+    "disease": "Neonatal_ichthyosis-sclerosing_cholangitis_syndrome",
+    "class": "multiple",
+    "genes": "CLDN1"
+  },
+  {
+    "id": 3144,
+    "disease": "Optic_nerve_coloboma_with_renal_disease",
+    "class": "multiple",
+    "genes": "PAX2"
+  },
+  {
+    "id": 3171,
+    "disease": "Ovarian_dysgenesis",
+    "class": "Endocrine",
+    "genes": "FSHR, BMP15"
+  },
+  {
+    "id": 3178,
+    "disease": "Pancreatic_agenesis",
+    "class": "Gastrointestinal",
+    "genes": "IPF1"
+  },
+  {
+    "id": 3195,
+    "disease": "Paroxysmal_nocturnal_hemoglobinuria",
+    "class": "Hematological",
+    "genes": "PIGA"
+  },
+  {
+    "id": 3212,
+    "disease": "Persistent_hyperinsulinemic_hypoglycemia_of_infancy",
+    "class": "Metabolic",
+    "genes": "KCNJ11"
+  },
+  {
+    "id": 3229,
+    "disease": "Pigmented_adrenocortical_disease,_primary_isolated",
+    "class": "Cancer",
+    "genes": "PRKAR1A"
+  },
+  {
+    "id": 3232,
+    "disease": "Pituitary_anomalies_with_holoprosencephaly-like_features",
+    "class": "multiple",
+    "genes": "GLI2"
+  },
+  {
+    "id": 3241,
+    "disease": "Polycystic_liver_disease",
+    "class": "Gastrointestinal",
+    "genes": "PRKCSH, SEC63"
+  },
+  {
+    "id": 3260,
+    "disease": "Premature_chromosome_condensation_with_microcephaly_and_mental_retardation",
+    "class": "Neurological",
+    "genes": "MCPH1"
+  },
+  {
+    "id": 3308,
+    "disease": "Renal_glucosuria",
+    "class": "Renal",
+    "genes": "SLC5A2"
+  },
+  {
+    "id": 3419,
+    "disease": "Specific_granule_deficiency",
+    "class": "Immunological",
+    "genes": "CEBPE"
+  },
+  {
+    "id": 3478,
+    "disease": "T-cell_immunodeficiency,_congenital_alopecia,_and_nail_dystrophy",
+    "class": "Immunological",
+    "genes": "FOXN1"
+  },
+  {
+    "id": 3503,
+    "disease": "Thyroid_hormone_resistance",
+    "class": "Endocrine",
+    "genes": "TPO, THRB"
+  },
+  {
+    "id": 3512,
+    "disease": "Total_iodide_organification_defect",
+    "class": "Endocrine",
+    "genes": "TPO"
+  },
+  {
+    "id": 3554,
+    "disease": "van_der_Woude_syndrome",
+    "class": "Developmental",
+    "genes": "IRF6"
+  },
+  {
+    "id": 3558,
+    "disease": "Ventricular_fibrillation,_idiopathic",
+    "class": "Cardiovascular",
+    "genes": "SCN5A"
+  },
+  {
+    "id": 3572,
+    "disease": "von_Willebrand_disease",
+    "class": "Hematological",
+    "genes": "VWF"
+  },
+  {
+    "id": 4188,
+    "disease": "Basal_ganglia_disease",
+    "class": "Neurological",
+    "genes": "FTL, SLC19A3"
+  },
+  {
+    "id": 4289,
+    "disease": "Cerebellar_hypoplasia,_VLDLR-associated",
+    "class": "Neurological",
+    "genes": "VLDLR"
+  },
+  {
+    "id": 4291,
+    "disease": "Cerebral_cavernous_malformations",
+    "class": "Neurological",
+    "genes": "KRIT1, CCM2, PDCD10"
+  },
+  {
+    "id": 4350,
+    "disease": "Combined_immunodeficiency",
+    "class": "Immunological",
+    "genes": "C6, IL2RG"
+  },
+  {
+    "id": 4354,
+    "disease": "Congenital_cataracts",
+    "class": "Ophthamological",
+    "genes": "CTDP1"
+  },
+  {
+    "id": 4666,
+    "disease": "Hepatic_lipase_deficiency",
+    "class": "Metabolic",
+    "genes": "LIPC"
+  },
+  {
+    "id": 5016,
+    "disease": "Mitochondrial_DNA_depletion_syndrome",
+    "class": "multiple",
+    "genes": "SUCLA2, DGUOK"
+  },
+  {
+    "id": 5037,
+    "disease": "Multiple_malignancy_syndrome",
+    "class": "Cancer",
+    "genes": "TP53"
+  },
+  {
+    "id": 5144,
+    "disease": "Optic_nerve_hypoplasia/aplasia",
+    "class": "Ophthamological",
+    "genes": "PAX6"
+  },
+  {
+    "id": 5170,
+    "disease": "Ovarian_hyperstimulation_syndrome",
+    "class": "Endocrine",
+    "genes": "FSHR"
+  },
+  {
+    "id": 5232,
+    "disease": "Pituitary_hormone_deficiency",
+    "class": "Endocrine",
+    "genes": "POU1F1, PROP1, HESX1, LHX3"
+  },
+  {
+    "id": 5233,
+    "disease": "Placental_steroid_sulfatase_deficiency",
+    "class": "Metabolic",
+    "genes": "STS"
+  },
+  {
+    "id": 5291,
+    "disease": "Pulmonary_hypertension,_familial_primary",
+    "class": "Cardiovascular",
+    "genes": "BMPR2"
+  },
+  {
+    "id": 5308,
+    "disease": "Renal_hypoplasia,_isolated",
+    "class": "Renal",
+    "genes": "PAX2"
+  },
+  {
+    "id": 6291,
+    "disease": "Cerebral_dysgenesis,_neuropathy,_ichthyosis,_and_palmoplantar_keratoderma_syndrome",
+    "class": "Neurological",
+    "genes": "SNAP29"
+  },
+  {
+    "id": 6350,
+    "disease": "Combined_oxidative_phosphorylation_deficiency",
+    "class": "multiple",
+    "genes": "GFM1"
+  },
+  {
+    "id": 7016,
+    "disease": "Mitochondrial_myopathy_and_sideroblastic_anemia",
+    "class": "multiple",
+    "genes": "PUS1"
+  },
+  {
+    "id": 7170,
+    "disease": "Ovarian_sex_cord_tumors",
+    "class": "Cancer",
+    "genes": "FSHR"
+  },
+  {
+    "id": 7232,
+    "disease": "Pituitary_tumor,_invasive",
+    "class": "Cancer",
+    "genes": "PRKCA"
+  },
+  {
+    "id": 7308,
+    "disease": "Renal_tubular_acidosis",
+    "class": "Renal",
+    "genes": "SLC4A1, ATP6V0A4, CA2, SLC4A4, ATP6V1B1"
+  },
+  {
+    "id": 8350,
+    "disease": "Combined_SAP_deficiency",
+    "class": "Metabolic",
+    "genes": "PSAP"
+  },
+  {
+    "id": 9037,
+    "disease": "Multiple_myeloma",
+    "class": "Cancer",
+    "genes": "IRF4, LIG4"
+  },
+  {
+    "id": 9038,
+    "disease": "Multiple_sclerosis",
+    "class": "Neurological",
+    "genes": "CIITA, PTPRC"
+  },
+  {
+    "id": 9039,
+    "disease": "Multiple_sulfatase_deficiency",
+    "class": "Metabolic",
+    "genes": "SUMF1"
+  },
+  {
+    "id": 9308,
+    "disease": "Renal_tubular_dysgenesis",
+    "class": "Renal",
+    "genes": "ACE, AGTR1, AGT, REN"
+  }
+]

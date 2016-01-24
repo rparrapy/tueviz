@@ -1,0 +1,517 @@
+id,label,interval,type,disclass
+55,Deafness,,disease,"Ear,Nose,Throat"
+47,Leukemia,,disease,Cancer
+114,Colon cancer,,disease,Cancer
+45,Retinitis pigmentosa,,disease,Ophthamological
+87,Diabetes mellitus,,disease,Endocrine
+54,Cardiomyopathy,,disease,Cardiovascular
+81,Mental retardation,,disease,Neurological
+48,Blood group,,disease,Hematological
+70,Obesity,,disease,Nutritional
+137,Breast cancer,,disease,Cancer
+223,Muscular dystrophy,,disease,Muscular
+390,Charcot-Marie-Tooth disease,,disease,Neurological
+220,Epilepsy,,disease,Neurological
+325,Cataract,,disease,Ophthamological
+68,Asthma,,disease,Respiratory
+208,Complementary component deficiency,,disease,Immunological
+213,Spinocereballar ataxia,,disease,Neurological
+30,Alzheimer disease,,disease,Neurological
+65,Hypertension,,disease,Cardiovascular
+139,Prostate cancer,,disease,Cancer
+185,Leigh syndrome,,disease,Neurological
+202,Fanconi anemia,,disease,Multiple
+302,Epidermolysis bullosa,,disease,Dermatological
+364,Parkinson disease,,disease,Neurological
+634,Thyroid carcinoma,,disease,Cancer
+53,Myopathy,,disease,Muscular
+86,Hemolytic anemia,,disease,Hematological
+99,Myocardial infarction,,disease,Cardiovascular
+117,Gastric cancer,,disease,Cancer
+155,Lymphoma,,disease,Cancer
+41,Anemia,,disease,Hematological
+59,Pancreatic cancer,,disease,Cancer
+130,Schizophrenia,,disease,Psychiatric
+239,Thrombophilia,,disease,Hematological
+285,Ehlers-Danlos syndrome,,disease,Connective tissue disorder
+640,Spastic ataxia/paraplegia,,disease,Neurological
+63,Severe combined immunodeciency,,disease,Immunological
+125,Hypercholesterolemia,,disease,Metabolic
+197,Ovarian cancer,,disease,Cancer
+224,Hepatic adenoma,,disease,Cancer
+236,Rheumatoid arthritis,,disease,Connective tissue disorder
+414,Ectodermal dysplasia,,disease,Dermatological
+420,Neuropathy,,disease,Neurological
+448,Factor x deficiency,,disease,Hematological
+822,Usher syndrome,,disease,Multiple
+42,Cone dystrophy,,disease,Ophthamological
+110,Long QT syndrome,,disease,Cardiovascular
+122,Corneal dystrophy,,disease,Ophthamological
+140,Spinal muscular atrophy,,disease,Muscular
+146,Ichthyosis,,disease,Dermatological
+186,Mitochondrial complex deciency,,disease,Multiple
+266,Myasthenic syndrome,,disease,Muscular
+324,Leber congenital amaurosis,,disease,Ophthamological
+332,Hypothyroidism,,disease,Endocrine
+411,Hirschsprung disease,,disease,Gastrointestinal
+775,Renal cell carcinoma,,disease,Cancer
+37,Coronary artery disease,,disease,Cardiovascular
+120,Amyloidosis,,disease,Neurological
+222,Osteoporosis,,disease,Bone
+306,Epiphyseal dysplasia,,disease,Bone
+367,Amyotrophic lateral sclerosis,,disease,Neurological
+541,MODY,,disease,Endocrine
+751,Dementia,,disease,Neurological
+786,Pseudohypoaldosteronism,,disease,Endocrine
+44,Macular dystrophy,,disease,Ophthamological
+74,Spondyloepiphyseal dysplasia,,disease,Skeletal
+109,Spherocytosis,,disease,Hematological
+164,Renal tubular acidosis,,disease,Renal
+187,Central hypoventilation syndrome,,disease,Respiratory
+200,Melanoma,,disease,Cancer
+215,Night blindness,,disease,Ophthamological
+219,Ataxia,,disease,Neurological
+245,Malaria,,disease,Immunological
+327,Atrial fibrillation,,disease,Cardiovascular
+384,Glioblastoma,,disease,Cancer
+607,Macular degeneration,,disease,Ophthamological
+661,Atopy,,disease,Immunological
+736,Lipodystrophy,,disease,Metabolic
+778,Bare lymphocyte syndrome,,disease,Immunological
+940,Holoprosencephaly,,disease,Developmental
+80,Renal tubular dysgenesis,,disease,Renal
+119,Autoimmune disease,,disease,Immunological
+121,Apolipoprotein deficiency,,disease,Metabolic
+123,Hypertriglyceridemia,,disease,Metabolic
+133,Systemic lupus erythematosus,,disease,Immunological
+158,Migraine,,disease,Neurological
+180,Maple syrup urine disease,,disease,Metabolic
+199,Adenocarcinoma,,disease,Cancer
+203,Wilms tumor,,disease,Cancer
+235,Platelet defect/deficiency,,disease,Hematological
+237,Myelogenous leukemia,,disease,Cancer
+248,Endometrial carcinoma,,disease,Cancer
+277,Osteopetrosis,,disease,Bone
+280,HIV,,disease,Immunological
+290,Osteoarthritis,,disease,Connective tissue disorder
+314,Lung cancer,,disease,Cancer
+340,Glaucoma,,disease,Ophthamological
+369,Lissencephaly,,disease,Neurological
+401,Keratosis palmoplantaria striata,,disease,Dermatological
+419,Dejerine-Sottas disease,,disease,Multiple
+423,Neutropenia,,disease,Hematological
+429,Elliptocytosis,,disease,Hematological
+441,Anterior segment anomalies and cataract,,disease,Ophthamological
+447,Thrombocytopenia,,disease,Hematological
+474,Bladder cancer,,disease,Cancer
+497,Rhabdomyosarcoma,,disease,Cancer
+570,Autism,,disease,Psychiatric
+602,Huntington disease,,disease,Neurological
+782,Waardenburg syndrome,,disease,Multiple
+790,Meningioma,,disease,Cancer
+851,Retinal cone dsytrophy,,disease,Ophthamological
+938,Basal cell carcinoma,,disease,Cancer
+968,Esophageal cancer,,disease,Cancer
+43,Fundus albipunctatus,,disease,Ophthamological
+78,Tetralogy of Fallot,,disease,Cardiovascular
+79,Preeclampsia,,disease,Cardiovascular
+101,Ichthyosiform erythroderma,,disease,Dermatological
+113,Adenomas,,disease,Cancer
+118,Turcot syndrome,,disease,Cancer
+132,Squamous cell carcinoma,,disease,Cancer
+165,Cutis laxa,,disease,Connective tissue disorder
+177,Hypercholanemia,,disease,Gastrointestinal
+189,Obsessive-compulsive disorder,,disease,Psychiatric
+201,Nonsmall cell lung cancer,,disease,Cancer
+216,Hypokalemic periodic paralysis,,disease,Renal
+226,Ventricular tachycardia,,disease,Cardiovascular
+227,Hyperparathyroidism,,disease,Endocrine
+270,Nicotine addiction,,disease,Psychiatric
+282,Achromatopsia,,disease,Ophthamological
+292,Stickler syndrome,,disease,Multiple
+328,Atrioventricular block,,disease,Cardiovascular
+402,Arrhythmogenic right ventricular dysplasia,,disease,Cardiovascular
+464,Walker-Warburg syndrome,,disease,Multiple
+467,Dysfibrinogenemia,,disease,Hematological
+527,Myoclonic epilepsy,,disease,Neurological
+560,Erythrokeratoderma,,disease,Dermatological
+574,Pituitary ACTH-secreting adenoma,,disease,Cancer
+671,Myelodysplastic syndrome,,disease,Muscular
+703,Epidermolytic hyperkeratosis,,disease,Dermatological
+742,Lipoma,,disease,Cancer
+744,Exudative vitreoretinopathy,,disease,Ophthamological
+795,Neurofibromatosis,,disease,Cancer
+796,Cleft palate,,disease,Developmental
+856,Albinism,,disease,Dermatological
+880,Pyruvate dehydrogenase deciency,,disease,Metabolic
+919,Insulin resistance,,disease,Metabolic
+953,Omenn syndrome,,disease,Immunological
+984,Paragangliomas,,disease,Cancer
+985,Pheochromocytoma,,disease,Cancer
+36,Cerebral amyloid angiopathy,,disease,Neurological
+38,HDL cholesterol level QTL,,disease,Metabolic
+46,Stargardt disease,,disease,Ophthamological
+100,Stroke,,disease,Cardiovascular
+126,Abetalipoproteinemia,,disease,Metabolic
+128,Hyperlipoproteinemia,,disease,Metabolic
+131,Urolithiasise,,disease,Metabolic
+154,Ataxia-telangiectasia,,disease,Immunological
+156,T-cell lymphoblastic leukemia,,disease,Cancer
+181,von Hippel-Lindau syndrome,,disease,Cancer
+191,Cowden disease,,disease,Cancer
+192,Polyposis,,disease,Cancer
+209,Combined immunodeficiency,,disease,Immunological
+210,Cerebellar ataxia,,disease,Neurological
+211,Episodic ataxia,,disease,Neurological
+217,Malignant hyperthermia susceptibility,,disease,Neurological
+238,Homocystinuria,,disease,Metabolic
+272,Myotonia congenita,,disease,Muscular
+286,Osteogenesis imperfecta,,disease,Bone
+287,Marfan syndrome,,disease,Connective tissue disorder
+307,Intervertebral disc disease,,disease,Neurological
+322,"CPT deficiency, hepatic",,disease,Metabolic
+323,Rubenstein-Taybi syndrome,,disease,Multiple
+331,Graves disease,,disease,Endocrine
+341,Peters anomaly,,disease,Developmental
+370,Subcortical laminar heterotopia,,disease,Neurological
+385,Becker muscular dystrophy,,disease,Muscular
+408,Atelosteogenesis,,disease,Connective tissue disorder
+417,Waardenburg-Shah syndrome,,disease,Multiple
+426,Emery-Dreifuss muscular dystrophy,,disease,Muscular
+446,Hemorrhagic diathesis,,disease,Hematological
+454,Ectopia,,disease,Ophthamological
+457,Weill-Marchesani syndrome,,disease,Connective tissue disorder
+463,Viral infection,,disease,Immunological
+466,Afibrinogenemia,,disease,Hematological
+470,Jackson-Weiss syndrome,,disease,Skeletal
+471,Kallmann syndrome,,disease,Multiple
+472,Pfeiffer syndrome,,disease,Skeletal
+476,Crouzon syndrome,,disease,Skeletal
+483,Craniosynostosis,,disease,Skeletal
+484,Saethre-Chotzen syndrome,,disease,Developmental
+485,Cancer susceptibility,,disease,Cancer
+491,Iridogoniodysgenesis,,disease,Ophthamological
+493,Rieger syndrome,,disease,Multiple
+526,Insomnia,,disease,Psychiatric
+545,Alexander disease,,disease,Multiple
+550,Growth hormone,,disease,Endocrine
+559,Vohwinkel syndrome,,disease,Multiple
+575,Acromegaly,,disease,Endocrine
+616,Creutzfeldt-Jakob disease,,disease,Neurological
+681,Polycythemia,,disease,Hematological
+682,Thrombocythemia,,disease,Hematological
+685,Jervell and Lange-Nielsen syndrome,,disease,Multiple
+691,Gastrointestinal stromal tumor,,disease,Cancer
+692,Germ cell tumor,,disease,Cancer
+765,Angelman syndrome,,disease,Developmental
+767,Rett syndrome,,disease,Neurological
+772,Multiple endocrine neoplasia,,disease,Cancer
+773,Parathyroid adenoma,,disease,Cancer
+779,Multiple sclerosis,,disease,Neurological
+784,Cafe-au-lait spots,,disease,Cancer
+785,Muir-Torre syndrome,,disease,Cancer
+793,Roussy-Levy syndrome,,disease,Multiple
+797,Hypodontia,,disease,Skeletal
+799,Parietal foramina,,disease,Skeletal
+814,Central core disease,,disease,Muscular
+815,Carney complex,,disease,Multiple
+838,Neuroblastoma,,disease,Cancer
+853,Medullary thyroid carcinoma,,disease,Cancer
+858,Optic atrophy,,disease,Ophthamological
+873,"Coloboma, ocular",,disease,Ophthamological
+930,Hyperprolinemia,,disease,Metabolic
+963,Rh-negative blood type,,disease,Hematological
+982,Liddle syndrome,,disease,Renal
+1048,Goiter,,disease,Endocrine
+1050,Loeys-Dietz syndrome,,disease,Connective tissue disorder
+1053,Thyroid hormone resistance,,disease,Endocrine
+1061,Sepsis,,disease,Immunological
+1067,Li-Fraumeni syndrome,,disease,Cancer
+1070,Osteosarcoma,,disease,Cancer
+1145,Medulloblastoma,,disease,Cancer
+1245,Asperger syndrome,,disease,Psychiatric
+39,Tangier disease,,disease,Metabolic
+62,Adenosine deaminase deficiency,,disease,Immunological
+69,"Beta-2-adrenoreceptor agonist, reduced response to",,disease,Unclassified
+76,"Leanness, inherited",,disease,Nutritional
+77,Alagille syndrome,,disease,Multiple
+98,Atherosclerosis,,disease,Cardiovascular
+112,"Adenoma, periampullary",,disease,Cancer
+115,"Desmoid disease, hereditary",,disease,Cancer
+116,Gardner syndrome,,disease,Cancer
+124,Hypoalphalipoproteinemia,,disease,Metabolic
+127,Hypobetalipoproteinemia,,disease,Metabolic
+129,Sea-blue histiocyte disease,,disease,Hematological
+134,Aquaporin-1 deficiency,,disease,Unclassified
+136,Androgen insensitivity,,disease,Endocrine
+138,Perineal hypospadias,,disease,Endocrine
+147,Placental steroid sulfatase deciency,,disease,Metabolic
+157,Alternating hemiplegia of childhood,,disease,Neurological
+166,Menkes disease,,disease,Neurological
+167,Occipital horn syndrome,,disease,Multiple
+184,GRACILE syndrome,,disease,Metabolic
+188,Memory impairment,,disease,Neurological
+198,Papillary serous carcinoma of the peritoneum,,disease,Cancer
+212,"Hemiplegic migraine, familial",,disease,Neurological
+218,Thyrotoxic periodic paralysis,,disease,Endocrine
+225,Non-Hodgkin lymphoma,,disease,Cancer
+228,Hypocalcemia,,disease,Endocrine
+229,Hypocalciuric hypercalcemia,,disease,Endocrine
+231,Creatine phosphokinase,,disease,Metabolic
+232,Rippling muscle disease,,disease,Muscular
+249,Listeria monocytogenes,,disease,Immunological
+252,Li Fraumeni syndrome,,disease,Cancer
+253,Orolaryngeal cancer,,disease,Cancer
+283,Caffey disease,,disease,Connective tissue disorder
+284,Dissection of cervical arteries,,disease,Connective tissue disorder
+288,"Achondrogenesis-hypochondrogenesis, type II",,disease,Bone
+289,Kniest dysplasia,,disease,Skeletal
+291,SMED Strudwick type,,disease,Skeletal
+293,Wagner syndrome,,disease,Ophthamological
+294,"Aneurysm, familial arterial",,disease,Unclassified
+301,EBD,,disease,Dermatological
+303,"Toenail dystrophy, isolated",,disease,Dermatological
+304,Transient bullous of the newborn,,disease,Dermatological
+305,Fuchs endothelial corneal dystrophy,,disease,Ophthamological
+310,Marshall syndrome,,disease,Multiple
+311,OSMED syndrome,,disease,Bone
+312,Weissenbacher-Zweymuller syndrome,,disease,Connective tissue disorder
+313,Pseudoachondroplasia,,disease,Skeletal
+316,"Hemosiderosis, systemic, due to aceruloplasminemia",,disease,Hematological
+317,Hypoceruloplasminemia,,disease,Metabolic
+334,Pilomatricoma,,disease,Cancer
+342,Coumarin resistance,,disease,Hematological
+363,Dopamine beta-hydroxylase deciency,,disease,Metabolic
+365,Angiotensin I-converting enzyme,,disease,Endocrine
+366,"SARS, progression of",,disease,Immunological
+368,"Lower motor neuron disease, progressive, without sensory symptoms",,disease,Neurological
+374,Jensen syndrome,,disease,Neurological
+375,Mohr-Tranebjaerg syndrome,,disease,Neurological
+376,Meniere disease,,disease,Neurological
+380,Benzene toxicity,,disease,Unclassified
+386,Duchenne muscular dystrophy,,disease,Muscular
+403,Dilated cardiomyopathy with woolly hair and keratoderma,,disease,Multiple
+404,Skin fragility-woolly hair syndrome,,disease,Dermatological
+405,"Dentin dysplasia, type II",,disease,Bone
+406,"Dentinogenesis imperfecta, Shields type",,disease,Bone
+407,Achondrogenesis Ib,,disease,Bone
+409,Diastrophic dysplasia,,disease,Skeletal
+415,Shah-Waardenburg syndrome,,disease,Multiple
+416,ABCD syndrome,,disease,Multiple
+422,"Hematopoiesis, cyclic",,disease,Hematological
+424,Supravalvar aortic stenosis,,disease,Cardiovascular
+425,Williams-Beuren syndrome,,disease,Multiple
+434,Estrogen resistance,,disease,Endocrine
+442,Branchiootic syndrome,,disease,Neurological
+453,Aortic aneurysm,,disease,Cardiovascular
+455,MASS syndrome,,disease,Connective tissue disorder
+456,Shprintzen-Goldberg syndrome,,disease,Multiple
+468,Aarskog-Scott syndrome,,disease,Multiple
+473,Achondroplasia,,disease,Skeletal
+475,Cervical carcinoma,,disease,Cancer
+477,Hypochondroplasia,,disease,Skeletal
+478,Muenke syndrome,,disease,Skeletal
+479,"Thanatophoric dysplasia, types I and II",,disease,Skeletal
+480,Apert syndrome,,disease,Connective tissue disorder
+481,Beare-Stevenson cutis gyrata syndrome,,disease,Multiple
+482,Craniofacial-skeletal-dermatologic dysplasia,,disease,Multiple
+486,Hypofibrinogenemia,,disease,Hematological
+490,Axenfeld anomaly,,disease,Ophthamological
+492,Iris hypoplasia and glaucoma,,disease,Ophthamological
+502,Larson syndrome,,disease,Skeletal
+503,Spondylocarpotarsal synostosis syndrome,,disease,Skeletal
+523,Favism,,disease,Metabolic
+524,G6PD deficiency,,disease,Metabolic
+535,Dyserythropoietic anemia,,disease,Hematological
+536,Macrothrombocytopenia,,disease,Hematological
+540,Hyperinsulinism,,disease,Metabolic
+542,Adult i phenotype,,disease,Hematological
+552,Hypoplastic left heart syndrome,,disease,Cardiovascular
+553,Oculodentodigital dysplasia,,disease,Skeletal
+554,Syndactyly,,disease,Skeletal
+555,Bart-Pumphrey syndrome,,disease,Multiple
+556,Hystrix-like ichthyosis with deafness,,disease,Multiple
+557,Keratitis-ichthyosis-deafness syndrome,,disease,Multiple
+558,"Keratoderma, palmoplantar, with deafness",,disease,Dermatological
+563,Simpson-Golabi-Behmel syndrome,,disease,Multiple
+576,McCune-Albright syndrome,,disease,Multiple
+577,Osseous heteroplasia,,disease,Bone
+578,Pseudohypoparathyroidism,,disease,Endocrine
+579,Somatotrophinoma,,disease,Endocrine
+585,Glutathione synthetase deciency,,disease,Metabolic
+605,"Sandho disease, infantile, juvenile, and adult forms",,disease,Metabolic
+606,Hemolytic-uremic syndrome,,disease,Hematological
+608,Nephropathy-hypertension,,disease,Renal
+627,Vertical talus,,disease,Skeletal
+633,Costello syndrome,,disease,Multiple
+637,"Apparent mineralocorticoid excess, hypertension due to",,disease,Bone
+643,Alcohol dependence,,disease,Unclassified
+644,Anorexia nervosa,,disease,Nutritional
+645,Seasonal affective disorder,,disease,Psychiatric
+663,Graft-versus-host disease,,disease,Immunological
+664,Allergic rhinitis,,disease,Immunological
+665,Hyperproinsulinemia,,disease,Endocrine
+667,Leprechaunism,,disease,Developmental
+668,Rabson-Mendenhall syndrome,,disease,Multiple
+669,Pancreatic agenesis,,disease,Gastrointestinal
+670,Macrocytic anemia,,disease,Hematological
+680,"Myelofibrosis, idiopathic",,disease,Hematological
+686,Acquired long QT syndrome,,disease,Cardiovascular
+687,Persistent hyperinsulinemic hypoglycemia of infancy,,disease,Metabolic
+689,Myokymia with neonatal epilepsy,,disease,Neurological
+693,Mast cell leukemia,,disease,Cancer
+694,Mastocytosis with associated hematologic disorder,,disease,Immunological
+695,Piebaldism,,disease,Dermatological
+701,Stomach cancer,,disease,Cancer
+702,Cyclic ichthyosis with epidermolytic hyperkeratosis,,disease,Dermatological
+704,"Unna-Thost disease, nonepidermolytic",,disease,Dermatological
+709,"Nevus, epidermal, epidermolytic hyperkeratotic type",,disease,Dermatological
+716,Laryngoonychocutaneous syndrome,,disease,Multiple
+743,Bone mineral density variability,,disease,Bone
+745,"Hyperostosis, endosteal",,disease,Bone
+746,Osteoporosis-pseudoglioma syndrome,,disease,Bone
+747,van Buchem disease,,disease,Unclassified
+748,Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome,,disease,Cancer
+752,Pallidopontonigral degeneration,,disease,Neurological
+753,Supranuclear palsy,,disease,Neurological
+754,Tauopathy and respiratory failure,,disease,Neurological
+766,PPM-X syndrome,,disease,Neurological
+769,Adrenal adenoma,,disease,Cancer
+770,"Angiofibroma, sporadic",,disease,Endocrine
+771,Carcinoid tumor of lung,,disease,Cancer
+774,"Prolactinoma, hyperparathyroidism, carcinoid syndrome",,disease,Endocrine
+781,Tietz syndrome,,disease,Multiple
+792,Myeloperoxidase deficiency,,disease,Immunological
+794,Lynch cancer family syndrome II,,disease,Cancer
+798,Witkop syndrome,,disease,Developmental
+810,Neurofibrosarcoma,,disease,Cancer
+816,Trismus-pseudocomptodactyly syndrome,,disease,Multiple
+817,Epstein syndrome,,disease,Hematological
+818,Fechtner syndrome,,disease,Multiple
+819,May-Hegglin anomaly,,disease,Hematological
+820,Sebastian syndrome,,disease,Hematological
+826,Nijmegen breakage syndrome,,disease,Multiple
+828,Coats disease,,disease,Ophthamological
+829,Norrie disease,,disease,Neurological
+833,Neurofibromatosis,,disease,Cancer
+834,Neurobromatosis-Noonan syndrome,,disease,Cancer
+835,Watson syndrome,,disease,Cancer
+836,Schwannomatosis,,disease,Cancer
+841,Coronary spasms,,disease,Cardiovascular
+842,Placental abruption,,disease,Unclassified
+852,Insensitivity to pain,,disease,Neurological
+868,Leprosy,,disease,Immunological
+871,Craniofacial-deafness-hand syndrome,,disease,Multiple
+872,"Aniridia, type II",,disease,Ophthamological
+874,Eye anomalies,,disease,Ophthamological
+875,Foveal hypoplasia,,disease,Ophthamological
+876,Keratitis,,disease,Ophthamological
+877,Morning glory disc anomaly,,disease,Skeletal
+878,Optic nerve hypoplasia/aplasia,,disease,Ophthamological
+879,Oligodontia,,disease,Skeletal
+882,Dermatobrosarcoma protuberans,,disease,Cancer
+883,Giant-cell fibroblastoma,,disease,Cancer
+884,Hypereosinophilic syndrome,,disease,Hematological
+887,Ossication of the posterior longitudinal spinal ligaments,,disease,Connective tissue disorder
+888,Enlarged vestibular aqueduct,,disease,"Ear,Nose,Throat"
+889,Pendred syndrome,,disease,"Ear,Nose,Throat"
+897,Myoglobinuria/hemolysis due to PGK deciency,,disease,Metabolic
+902,Emphysema,,disease,Respiratory
+904,Ring dermoid of cornea,,disease,Ophthamological
+909,Nevo syndrome,,disease,Connective tissue disorder
+911,Pelizaeus-Merzbacher disease,,disease,Neurological
+912,Neuroectodermal tumors,,disease,Multiple
+923,Adrenocortical carcinoma,,disease,Cancer
+924,"Myxoma, intracardiac",,disease,Cardiovascular
+925,"Pigmented adrenocortical disease, primary isolated",,disease,Cancer
+928,Gerstmann-Straussler disease,,disease,Neurological
+929,Prion disease with protracted course,,disease,Neurological
+935,Pick disease,,disease,Neurological
+939,Basal cell nevus syndrome,,disease,Multiple
+941,Bannayan-Riley-Ruvalcaba syndrome,,disease,Unclassified
+942,Lhermitte-Duclos syndrome,,disease,Cancer
+943,Oligodendroglioma,,disease,Cancer
+944,VATER association with hydrocephalus,,disease,Multiple
+947,Leopard syndrome,,disease,Multiple
+948,Noonan syndrome,,disease,Developmental
+949,Zlotogora-Ogur syndrome,,disease,Multiple
+954,Capillary malformations,,disease,Cardiovascular
+955,Parkes Weber syndrome,,disease,Multiple
+956,Retinoblastoma,,disease,Cancer
+958,"Butterfly dystrophy, retinal",,disease,Ophthamological
+959,"Foveomacular dystrophy, adult-onset, with choroidal neovascularization",,disease,Ophthamological
+960,Hyperproreninemia,,disease,Cardiovascular
+961,"Colonic aganglionosis, total, with small bowel involvement",,disease,Gastrointestinal
+962,Rh-mod syndrome,,disease,Hematological
+965,Bothnia retinal dystrophy,,disease,Ophthamological
+966,Newfoundland rod-cone dystrophy,,disease,Ophthamological
+969,Coffin-Lowry syndrome,,disease,Multiple
+974,"Cramps, potassium-aggravated",,disease,Muscular
+975,Hyperkalemic periodic paralysis,,disease,Neurological
+976,Paramyotonia congenita,,disease,Muscular
+977,Brugada syndrome,,disease,Cardiovascular
+978,Heart block,,disease,Cardiovascular
+979,Sick sinus syndrome,,disease,Cardiovascular
+980,"Ventricular brillation, idiopathic",,disease,Cardiovascular
+986,"Carcinoid tumors, intestinal",,disease,Cancer
+987,Merkel cell carcinoma,,disease,Cancer
+991,Solitary median maxillary central incisor,,disease,Skeletal
+996,Fanconi-Bickel syndrome,,disease,Metabolic
+1002,Anxiety-related personality traits,,disease,Psychiatric
+1003,"Creatine deciency syndrome, X-linked",,disease,Neurological
+1012,Infundibular hypoplasia and hypopituitarism,,disease,Endocrine
+1015,PCWH,,disease,Neurological
+1016,Yemenite deaf-blind hypopigmentation syndrome,,disease,Multiple
+1020,Pyropoikilocytosis,,disease,Hematological
+1025,Peutz-Jeghers syndrome,,disease,Cancer
+1027,Hypoglycemia,,disease,Metabolic
+1029,Wegener granulomatosis,,disease,Immunological
+1033,Barth syndrome,,disease,Multiple
+1034,Noncompaction of left ventricular myocardium,,disease,Cardiovascular
+1040,"Glomerulocystic kidney disease, hypoplastic",,disease,Renal
+1047,Autoimmune thyroid disease,,disease,Endocrine
+1051,Self-healing collodion baby,,disease,Dermatological
+1065,Adrenal cortical carcinoma,,disease,Cancer
+1066,Histiocytoma,,disease,Cancer
+1068,Multiple malignancy syndrome,,disease,Cancer
+1069,Nasopharyngeal carcinoma,,disease,Cancer
+1072,Hyperthyroidism,,disease,Endocrine
+1073,Total iodide organication defect,,disease,Endocrine
+1078,Hyperthroidism,,disease,Endocrine
+1080,Amyloid neuropathy,,disease,Neurological
+1081,"Carpal tunnel syndrome, familial",,disease,Unclassified
+1082,Dystransthyretinemic hyperthyroxinemia,,disease,Hematological
+1089,"Hemangioblastoma, cerebellar",,disease,Cancer
+1091,"Maculopathy, bull's-eye",,disease,Ophthamological
+1092,Vitelliform macular dystrophy,,disease,Ophthamological
+1094,Wiskott-Aldrich syndrome,,disease,Immunological
+1099,Denys-Drash syndrome,,disease,Renal
+1100,Frasier syndrome,,disease,Multiple
+1101,Mesangial sclerosis,,disease,Renal
+1102,WAGR syndrome,,disease,Multiple
+1120,Salivary adenoma,,disease,Cancer
+1121,Uterine leiomyoma,,disease,Cancer
+1130,Miyoshi myopathy,,disease,Muscular
+1132,Oligodontia-colorectal cancer syndrome,,disease,Cancer
+1136,Incontinentia pigmenti,,disease,Dermatological
+1148,Arthropathy,,disease,Bone
+1152,Mesothelioma,,disease,Cancer
+1153,Sezary syndrome,,disease,Cancer
+1174,Myotilinopathy,,disease,Muscular
+1181,Enhanced S-cone syndrome,,disease,Ophthamological
+1198,Netherton syndrome,,disease,Dermatological
+1208,Pigmented paravenous chorioretinal atrophy,,disease,Ophthamological
+1221,Silver spastic paraplegia syndrome,,disease,Neurological
+1227,"Craniofacial anomalies, empty sella turcica, corneal endothelial changes",,disease,Multiple
+1228,Keratoconus,,disease,Ophthamological
+1232,"Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked",,disease,Multiple
+1238,IgE levels QTL,,disease,Immunological
+1242,Wolff-Parkinson-White syndrome,,disease,Cardiovascular
+1270,Primary lateral sclerosis,,disease,Neurological
+1285,3-methylglutaconicaciduria,,disease,Metabolic
+1289,Convulsions,,disease,Neurological
+1303,Infantile spasm syndrome,,disease,Neurological
+1304,Partington syndrome,,disease,Neurological
+1305,Proud syndrome,,disease,Multiple
+1306,Birt-Hogg-Dube syndrome,,disease,Dermatological
+1307,"Pneumothorax, primary spontaneous",,disease,Respiratory

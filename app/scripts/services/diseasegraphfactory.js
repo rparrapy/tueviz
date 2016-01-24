@@ -74,10 +74,13 @@ angular.module('tueVizApp')
               var value = _.intersection(d.genes, d2.genes).length;
               return {source: idx, target: idx2, value: value};
             }).value();
-          }).reject(function(l) { return l.value === 0 || l.source === l.target; }).value();
+          }).reject(function(l) { return l.value === 0 || l.source >= l.target; }).value();
           // $log.debug(nodes);
           // $log.debug(links);
-          deferred.resolve({nodes: nodes, links: links});
+          diseaseGroups = _.map(diseaseGroups, function (dg) {
+            return _.replace(dg, /_/g, ' ');
+          });
+          deferred.resolve({nodes: nodes, links: links, groups: diseaseGroups});
           return deferred.promise;
         });
       }

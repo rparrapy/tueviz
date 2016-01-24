@@ -231,3 +231,7 @@ svg {
   margin: auto;
   display: block;
 }
+
+.reference-icon {
+  display: inline-block !important;
+}

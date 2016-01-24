@@ -1,30 +1,30 @@
 [
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "AUH",
         "id": 8,
         "disease": "3-methylglutaconicaciduria"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "OPA3",
         "id": 9,
         "disease": "3-methylglutaconicaciduria"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "FGD1",
         "id": 13,
         "disease": "Aarskog-Scott syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "EDNRB",
         "id": 15,
         "disease": "ABCD syndrome"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "MTP, APOB",
         "id": 17,
         "disease": "Abetalipoproteinemia"
@@ -108,7 +108,7 @@
         "disease": "Afibrinogenemia"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "JAG1",
         "id": 71,
         "disease": "Alagille syndrome"
@@ -120,13 +120,13 @@
         "disease": "Albinism"
     },
     {
-        "class": "Unclassified",
+        "class": "Multiple & Unclassified",
         "genes": "HTR2A",
         "id": 74,
         "disease": "Alcohol dependence"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "GFAP, NDUFV1",
         "id": 79,
         "disease": "Alexander disease"
@@ -204,7 +204,7 @@
         "disease": "Aniridia, type II"
     },
     {
-        "class": "Nutritional",
+        "class": "Metabolic & Nutritional",
         "genes": "HTR2A",
         "id": 124,
         "disease": "Anorexia nervosa"
@@ -234,7 +234,7 @@
         "disease": "Apert syndrome"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "APOA1, APOA2, APOC3, APOH",
         "id": 136,
         "disease": "Apolipoprotein deficiency"
@@ -246,7 +246,7 @@
         "disease": "Apparent mineralocorticoid excess, hypertension due to"
     },
     {
-        "class": "Unclassified",
+        "class": "Multiple & Unclassified",
         "genes": "AQP1",
         "id": 138,
         "disease": "Aquaporin-1 deficiency"
@@ -336,7 +336,7 @@
         "disease": "Axenfeld anomaly"
     },
     {
-        "class": "Unclassified",
+        "class": "Multiple & Unclassified",
         "genes": "PTEN",
         "id": 182,
         "disease": "Bannayan-Riley-Ruvalcaba syndrome"
@@ -348,13 +348,13 @@
         "disease": "Bare lymphocyte syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "TAZ",
         "id": 185,
         "disease": "Barth syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "GJB2",
         "id": 186,
         "disease": "Bart-Pumphrey syndrome"
@@ -366,7 +366,7 @@
         "disease": "Basal cell carcinoma"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "FGFR2",
         "id": 192,
         "disease": "Beare-Stevenson cutis gyrata syndrome"
@@ -378,13 +378,13 @@
         "disease": "Becker muscular dystrophy"
     },
     {
-        "class": "Unclassified",
+        "class": "Multiple & Unclassified",
         "genes": "NQO1",
         "id": 195,
         "disease": "Benzene toxicity"
     },
     {
-        "class": "Unclassified",
+        "class": "Multiple & Unclassified",
         "genes": "ADRB2",
         "id": 198,
         "disease": "Beta-2-adrenoreceptor agonist, reduced response to"
@@ -486,13 +486,13 @@
         "disease": "Cardiomyopathy"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "PRKAR1A, MYH8",
         "id": 269,
         "disease": "Carney complex"
     },
     {
-        "class": "Unclassified",
+        "class": "Multiple & Unclassified",
         "genes": "TTR",
         "id": 275,
         "disease": "Carpal tunnel syndrome, familial"
@@ -546,7 +546,7 @@
         "disease": "Coats disease"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "RPS6KA3",
         "id": 341,
         "disease": "Coffin-Lowry syndrome"
@@ -594,7 +594,7 @@
         "disease": "Coronary artery disease"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "HRAS",
         "id": 369,
         "disease": "Costello syndrome"
@@ -612,7 +612,7 @@
         "disease": "Cowden disease"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "CPT1A, CPT2",
         "id": 374,
         "disease": "CPT deficiency, hepatic"
@@ -624,19 +624,19 @@
         "disease": "Cramps, potassium-aggravated"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "VSX1",
         "id": 377,
         "disease": "Craniofacial anomalies, empty sella turcica, corneal endothelial changes, and abnormal retinal and auditory bipolar cells"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "PAX3",
         "id": 378,
         "disease": "Craniofacial-deafness-hand syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "FGFR2",
         "id": 379,
         "disease": "Craniofacial-skeletal-dermatologic dysplasia"
@@ -648,7 +648,7 @@
         "disease": "Craniosynostosis"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "CAV3",
         "id": 385,
         "disease": "Creatine phosphokinase"
@@ -684,7 +684,7 @@
         "disease": "Deafness"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "PMP22, EGR2, PRX, MPZ",
         "id": 410,
         "disease": "Dejerine-Sottas disease"
@@ -738,7 +738,7 @@
         "disease": "Diastrophic dysplasia"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "DSP",
         "id": 434,
         "disease": "Dilated cardiomyopathy with woolly hair and keratoderma"
@@ -750,7 +750,7 @@
         "disease": "Dissection of cervical arteries"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "DBH",
         "id": 441,
         "disease": "Dopamine beta-hydroxylase deciency"
@@ -912,25 +912,25 @@
         "disease": "Factor x deficiency"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "FANCA, FANCB, FANCC, BRCA2, FANCD2, FANCE, FANCF, FANCG, BRIP1, FANCL, FANCM",
         "id": 523,
         "disease": "Fanconi anemia"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "SLC2A2",
         "id": 524,
         "disease": "Fanconi-Bickel syndrome"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "G6PD",
         "id": 528,
         "disease": "Favism"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "MYH9",
         "id": 530,
         "disease": "Fechtner syndrome"
@@ -948,7 +948,7 @@
         "disease": "Foveomacular dystrophy, adult-onset, with choroidal neovascularization"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "WT1",
         "id": 552,
         "disease": "Frasier syndrome"
@@ -966,7 +966,7 @@
         "disease": "Fundus albipunctatus"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "G6PD",
         "id": 563,
         "disease": "G6PD deficiency"
@@ -1026,7 +1026,7 @@
         "disease": "Glomerulocystic kidney disease, hypoplastic"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "GSS",
         "id": 604,
         "disease": "Glutathione synthetase deciency"
@@ -1038,7 +1038,7 @@
         "disease": "Goiter"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "BCS1L",
         "id": 622,
         "disease": "GRACILE syndrome"
@@ -1062,7 +1062,7 @@
         "disease": "Growth hormone"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "ABCA1, ESR1",
         "id": 644,
         "disease": "HDL cholesterol level QTL"
@@ -1146,7 +1146,7 @@
         "disease": "Holoprosencephaly"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "CBS, MTHFR",
         "id": 698,
         "disease": "Homocystinuria"
@@ -1164,7 +1164,7 @@
         "disease": "Hypercholanemia"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "APOB, LDLR, PCSK9, LDLRAP1, EPHX2, APOA2, C7orf16, ITIH4",
         "id": 724,
         "disease": "Hypercholesterolemia"
@@ -1176,7 +1176,7 @@
         "disease": "Hypereosinophilic syndrome"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "GCK",
         "id": 731,
         "disease": "Hyperinsulinism"
@@ -1188,7 +1188,7 @@
         "disease": "Hyperkalemic periodic paralysis"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "APOC2, APOE",
         "id": 737,
         "disease": "Hyperlipoproteinemia"
@@ -1212,7 +1212,7 @@
         "disease": "Hyperproinsulinemia"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "PRODH, ALDH4A1",
         "id": 749,
         "disease": "Hyperprolinemia"
@@ -1242,19 +1242,19 @@
         "disease": "Hyperthyroidism"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "APOA1, APOA5, LIPI, RP1",
         "id": 757,
         "disease": "Hypertriglyceridemia"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "APOA1",
         "id": 762,
         "disease": "Hypoalphalipoproteinemia"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "APOB",
         "id": 763,
         "disease": "Hypobetalipoproteinemia"
@@ -1272,7 +1272,7 @@
         "disease": "Hypocalciuric hypercalcemia"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "CP",
         "id": 766,
         "disease": "Hypoceruloplasminemia"
@@ -1296,7 +1296,7 @@
         "disease": "Hypofibrinogenemia"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "ABCC8",
         "id": 772,
         "disease": "Hypoglycemia"
@@ -1314,7 +1314,7 @@
         "disease": "Hypothyroidism"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "GJB2",
         "id": 792,
         "disease": "Hystrix-like ichthyosis with deafness"
@@ -1338,7 +1338,7 @@
         "disease": "IgE levels QTL"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "FOXP3",
         "id": 803,
         "disease": "Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked"
@@ -1374,7 +1374,7 @@
         "disease": "Insomnia"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "PPARG, PPP1R3A, PTPN1",
         "id": 814,
         "disease": "Insulin resistance"
@@ -1410,7 +1410,7 @@
         "disease": "Jensen syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "KCNE1, KCNQ1",
         "id": 830,
         "disease": "Jervell and Lange-Nielsen syndrome"
@@ -1422,7 +1422,7 @@
         "disease": "Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "FGFR1, KAL1",
         "id": 836,
         "disease": "Kallmann syndrome"
@@ -1434,7 +1434,7 @@
         "disease": "Keratitis"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "GJB2",
         "id": 843,
         "disease": "Keratitis-ichthyosis-deafness syndrome"
@@ -1470,13 +1470,13 @@
         "disease": "Larson syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "LAMA3",
         "id": 868,
         "disease": "Laryngoonychocutaneous syndrome"
     },
     {
-        "class": "Nutritional",
+        "class": "Metabolic & Nutritional",
         "genes": "AGRP",
         "id": 872,
         "disease": "Leanness, inherited"
@@ -1494,7 +1494,7 @@
         "disease": "Leigh syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "PTPN11",
         "id": 880,
         "disease": "Leopard syndrome"
@@ -1542,7 +1542,7 @@
         "disease": "Li-Fraumeni syndrome"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "AGPAT2, BSCL2, LMNA, PPARG, PPARGC1A",
         "id": 902,
         "disease": "Lipodystrophy"
@@ -1638,7 +1638,7 @@
         "disease": "Malignant hyperthermia susceptibility"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "BCKDHA, BCKDHB, DBT, GCSL",
         "id": 948,
         "disease": "Maple syrup urine disease"
@@ -1650,7 +1650,7 @@
         "disease": "Marfan syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "COL11A1",
         "id": 953,
         "disease": "Marshall syndrome"
@@ -1680,7 +1680,7 @@
         "disease": "May-Hegglin anomaly"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "GNAS",
         "id": 963,
         "disease": "McCune-Albright syndrome"
@@ -1752,7 +1752,7 @@
         "disease": "Migraine"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "NDUFS1, NDUFS2, NDUFS4, NDUFV1, BCS1L, UQCRB, SDHA",
         "id": 1016,
         "disease": "Mitochondrial complex deciency"
@@ -1848,7 +1848,7 @@
         "disease": "Myoclonic epilepsy"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "PGK1",
         "id": 1056,
         "disease": "Myoglobinuria/hemolysis due to PGK deciency"
@@ -1908,7 +1908,7 @@
         "disease": "Neuroblastoma"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "PMS2",
         "id": 1093,
         "disease": "Neuroectodermal tumors"
@@ -1980,7 +1980,7 @@
         "disease": "Night blindness"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "NBN",
         "id": 1111,
         "disease": "Nijmegen breakage syndrome"
@@ -2016,7 +2016,7 @@
         "disease": "Norrie disease"
     },
     {
-        "class": "Nutritional",
+        "class": "Metabolic & Nutritional",
         "genes": "POMC, MC4R, AKR1C2, NTRK2, AGRP, NR0B2, LEP, LEPR, PPARG, SIM1, UCP3, MC3R, SLC6A14, ADRB2, ADRB3, CART, ENPP1, GHRL, UCP1, UCP2, PCSK1",
         "id": 1126,
         "disease": "Obesity"
@@ -2028,7 +2028,7 @@
         "disease": "Obsessive-compulsive disorder"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "ATP7A",
         "id": 1129,
         "disease": "Occipital horn syndrome"
@@ -2184,7 +2184,7 @@
         "disease": "Parietal foramina"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "RASA1",
         "id": 1191,
         "disease": "Parkes Weber syndrome"
@@ -2280,7 +2280,7 @@
         "disease": "Pituitary ACTH-secreting adenoma"
     },
     {
-        "class": "Unclassified",
+        "class": "Multiple & Unclassified",
         "genes": "NOS3",
         "id": 1233,
         "disease": "Placental abruption"
@@ -2346,7 +2346,7 @@
         "disease": "Prostate cancer"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "ARX",
         "id": 1277,
         "disease": "Proud syndrome"
@@ -2376,13 +2376,13 @@
         "disease": "Pyropoikilocytosis"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "PC, PDHA1, PDHB",
         "id": 1297,
         "disease": "Pyruvate dehydrogenase deciency"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "INSR",
         "id": 1298,
         "disease": "Rabson-Mendenhall syndrome"
@@ -2442,7 +2442,7 @@
         "disease": "Rh-negative blood type"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "FOXC1, PITX2",
         "id": 1331,
         "disease": "Rieger syndrome"
@@ -2460,13 +2460,13 @@
         "disease": "Rippling muscle disease"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "MPZ, PMP22",
         "id": 1339,
         "disease": "Roussy-Levy syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "CREBBP, EP300",
         "id": 1341,
         "disease": "Rubenstein-Taybi syndrome"
@@ -2484,7 +2484,7 @@
         "disease": "Salivary adenoma"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "HEXB",
         "id": 1347,
         "disease": "Sandho disease, infantile, juvenile, and adult forms"
@@ -2550,13 +2550,13 @@
         "disease": "Sezary syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "EDN3",
         "id": 1386,
         "disease": "Shah-Waardenburg syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "FBN1",
         "id": 1388,
         "disease": "Shprintzen-Goldberg syndrome"
@@ -2574,7 +2574,7 @@
         "disease": "Silver spastic paraplegia syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "GPC3",
         "id": 1397,
         "disease": "Simpson-Golabi-Behmel syndrome"
@@ -2652,7 +2652,7 @@
         "disease": "Stargardt disease"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "COL2A1, COL11A1, COL11A2",
         "id": 1447,
         "disease": "Stickler syndrome"
@@ -2700,7 +2700,7 @@
         "disease": "Systemic lupus erythematosus"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "ABCA1",
         "id": 1473,
         "disease": "Tangier disease"
@@ -2760,7 +2760,7 @@
         "disease": "Thyrotoxic periodic paralysis"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "MITF",
         "id": 1508,
         "disease": "Tietz syndrome"
@@ -2778,7 +2778,7 @@
         "disease": "Transient bullous of the newborn"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "MYH8",
         "id": 1528,
         "disease": "Trismus-pseudocomptodactyly syndrome"
@@ -2796,13 +2796,13 @@
         "disease": "Unna-Thost disease, nonepidermolytic"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "APRT, SLC34A1",
         "id": 1550,
         "disease": "Urolithiasise"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "MYO7A, USH1C, CDH23, PCDH15, USH1G, USH2A, USH3A, MASS1",
         "id": 1551,
         "disease": "Usher syndrome"
@@ -2814,13 +2814,13 @@
         "disease": "Uterine leiomyoma"
     },
     {
-        "class": "Unclassified",
+        "class": "Multiple & Unclassified",
         "genes": "LRP5",
         "id": 1554,
         "disease": "van Buchem disease"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "PTEN",
         "id": 1555,
         "disease": "VATER association with hydrocephalus"
@@ -2850,7 +2850,7 @@
         "disease": "Vitelliform macular dystrophy"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "GJB2, LOR",
         "id": 1571,
         "disease": "Vohwinkel syndrome"
@@ -2862,13 +2862,13 @@
         "disease": "von Hippel-Lindau syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "EDNRB, SOX10",
         "id": 1573,
         "disease": "Waardenburg-Shah syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "TYR, MITF, PAX3, SNAI2",
         "id": 1574,
         "disease": "Waardenburg syndrome"
@@ -2880,13 +2880,13 @@
         "disease": "Wagner syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "WT1",
         "id": 1576,
         "disease": "WAGR syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "FCMD, POMT1, RAB3GAP1",
         "id": 1578,
         "disease": "Walker-Warburg syndrome"
@@ -2916,7 +2916,7 @@
         "disease": "Weissenbacher-Zweymuller syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "ELN",
         "id": 1594,
         "disease": "Williams-Beuren syndrome"
@@ -2946,13 +2946,13 @@
         "disease": "Wolff-Parkinson-White syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "SOX10",
         "id": 1614,
         "disease": "Yemenite deaf-blind hypopigmentation syndrome"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "PVRL1",
         "id": 1617,
         "disease": "Zlotogora-Ogur syndrome"
@@ -2970,7 +2970,7 @@
         "disease": "Adrenal cortical carcinoma"
     },
     {
-        "class": "Unclassified",
+        "class": "Multiple & Unclassified",
         "genes": "COL3A1",
         "id": 2112,
         "disease": "Aneurysm, familial arterial"
@@ -2982,7 +2982,7 @@
         "disease": "Autoimmune thyroid disease"
     },
     {
-        "class": "multiple",
+        "class": "Multiple & Unclassified",
         "genes": "PTCH",
         "id": 2188,
         "disease": "Basal cell nevus syndrome"
@@ -3036,7 +3036,7 @@
         "disease": "Pancreatic agenesis"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "KCNJ11",
         "id": 3212,
         "disease": "Persistent hyperinsulinemic hypoglycemia of infancy"
@@ -3084,7 +3084,7 @@
         "disease": "Optic nerve hypoplasia/aplasia"
     },
     {
-        "class": "Metabolic",
+        "class": "Metabolic & Nutritional",
         "genes": "STS",
         "id": 5233,
         "disease": "Placental steroid sulfatase deciency"

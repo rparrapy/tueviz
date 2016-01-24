@@ -12,7 +12,6 @@ angular.module('tueVizApp')
     // Service logic
     // ...
 
-    var meaningOfLife = 42;
     var diseases;
     var genes;
 
@@ -59,7 +58,7 @@ angular.module('tueVizApp')
           var diseases = data[0];
           var genes = data[1];
 
-          // Temporary patch, source file should be corrected
+          // Temporary patch, source dataset should be corrected
           _.forEach(diseases, function(d) {
             d.genes = _(d.genes).split(',').map(function(g) {return _.trim(g); }).value();
           });
@@ -76,8 +75,8 @@ angular.module('tueVizApp')
               return {source: idx, target: idx2, value: value};
             }).value();
           }).reject(function(l) { return l.value === 0 || l.source === l.target; }).value();
-          $log.debug(nodes);
-          $log.debug(links);
+          // $log.debug(nodes);
+          // $log.debug(links);
           deferred.resolve({nodes: nodes, links: links});
           return deferred.promise;
         });

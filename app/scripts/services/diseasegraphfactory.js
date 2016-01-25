@@ -64,6 +64,7 @@ angular.module('tueVizApp')
           });
 
           var diseaseGroups = _(diseases).map('class').uniq().value();
+          console.log(_.groupBy(diseases, 'class'));
           var nodes = _.map(diseases, function(d) {
             var group = _.findIndex(diseaseGroups, function(g) { return g === d.class});
             return {name: d.disease, group: group};

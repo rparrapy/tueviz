@@ -20,24 +20,9 @@
     <span><img class="reference-icon" src="images/dbdb8d.png" alt="dbdb8d"> {{data.groups[17]}}</span>
     <span><img class="reference-icon" src="images/17becf.png" alt="17becf"> {{data.groups[18]}}</span>
     <span><img class="reference-icon" src="images/9edae5.png" alt="9edae5"> {{data.groups[19]}}</span>
-    <ui-select ng-show="data" ng-model="selected.group" theme="select2" ng-disabled="disabled" style="width: 200px; margin-top:25px;">
-      <ui-select-match allow-clear placeholder="Select a disease category">{{$select.selected}}</ui-select-match>
-      <ui-select-choices repeat="group in data.groups | filter: $select.search">
-        <span ng-bind-html="group | highlight: $select.search"></span>
-      </ui-select-choices>
-    </ui-select>
-    <!-- <ui-select multiple ng-model="multipleDemo.selectedPeopleSimple" theme="select2" ng-disabled="disabled" style="width: 200px; margin-top:50px;">
-    <ui-select-match placeholder="Select up to 5 diseases">{{$item.name}} &lt;{{$item.email}}&gt;</ui-select-match>
-    <ui-select-choices repeat="person.email as person in people | propsFilter: {name: $select.search, age: $select.search}">
-      <div ng-bind-html="person.name | highlight: $select.search"></div>
-      <small>
-        email: {{person.email}}
-        age: <span ng-bind-html="''+person.age | highlight: $select.search"></span>
-      </small>
-    </ui-select-choices>
-  </ui-select> -->
+    <disease-filter data="data" category="selected.group" diseases="selected.diseases"></disease-filter>
   </div>
   <div flex="80" flex-sm="50" flex-xs="100" layout="column">
-    <disease-graph data="data" category="selected.group"></disease-graph>
+    <disease-graph data="data" category="selected.group" diseases="selected.diseases"></disease-graph>
   </div>
 </md-content>

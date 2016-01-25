@@ -235,3 +235,11 @@ svg {
 .reference-icon, .graph-sidebar {
   display: inline-block !important;
 }
+
+.disease-filter-group {
+  margin-top: 25px;
+}
+
+.disease-filter {
+  margin-bottom: 10px;
+}

@@ -13,7 +13,7 @@ angular.module('tueVizApp')
       restrict: 'E',
       scope: {
         data: '=',
-        select: '=',
+        diseases: '=',
         category: '=',
       },
       link: function postLink(scope, element, attrs) {
@@ -43,7 +43,7 @@ angular.module('tueVizApp')
 
           var defs = svg.append("defs");
           _.forEach(graph.nodes, function (n) {
-            var id = "blur" + _.kebabCase(n.name);
+            var id = "blur-" + _.kebabCase(n.name);
             blurFilter[id] = defs.append("filter")
                                 .attr("id", id)
                               .append("feGaussianBlur")
@@ -67,7 +67,7 @@ angular.module('tueVizApp')
               .attr("class", "node")
               .attr("r", 5)
               .style("fill", function(d) { return color(d.group); })
-              .attr("filter", function(d) { return "url(#blur" + _.kebabCase(d.name)+ ")"; })
+              .attr("filter", function(d) { return "url(#blur-" + _.kebabCase(d.name)+ ")"; })
               .call(force.drag);
 
           node.append("title")
@@ -157,20 +157,28 @@ angular.module('tueVizApp')
         });
 
         scope.$watch('category', function(category) {
-          var idx = -1;
-          if (category) {
-            idx = _.findIndex(scope.data.groups, function (g) {
-              return g === category;
-            });
-          }
+          updateGraph(category, scope.diseases);
+        });
+
+        scope.$watchCollection('diseases', function(diseases) {
+          updateGraph(scope.category, diseases);
+        });
+
+        function updateGraph(category, diseases) {
+          var categoryIdx = scope.category || -1;
+          var diseasesIdxs = diseases || [];
+
           if (scope.data) {
-            _.forEach(scope.data.nodes, function (n) {
-              var blurValue = n.group === idx || idx === -1 ? 0 : 3;
-              var id = "blur" + _.kebabCase(n.name);
+            _.forEach(scope.data.nodes, function (n, nidx) {
+              var blurValue = (n.group === categoryIdx && _.includes(diseasesIdxs, nidx))
+                              || (categoryIdx === -1 && _.includes(diseasesIdxs, nidx))
+                              || (_.isEmpty(diseasesIdxs) && n.group === categoryIdx)
+                              ||  (categoryIdx === -1 && _.isEmpty(diseasesIdxs))? 0 : 3;
+              var id = "blur-" + _.kebabCase(n.name);
               blurFilter[id].attr('stdDeviation', blurValue);
             });
           }
-        });
+        }
       }
     };
   });

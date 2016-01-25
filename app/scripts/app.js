@@ -17,8 +17,7 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngMaterial',
-    'ui.select'
+    'ngMaterial'
   ])
   .config(function ($routeProvider) {
     $routeProvider

@@ -20,17 +20,17 @@ angular.module('tueVizApp')
       {
         name: "Diseasome",
         fragment: "/diseasome",
-        avatar: ""
+        avatar: "images/gene.png"
       },
-      {
-        name: "Dummy Viz",
-        fragment: "/dummy",
-        avatar: ""
-      },
+      // {
+      //   name: "Dummy Viz",
+      //   fragment: "/dummy",
+      //   avatar: ""
+      // },
       {
         name: "About",
         fragment: "/",
-        avatar: ""
+        avatar: "images/about.png"
       }
     ];
 

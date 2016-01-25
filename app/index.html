@@ -42,7 +42,7 @@
       <md-list>
         <md-list-item ng-repeat="it in menu.items">
             <md-button ng-click="menu.selectEntry(it)" ng-class="{'selected' : it === menu.selected }">
-              <md-icon md-svg-icon="{{it.avatar}}" class="avatar"></md-icon>
+              <img class="avatar" ng-src="{{it.avatar}}">
               {{it.name}}
             </md-button>
         </md-list-item>

@@ -14,9 +14,10 @@ angular.module('tueVizApp')
       scope: {
         data: '=',
         select: '=',
-        category: '='
+        category: '=',
       },
       link: function postLink(scope, element, attrs) {
+        var blurFilter = {};
         var drawGraph = function(graph, minWeight) {
           //var graph = scope.data;
           var width = 800, height = 800;
@@ -40,6 +41,15 @@ angular.module('tueVizApp')
               .attr("width", width)
               .attr("height", height);
 
+          var defs = svg.append("defs");
+          _.forEach(graph.nodes, function (n) {
+            var id = "blur" + _.kebabCase(n.name);
+            blurFilter[id] = defs.append("filter")
+                                .attr("id", id)
+                              .append("feGaussianBlur")
+                                .attr("stdDeviation", 0);
+          });
+
           force
               .nodes(graph.nodes)
               .links(graph.links)
@@ -57,6 +67,7 @@ angular.module('tueVizApp')
               .attr("class", "node")
               .attr("r", 5)
               .style("fill", function(d) { return color(d.group); })
+              .attr("filter", function(d) { return "url(#blur" + _.kebabCase(d.name)+ ")"; })
               .call(force.drag);
 
           node.append("title")
@@ -142,6 +153,22 @@ angular.module('tueVizApp')
           var minWeight = 1;
           if (data) {
             drawGraph(clean(data, minWeight), minWeight);
+          }
+        });
+
+        scope.$watch('category', function(category) {
+          var idx = -1;
+          if (category) {
+            idx = _.findIndex(scope.data.groups, function (g) {
+              return g === category;
+            });
+          }
+          if (scope.data) {
+            _.forEach(scope.data.nodes, function (n) {
+              var blurValue = n.group === idx ? 0 : 3;
+              var id = "blur" + _.kebabCase(n.name);
+              blurFilter[id].attr('stdDeviation', blurValue);
+            });
           }
         });
       }

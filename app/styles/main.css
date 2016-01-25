@@ -232,6 +232,6 @@ svg {
   display: block;
 }
 
-.reference-icon {
+.reference-icon, .graph-sidebar {
   display: inline-block !important;
 }

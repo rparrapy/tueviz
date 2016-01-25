@@ -165,7 +165,7 @@ angular.module('tueVizApp')
           }
           if (scope.data) {
             _.forEach(scope.data.nodes, function (n) {
-              var blurValue = n.group === idx ? 0 : 3;
+              var blurValue = n.group === idx || idx === -1 ? 0 : 3;
               var id = "blur" + _.kebabCase(n.name);
               blurFilter[id].attr('stdDeviation', blurValue);
             });

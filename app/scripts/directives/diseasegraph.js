@@ -165,6 +165,7 @@ angular.module('tueVizApp')
         });
 
         function updateGraph(category, diseases) {
+          d3.selectAll("circle").classed("animate", false);
           var categoryIdx = scope.category || -1;
           var diseasesIdxs = diseases || [];
 
@@ -176,7 +177,13 @@ angular.module('tueVizApp')
                               ||  (categoryIdx === -1 && _.isEmpty(diseasesIdxs))? 0 : 3;
               var id = "blur-" + _.kebabCase(n.name);
               blurFilter[id].attr('stdDeviation', blurValue);
+              if (!blurValue && (categoryIdx !== -1 || !_.isEmpty(diseasesIdxs))) {
+                d3.select("[filter='url(#" + id + ")']").classed("animate", true);
+                console.log("[filter='url(#" + id + ")']");
+              }
             });
+            d3.selectAll(".animate").transition().duration(750).attr("r", 16)
+              .transition().duration(750).attr("r", 5);
           }
         }
       }

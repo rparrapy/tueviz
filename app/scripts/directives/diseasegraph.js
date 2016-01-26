@@ -15,20 +15,23 @@ angular.module('tueVizApp')
         data: '=',
         diseases: '=',
         category: '=',
+        weight: '='
       },
       link: function postLink(scope, element, attrs) {
+        var minWeight = 1;
         var blurFilter = {};
-        var drawGraph = function(graph, minWeight) {
+        var drawGraph = function(graph, minWeight, onEnd) {
           //var graph = scope.data;
+          d3.select("svg").remove();
           var width = 800, height = 800;
-          if (minWeight == 2) {
-            width = 400;
-            height = 400;
-          }
-          if (minWeight > 2) {
-            width = 200;
-            height = 200;
-          }
+          // if (minWeight == 2) {
+          //   width = 400;
+          //   height = 400;
+          // }
+          // if (minWeight > 2) {
+          //   width = 200;
+          //   height = 200;
+          // }
 
           var color = d3.scale.category20();
 
@@ -66,7 +69,9 @@ angular.module('tueVizApp')
             .enter().append("circle")
               .attr("class", "node")
               .attr("r", 5)
-              .style("fill", function(d) { return color(d.group); })
+              .style("fill", function(d) {
+                return color.range()[d.group];
+              })
               .attr("filter", function(d) { return "url(#blur-" + _.kebabCase(d.name)+ ")"; })
               .call(force.drag);
 
@@ -82,21 +87,27 @@ angular.module('tueVizApp')
             node.attr("cx", function(d) { return d.x; })
                 .attr("cy", function(d) { return d.y; });
           });
+
+          if (onEnd) {
+            force.on('end', onEnd);
+          }
         }
 
         var clean = function(data, minWeight) {
+          var result;
+          result = angular.copy(data, result);
           minWeight = minWeight || 1;
           var minDegree = 1; //should always be 1 for now
 
           //remove unconnected nodes
-          data.links = _(data.links).reject(function (l) { return l.value < minWeight; });
+          result.links = _(result.links).reject(function (l) { return l.value < minWeight; });
 
-          var connected = _(data.links).flatMap(function (l) {
+          var connected = _(result.links).flatMap(function (l) {
             return [l.source, l.target];
           }).value();
 
           var removeIdxs = [];
-          data.nodes = _(data.nodes).map(function (n, idx) {
+          result.nodes = _(result.nodes).map(function (n, idx) {
             n.degree = _.filter(connected, function (c) {
               return c === idx;
             }).length;
@@ -110,7 +121,7 @@ angular.module('tueVizApp')
           }).value();
           // console.log(removeIdxs);
 
-          data.links = _(data.links).reject(function (l) {
+          result.links = _(result.links).reject(function (l) {
             return _.includes(removeIdxs, l.source) || _.includes(removeIdxs, l.target);
           }).map(function (l) {
             function getOffset(value) {
@@ -131,8 +142,7 @@ angular.module('tueVizApp')
             return l;
           }).value();
 
-          console.log(data);
-          return data;
+          return result;
         }
 
         var addDegree = function(data) {
@@ -150,7 +160,6 @@ angular.module('tueVizApp')
         }
 
         scope.$watch('data', function(data) {
-          var minWeight = 1;
           if (data) {
             drawGraph(clean(data, minWeight), minWeight);
           }
@@ -179,13 +188,20 @@ angular.module('tueVizApp')
               blurFilter[id].attr('stdDeviation', blurValue);
               if (!blurValue && (categoryIdx !== -1 || !_.isEmpty(diseasesIdxs))) {
                 d3.select("[filter='url(#" + id + ")']").classed("animate", true);
-                console.log("[filter='url(#" + id + ")']");
               }
             });
             d3.selectAll(".animate").transition().duration(750).attr("r", 16)
               .transition().duration(750).attr("r", 5);
           }
         }
+
+        scope.$watch('weight', function(weight) {
+          if (weight !== minWeight && scope.data) {
+            minWeight = weight;
+            drawGraph(clean(scope.data, minWeight), minWeight);
+            updateGraph(scope.category, scope.diseases);
+          }
+        });
       }
     };
   });

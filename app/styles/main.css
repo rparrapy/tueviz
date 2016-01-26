@@ -243,3 +243,11 @@ svg {
 .disease-filter {
   margin-bottom: 10px;
 }
+
+#slider {
+  margin-top: 15px;
+}
+
+.noUi-tooltip {
+  top: 32px !important;
+}

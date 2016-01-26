@@ -64,10 +64,9 @@ angular.module('tueVizApp')
           });
 
           var diseaseGroups = _(diseases).map('class').uniq().value();
-          console.log(_.groupBy(diseases, 'class'));
           var nodes = _.map(diseases, function(d) {
             var group = _.findIndex(diseaseGroups, function(g) { return g === d.class});
-            return {name: d.disease, group: group};
+            return {name: d.disease, group: group, genes: d.genes};
           })
 
           var links = _(diseases).flatMap(function(d, idx, list) {
@@ -81,6 +80,7 @@ angular.module('tueVizApp')
           diseaseGroups = _.map(diseaseGroups, function (dg) {
             return _.replace(dg, /_/g, ' ');
           });
+          console.log(nodes);
           deferred.resolve({nodes: nodes, links: links, groups: diseaseGroups});
           return deferred.promise;
         });

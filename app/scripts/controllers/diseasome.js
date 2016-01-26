@@ -17,6 +17,7 @@ angular.module('tueVizApp')
 
     diseaseGraphFactory.getData().then(function(graph) {
       $scope.data = graph;
-      $scope.selected = {};
+      $scope.filter = {};
+      $scope.selected = {nodes: graph.nodes, groups: _(graph.nodes).map('group').uniq().value()};
     });
   });

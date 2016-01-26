@@ -20,11 +20,14 @@
     <span><img class="reference-icon" src="images/dbdb8d.png" alt="dbdb8d"> {{data.groups[17]}}</span>
     <span><img class="reference-icon" src="images/17becf.png" alt="17becf"> {{data.groups[18]}}</span>
     <span><img class="reference-icon" src="images/9edae5.png" alt="9edae5"> {{data.groups[19]}}</span>
-    <disease-filter data="data" category="selected.group" diseases="selected.diseases"></disease-filter>
+    <disease-filter data="data" category="filter.group" diseases="filter.diseases"></disease-filter>
     <weight-slider ng-show="data" weight="weight"></weight-slider>
   </div>
   <div flex="80" flex-sm="50" flex-xs="100" layout="column" ng-show="data">
-    <disease-graph data="data" category="selected.group" diseases="selected.diseases" weight="weight"></disease-graph>
+    <md-whiteframe ng-show="data" class="md-whiteframe-3dp layout-align-center-center layout-row flex-sm-45 flex-gt-sm-35 flex-gt-md-25" flex-sm="45" flex-gt-sm="35" flex-gt-md="25" layout="" layout-align="center center">
+    <span>{{selected.nodes.length}} diseases from {{selected.groups.length}} categories</span>
+  </md-whiteframe>
+    <disease-graph data="data" category="filter.group" diseases="filter.diseases" weight="weight" selected="selected"></disease-graph>
   </div>
   <md-progress-circular ng-show="!data" md-diameter="200" md-mode="indeterminate" aria-valuemin="0" aria-valuemax="100" role="progressbar" class="ng-scope" style="margin-top:25%; width: 200px; height: 200px;">
     <div class="md-scale-wrapper md-mode-indeterminate" style="transform: translate(-50%, -50%) scale(0.96);">

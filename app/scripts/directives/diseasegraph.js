@@ -15,11 +15,13 @@ angular.module('tueVizApp')
         data: '=',
         diseases: '=',
         category: '=',
-        weight: '='
+        weight: '=',
+        selected: '='
       },
       link: function postLink(scope, element, attrs) {
         var minWeight = 1;
         var blurFilter = {};
+        var maxNumberOfGenes;
         var drawGraph = function(graph, minWeight, onEnd) {
           //var graph = scope.data;
           d3.select("svg").remove();
@@ -64,11 +66,16 @@ angular.module('tueVizApp')
               .attr("class", "link")
               .style("stroke-width", function(d) { return d.value; });
 
+          //var area = d3.scale.sqrt().domain([0, maxNumberOfGenes]).range([0, 20]).clamp(true);
+          //console.log(area(1));
+
           var node = svg.selectAll(".node")
               .data(graph.nodes)
             .enter().append("circle")
               .attr("class", "node")
-              .attr("r", 5)
+              .attr("r", function (d) {
+                return 5;
+              })
               .style("fill", function(d) {
                 return color.range()[d.group];
               })
@@ -161,6 +168,9 @@ angular.module('tueVizApp')
 
         scope.$watch('data', function(data) {
           if (data) {
+            maxNumberOfGenes = _.max(_.map(data.nodes, function (n) {
+              return n.genes.length;
+            }));
             drawGraph(clean(data, minWeight), minWeight);
           }
         });
@@ -177,6 +187,7 @@ angular.module('tueVizApp')
           d3.selectAll("circle").classed("animate", false);
           var categoryIdx = scope.category || -1;
           var diseasesIdxs = diseases || [];
+          var selected = [];
 
           if (scope.data) {
             _.forEach(scope.data.nodes, function (n, nidx) {
@@ -186,12 +197,18 @@ angular.module('tueVizApp')
                               ||  (categoryIdx === -1 && _.isEmpty(diseasesIdxs))? 0 : 3;
               var id = "blur-" + _.kebabCase(n.name);
               blurFilter[id].attr('stdDeviation', blurValue);
-              if (!blurValue && (categoryIdx !== -1 || !_.isEmpty(diseasesIdxs))) {
-                d3.select("[filter='url(#" + id + ")']").classed("animate", true);
+              if (!blurValue) {
+                if (!_.isEmpty($("[filter='url(#" + id + ")']"))) {
+                  selected.push(n);
+                }
+                d3.select("[filter='url(#" + id + ")']").classed("selected", true);
               }
             });
-            d3.selectAll(".animate").transition().duration(750).attr("r", 16)
-              .transition().duration(750).attr("r", 5);
+            if (categoryIdx !== -1 || !_.isEmpty(diseasesIdxs)) {
+              d3.selectAll(".selected").transition().duration(750).attr("r", 16)
+                .transition().duration(750).attr("r", 5);
+            }
+            scope.selected = {nodes: selected, groups: _(selected).map('group').uniq().value()};
           }
         }
 

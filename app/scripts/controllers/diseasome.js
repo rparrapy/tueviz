@@ -9,18 +9,17 @@
  */
 angular.module('tueVizApp'  )
   .controller('DiseasomeCtrl', function ($scope  , diseasomeFactory ) {
-$scope.$watch('gene', function() {
- var gene = $scope.gene ;
- var data ; 
-diseasomeFactory.getData(gene , draw);	
-   });
+
+   $scope.dataCtrl = function(gene) {
+     var data ; 
+     diseasomeFactory.getData(gene , draw);	
+    };
+   
+   
 });	
 
 
-
-function draw( data ){
-	
-	
+function draw( data ){	
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
  width = 960 - margin.right - margin.left,
  height = 500 - margin.top - margin.bottom;

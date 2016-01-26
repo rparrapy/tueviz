@@ -42,5 +42,20 @@
   },
   "scripts": {
     "test": "grunt test"
-  }
+  },
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rparrapy/tueviz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rparrapy/tueviz/issues"
+  },
+  "homepage": "https://github.com/rparrapy/tueviz#readme",
+  "description": ""
 }

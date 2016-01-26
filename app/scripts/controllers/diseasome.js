@@ -7,22 +7,13 @@
  * # DiseasomeCtrl
  * Controller of the tueVizApp
  */
-angular.module('tueVizApp')
+angular.module('tueVizApp'  )
   .controller('DiseasomeCtrl', function ($scope  , diseasomeFactory ) {
-	  
-	  
-	  
- $("#myTextBox").change( function() {
-   var gene =  $("#myTextBox").val(); 
-  
-  
+$scope.$watch('gene', function() {
+ var gene = $scope.gene ;
  var data ; 
-	
-	diseasomeFactory.getData(gene , draw);
-
-
-});	
-
+diseasomeFactory.getData(gene , draw);	
+   });
 });	
 
 
@@ -41,10 +32,15 @@ var tree = d3.layout.tree()
 
 var diagonal = d3.svg.diagonal()
  .projection(function(d) { return [d.y, d.x]; });
+ //Setting the id attribute when appending the svg element can also 
+ //let d3 select so remove() later on this element by id
+d3.select("#the_SVG_ID").remove();
+
 
 var svg = d3.select("#treeBox").append("svg")
  .attr("width", width + margin.right + margin.left)
  .attr("height", height + margin.top + margin.bottom)
+ .attr("id","the_SVG_ID")  //setting ID
   .append("g")
  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 

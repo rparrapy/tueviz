@@ -19,5 +19,6 @@ angular.module('tueVizApp')
       $scope.data = graph;
       $scope.filter = {};
       $scope.selected = {nodes: graph.nodes, groups: _(graph.nodes).map('group').uniq().value()};
+      $scope.highlighted = {nodes: []};
     });
   });

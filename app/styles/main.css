@@ -262,3 +262,7 @@ svg {
 #disease-graph {
   margin-top: -16px;
 }
+
+text.active {
+  fill: red;
+}

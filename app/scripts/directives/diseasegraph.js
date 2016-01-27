@@ -16,13 +16,55 @@ angular.module('tueVizApp')
         diseases: '=',
         category: '=',
         weight: '=',
-        selected: '='
+        selected: '=',
+        highlighted: '='
       },
       link: function postLink(scope, element, attrs) {
         var minWeight = 1;
         var blurFilter = {};
         var maxNumberOfGenes;
+
+        //temporary patch
+        $('#clear-highlight-btn').click(function() {
+          d3.selectAll('circle').style('stroke', '#FFFFFF').style('stroke-width', 1.5);
+          scope.$apply(function () {
+            scope.highlighted.nodes = [];
+            scope.highlighted.clicked = {};
+          });
+        });
+
+
         var drawGraph = function(graph, minWeight, onEnd) {
+          function onClick() {
+            d3.selectAll('circle').style('stroke', '#FFFFFF').style('stroke-width', 1.5);
+            d3.select(this).style('stroke', 'yellow').style('stroke-width', 3);
+            var clickedIndex = parseInt(d3.select(this).attr('data-index'));
+            var neighbours = _.reduce(graph.links, function (result, l) {
+              if (l.source.index === clickedIndex) { result.push(l.target.index); }
+              if (l.target.index === clickedIndex) { result.push(l.source.index); }
+              return result;
+            }, []);
+            _.each(neighbours, function (n) {
+              d3.select('[data-index="'+ n + '"]').style('stroke', 'yellow').style('stroke-width', 3);
+            });
+
+            var highlightedIdxs = _.concat(neighbours, clickedIndex);
+            var highlightedNames = _(graph.nodes).filter(function (n, idx) {
+                return _.includes(highlightedIdxs, idx);
+            }).map('name').value();
+
+            scope.$apply(function () {
+              scope.highlighted.nodes = _.filter(scope.data.nodes, function (n) {
+                  return _.includes(highlightedNames, n.name);
+              });
+              scope.highlighted.clicked = _.filter(scope.data.nodes, function (n) {
+                return n.name === graph.nodes[clickedIndex].name;
+              })[0];
+              d3.event.stopPropagation();
+              console.log(scope.highlighted);
+            });
+          }
+
           //var graph = scope.data;
           d3.select("svg").remove();
           var width = 800, height = 800;
@@ -60,6 +102,7 @@ angular.module('tueVizApp')
               .links(graph.links)
               .start();
 
+
           var link = svg.selectAll(".link")
               .data(graph.links)
             .enter().append("line")
@@ -68,6 +111,9 @@ angular.module('tueVizApp')
 
           //var area = d3.scale.sqrt().domain([0, maxNumberOfGenes]).range([0, 20]).clamp(true);
           //console.log(area(1));
+
+          var highlightedNames = _.map(scope.highlighted.nodes, 'name');
+
 
           var node = svg.selectAll(".node")
               .data(graph.nodes)
@@ -79,7 +125,15 @@ angular.module('tueVizApp')
               .style("fill", function(d) {
                 return color.range()[d.group];
               })
+              .attr('data-index', function (d) { return d.index; })
               .attr("filter", function(d) { return "url(#blur-" + _.kebabCase(d.name)+ ")"; })
+              .on("click", onClick)
+              .style("stroke", function (d) {
+                return _.includes(highlightedNames, d.name) ? 'yellow' : '#FFFFFF';
+              })
+              .style("stroke-width", function (d) {
+                return _.includes(highlightedNames, d.name) ? 3 : 1.5;
+              })
               .call(force.drag);
 
           node.append("title")
@@ -184,7 +238,7 @@ angular.module('tueVizApp')
         });
 
         function updateGraph(category, diseases) {
-          d3.selectAll("circle").classed("animate", false);
+          d3.selectAll("circle").classed("selected", false);
           var categoryIdx = scope.category || -1;
           var diseasesIdxs = diseases || [];
           var selected = [];

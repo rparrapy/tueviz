@@ -121,7 +121,7 @@ svg.selectAll('rect')
  svg.append("text")
 	  .attr("class", "xlabel")
 	  .attr("text-anchor", "middle")
-	  .attr("x", width / 2 - 20)
+	  .attr("x", width / 2 - 40)
 	  .attr("y", height + 150)
 	  .text("Diseases Categories");
  

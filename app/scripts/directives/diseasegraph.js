@@ -63,6 +63,7 @@ angular.module('tueVizApp')
                 return n.name === graph.nodes[clickedIndex].name;
               })[0];
               d3.event.stopPropagation();
+              scope.gene = false;
               console.log(scope.highlighted);
             });
           }

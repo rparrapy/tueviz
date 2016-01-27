@@ -217,10 +217,10 @@ span.name {
   background-color: #999999;
 }
 
-.node {
+/*.node {
   stroke: #fff;
   stroke-width: 1.5px;
-}
+}*/
 
 .link {
   stroke: #999;
@@ -265,4 +265,25 @@ svg {
 
 text.active {
   fill: red;
+}
+
+#treeBox .node {
+}
+
+#treeBox .node circle {
+   fill: #fff;
+   stroke: steelblue;
+   stroke-width: 3px;
+ }
+
+/*#treeBox .node text { font: 12px sans-serif; }*/
+
+#treeBox .link {
+   fill: none;
+   stroke-opacity: 1;
+   stroke-width: 2px;
+}
+
+rect.cell, #disease-graph circle {
+  cursor: pointer;
 }

@@ -18,13 +18,30 @@
     "selectize": "~0.12.1",
     "select2": "~4.0.1",
     "nouislider": "~8.2.1",
-    "wnumb": "~1.0.2"
+    "wnumb": "~1.0.2",
+    "jquery": "~2.2.0"
   },
   "devDependencies": {
     "angular-mocks": "~1.3.0",
     "angular-scenario": "~1.3.0"
   },
   "appPath": "app",
+  "homepage": "https://github.com/rparrapy/tueviz",
+  "authors": [
+    "Rodrigo Parra <rodpar07@gmail.com>",
+    "Mazen Aly <mazen90@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "resolutions": {
     "angular": "^1.4.8"
   }

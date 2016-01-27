@@ -17,7 +17,8 @@ angular.module('tueVizApp')
         category: '=',
         weight: '=',
         selected: '=',
-        highlighted: '='
+        highlighted: '=',
+        gene: '='
       },
       link: function postLink(scope, element, attrs) {
         var minWeight = 1;
@@ -30,6 +31,7 @@ angular.module('tueVizApp')
           scope.$apply(function () {
             scope.highlighted.nodes = [];
             scope.highlighted.clicked = {};
+            scope.gene = false;
           });
         });
 

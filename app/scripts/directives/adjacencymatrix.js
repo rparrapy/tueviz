@@ -14,7 +14,8 @@ angular.module('tueVizApp')
       scope: {
         diseases: '=',
         category: '=',
-        highlighted: '='
+        highlighted: '=',
+        gene: '='
       },
       link: function postLink(scope, element, attrs) {
         function drawGraph(diseases) {
@@ -145,7 +146,8 @@ angular.module('tueVizApp')
                    return (d.z) ? color[diseases[d.x].group] : 'white';
                  })
                 .on("mouseover", mouseover)
-                .on("mouseout", mouseout);
+                .on("mouseout", mouseout)
+                .on("click", click);
           }
 
           function mouseover(p) {
@@ -155,6 +157,11 @@ angular.module('tueVizApp')
 
           function mouseout() {
             d3.selectAll("text").classed("active", false);
+          }
+
+          function click(p) {
+            console.log('click');
+            scope.$apply(function () { scope.gene = genes[p.y].name; });
           }
 
         };

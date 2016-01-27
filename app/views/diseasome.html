@@ -31,9 +31,10 @@
     <md-whiteframe ng-show="data" class="md-whiteframe-3dp layout-align-center-center layout-row flex-sm-45 flex-gt-sm-35 flex-gt-md-25" flex-sm="45" flex-gt-sm="35" flex-gt-md="25" layout="" layout-align="center center">
       <span>{{selected.nodes.length}} diseases from {{selected.groups.length}} categories</span>
     </md-whiteframe>
-    <disease-graph data="data" category="filter.group" diseases="filter.diseases" weight="weight" selected="selected" highlighted="highlighted"></disease-graph>
+    <disease-graph data="data" category="filter.group" diseases="filter.diseases" weight="weight" selected="selected" highlighted="highlighted" gene="gene"></disease-graph>
   </div>
-  <adjacency-matrix highlighted="highlighted" category="filter.group" diseases="filter.diseases"></adjacency-matrix>
+  <adjacency-matrix highlighted="highlighted" category="filter.group" diseases="filter.diseases" gene="gene"></adjacency-matrix>
+  <tree-dir gene="gene" fetchData="fetchData"></tree-dir>
   <md-progress-circular ng-show="!data" md-diameter="200" md-mode="indeterminate" aria-valuemin="0" aria-valuemax="100" role="progressbar" class="ng-scope" style="margin-top:25%; width: 200px; height: 200px;">
     <div class="md-scale-wrapper md-mode-indeterminate" style="transform: translate(-50%, -50%) scale(0.96);">
       <div class="md-spinner-wrapper">

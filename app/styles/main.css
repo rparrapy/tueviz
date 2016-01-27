@@ -287,3 +287,51 @@ text.active {
 rect.cell, #disease-graph circle {
   cursor: pointer;
 }
+
+	
+	
+	.axis path , .axis line {
+	fill : none;
+	strok: #000;
+	shape-rendering: crispEdges;
+	
+	}
+	
+	
+ .node circle {
+   fill: #fff;
+   stroke: steelblue;
+   stroke-width: 3px;
+ }
+
+ .node text { font: 12px sans-serif; }
+
+ .link {
+   fill: none;
+   stroke: #ccc;
+   stroke-width: 2px;
+ }
+ 
+ 
+ 
+ .xlabel , .ylabel {
+font-weight:  bolder ; 
+ font-size : 22px ; 
+ }
+ 
+     .d3-tip {
+	    width: 400px;
+        line-height: 1;
+        font-weight: bold;
+        padding: 15px;
+        background: steelblue;
+        color: white;
+        border-radius: 2px;
+      }
+	  
+ .rect {fill: rgba(0,0,0,.8) ;
+        shape-rendering: crispEdges;	}  
+	  
+.rect:hover{
+        fill: steelblue ;
+      }

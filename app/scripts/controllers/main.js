@@ -22,6 +22,11 @@ angular.module('tueVizApp')
         fragment: "/diseasome",
         avatar: "images/gene.png"
       },
+	   {
+        name: "Diseases Bar Chart",
+        fragment: "/barchart",
+        avatar: "images/barchart.png"
+      },
       // {
       //   name: "Dummy Viz",
       //   fragment: "/dummy",

@@ -288,16 +288,16 @@ rect.cell, #disease-graph circle {
   cursor: pointer;
 }
 
-	
-	
+
+
 	.axis path , .axis line {
 	fill : none;
 	strok: #000;
 	shape-rendering: crispEdges;
-	
+
 	}
-	
-	
+
+
  .node circle {
    fill: #fff;
    stroke: steelblue;
@@ -311,14 +311,14 @@ rect.cell, #disease-graph circle {
    stroke: #ccc;
    stroke-width: 2px;
  }
- 
- 
- 
+
+
+
  .xlabel , .ylabel {
-font-weight:  bolder ; 
- font-size : 22px ; 
+font-weight:  bolder ;
+ font-size : 22px ;
  }
- 
+
      .d3-tip {
 	    width: 400px;
         line-height: 1;
@@ -328,10 +328,14 @@ font-weight:  bolder ;
         color: white;
         border-radius: 2px;
       }
-	  
+
  .rect {fill: rgba(0,0,0,.8) ;
-        shape-rendering: crispEdges;	}  
-	  
+        shape-rendering: crispEdges;	}
+
 .rect:hover{
         fill: steelblue ;
       }
+
+html{
+  overflow-x: hidden;
+}

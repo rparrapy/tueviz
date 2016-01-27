@@ -39,7 +39,7 @@ angular.module('tueVizApp')
       }
     ];
 
-    $scope.menu.selected = $scope.menu.items[1];
+    $scope.menu.selected = $scope.menu.items[2];
     $scope.menu.selectEntry = function(e) {
       $scope.menu.selected = e;
       $location.path(e.fragment);

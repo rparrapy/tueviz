@@ -90,8 +90,8 @@ svg.selectAll('rect')
 "height": function(d) { return height - yScale(d.genes_no) ;}
 }
 )
-.style("fill"   , function(d,i) { return colorScale[i] ; }) ;
- 
+//.style("fill"   , function(d,i) { return colorScale[i] ; }) ;
+ //.style("fill"   , function(d,i) { return 'rgb(20 ,20 , ' + ((10* i+50) + 100) + ')' ; });	
  // label the bars 
  
  svg.selectAll('text')

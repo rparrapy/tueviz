@@ -324,16 +324,16 @@ font-weight:  bolder ;
         line-height: 1;
         font-weight: bold;
         padding: 15px;
-        background: steelblue;
+        background: rgba(0,0,0,.8) ;
         color: white;
         border-radius: 2px;
       }
 
- .rect {fill: rgba(0,0,0,.8) ;
+ .rect {fill:  steelblue; 
         shape-rendering: crispEdges;	}
 
 .rect:hover{
-        fill: steelblue ;
+        fill: rgba(0,0,0,.8) ;
       }
 
 html{

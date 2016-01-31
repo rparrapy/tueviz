@@ -242,7 +242,7 @@ angular.module('tueVizApp')
 
         function updateGraph(category, diseases) {
           d3.selectAll("circle").classed("selected", false);
-          var categoryIdx = scope.category || -1;
+          var categoryIdx = (scope.category === undefined || scope.category === null || _.isNaN(scope.category)) ? -1 : scope.category;
           var diseasesIdxs = diseases || [];
           var selected = [];
 

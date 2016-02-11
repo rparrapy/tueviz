@@ -20,20 +20,20 @@
    stroke: #ccc;
    stroke-width: 2px;
  }
- 
+
     </style>
 
   </head>
 
   <body>
 
-<!-- load the d3.js library --> 
+<!-- load the d3.js library -->
 <script src="http://d3js.org/d3.v3.min.js"></script>
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.0.0/lodash.js"></script>
      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
 <div  >
- 
+
 <p>Input the gene name in input box:</p>
 <p>Gene : <input type="text" id="myTextBox" placeholder="Enter name here"></p>
 
@@ -42,10 +42,10 @@
 <script>
 
  $("#myTextBox").change( function() {
-   var gene =  $("#myTextBox").val(); 
+   var gene =  $("#myTextBox").val();
    console.log(gene);
-   $.getJSON("http://localhost:9000/genes.json", function(genesData) {
-$.getJSON("http://localhost:9000/diseases.json", function(diseasesData) {
+   $.getJSON("/genes.json", function(genesData) {
+$.getJSON("/diseases.json", function(diseasesData) {
 
  geneDiseases =   _.filter(genesData , { 'gene': gene });
  geneDiseasesIDs =  _.get(geneDiseases[0],'disease_id') ;
@@ -53,30 +53,30 @@ $.getJSON("http://localhost:9000/diseases.json", function(diseasesData) {
  geneDiseasesIDsarr =  geneDiseasesIDsarr.map(function(s) { return s.trim() });
  diseasesObjects = _.filter(  diseasesData , function (d)  {  return geneDiseasesIDsarr.indexOf(d.id.toString()) != -1 }  ) ;
  categories =   _.uniq( _.flatMap(diseasesObjects, function(d) {   return d.class}  ));
-	
+
 var data = [
    {
     "label": gene,
-	 "children": [ 
-     ]	
+	 "children": [
+     ]
   }
 ]
-	for (i = 0; i < categories.length; i++) { 
+	for (i = 0; i < categories.length; i++) {
 			    data[0].children.push({ 'label' : categories[i] , 'children' :[] });
-                        
-             	diseasesNames =  _.compact(_.flatMap( diseasesObjects, function(d) { if (d.class == categories[i])  {return d.disease} } )) ; 
+
+             	diseasesNames =  _.compact(_.flatMap( diseasesObjects, function(d) { if (d.class == categories[i])  {return d.disease} } )) ;
 				console.log(diseasesNames)
-				var aa = _.filter(data[0].children   , { 'label': categories[i] })			
+				var aa = _.filter(data[0].children   , { 'label': categories[i] })
 				for (j = 0 ; j< diseasesNames.length; j++)
-				{	
+				{
 				   var categoryobject = _.filter(data[0].children   , { 'label': categories[i] })
                    categoryobject[0].children.push({ 'label' : diseasesNames[j] , 'children' :[] })
-				
-				}			
+
+				}
          }
-	
-	
-	
+
+
+
 console.log(geneDiseasesIDsarr) ;
 console.log(diseasesObjects) ;
 console.log(categories) ;
@@ -89,7 +89,7 @@ console.log(categories) ;
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
  width = 960 - margin.right - margin.left,
  height = 500 - margin.top - margin.bottom;
- 
+
 var i = 0;
 
 var tree = d3.layout.tree()
@@ -105,7 +105,7 @@ var svg = d3.select("body").append("svg")
  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 root = data[0];
-  
+
 update(root);
 
 function update(source) {
@@ -124,7 +124,7 @@ console.log(nodes)
   // Enter the nodes.
   var nodeEnter = node.enter().append("g")
    .attr("class", "node")
-   .attr("transform", function(d) { 
+   .attr("transform", function(d) {
     return "translate(" + d.y + "," + d.x + ")"; });
 
   nodeEnter.append("circle")
@@ -132,10 +132,10 @@ console.log(nodes)
    .style("fill", "#AAA");
 
   nodeEnter.append("text")
-   .attr("x", function(d) { 
+   .attr("x", function(d) {
     return d.children || d._children ? 15: 15; })
    .attr("dy", "-0.4em")
-   .attr("text-anchor", function(d) { 
+   .attr("text-anchor", function(d) {
     return d.ss || d._children ? "end" : "start"; })
    .text(function(d) { return d.label; })
    .style("fill-opacity", 1)
@@ -153,9 +153,9 @@ console.log(nodes)
 
 }
 
-});	
+});
 
-});	
+});
 
 
 
